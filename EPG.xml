@@ -48807,6 +48807,9 @@
 	<programme channel="newtv超级电影" start="20241223003200 +0800" stop="20241223005800 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241223005800 +0800" stop="20241223023500 +0800">
+		<title lang="zh">拨浪鼓咚咚响</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48825,11 +48828,17 @@
 	<programme channel="newtv精品纪录" start="20241223002000 +0800" stop="20241223004900 +0800">
 		<title lang="zh">09_肝胆病专家 周宁新</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241223004900 +0800" stop="20241223012100 +0800">
+		<title lang="zh">10_骨伤专家 孙树椿</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20241223000200 +0800" stop="20241223005900 +0800">
 		<title lang="zh">01_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20241223005900 +0800" stop="20241223015100 +0800">
+		<title lang="zh">02_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48878,6 +48887,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20241223002300 +0800" stop="20241223005000 +0800">
 		<title lang="zh">长空雄鹰 为国奋飞</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241223005000 +0800" stop="20241223011700 +0800">
+		<title lang="zh">中国航展 重器上新</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
