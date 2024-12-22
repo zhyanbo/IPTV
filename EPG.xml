@@ -73857,6 +73857,9 @@
 	<programme channel="超级电影" start="20241222193300 +0800" stop="20241222205900 +0800">
 		<title lang="zh">电影《神偷谍影》</title>
 	</programme>
+	<programme channel="超级电影" start="20241222205900 +0800" stop="20241222231300 +0800">
+		<title lang="zh">电影《龙与地下城：侠盗荣耀》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85211,6 +85214,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241222193300 +0800" stop="20241222205900 +0800">
 		<title lang="zh">电影《神偷谍影》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241222205900 +0800" stop="20241222231300 +0800">
+		<title lang="zh">电影《龙与地下城：侠盗荣耀》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
