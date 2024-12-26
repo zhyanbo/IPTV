@@ -16977,6 +16977,9 @@
 	<programme channel="咪咕足球" start="20241227024100 +0800" stop="20241227042100 +0800">
 		<title lang="zh">2024NBL总决赛G2 安徽文一-香港金牛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20241227043000 +0800" stop="20241227053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -50421,6 +50424,9 @@
 	<programme channel="newtv超级电视剧" start="20241227034700 +0800" stop="20241227043200 +0800">
 		<title lang="zh">03_天下同心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20241227043200 +0800" stop="20241227051700 +0800">
+		<title lang="zh">04_天下同心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50460,6 +50466,9 @@
 	<programme channel="newtv精品纪录" start="20241227034200 +0800" stop="20241227043600 +0800">
 		<title lang="zh">05_无声的功勋（第二季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20241227043600 +0800" stop="20241227052700 +0800">
+		<title lang="zh">02_以民为本</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50495,6 +50504,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20241227033700 +0800" stop="20241227043000 +0800">
 		<title lang="zh">22_关中义事</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20241227043000 +0800" stop="20241227051500 +0800">
+		<title lang="zh">23_关中义事</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50532,6 +50544,9 @@
 	<programme channel="newtv热播精选" start="20241227035400 +0800" stop="20241227044600 +0800">
 		<title lang="zh">13_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241227044600 +0800" stop="20241227053100 +0800">
+		<title lang="zh">14_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50543,6 +50558,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241227033100 +0800" stop="20241227042100 +0800">
 		<title lang="zh">08_公主小妹</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241227042100 +0800" stop="20241227051100 +0800">
+		<title lang="zh">09_公主小妹</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50576,6 +50594,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241227035800 +0800" stop="20241227043100 +0800">
 		<title lang="zh">奇幻的河流（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241227043100 +0800" stop="20241227062700 +0800">
+		<title lang="zh">评剧《乾坤带》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50630,6 +50651,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241227041400 +0800" stop="20241227043600 +0800">
 		<title lang="zh">“舰”证新时代 逐梦向深蓝</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241227043600 +0800" stop="20241227045800 +0800">
+		<title lang="zh">美军新型武器研发接连遇挫</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50694,6 +50718,9 @@
 	<programme channel="newtv金牌综艺" start="20241227025200 +0800" stop="20241227044600 +0800">
 		<title lang="zh">艺览天下（2024）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20241227044600 +0800" stop="20241227062000 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -50702,6 +50729,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20241227024600 +0800" stop="20241227042200 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第8轮：莱比锡VS弗赖堡</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241227042200 +0800" stop="20241227055700 +0800">
+		<title lang="zh">2024-25赛季西甲联赛第11轮：皇家马德里VS巴塞罗那</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
