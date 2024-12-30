@@ -50511,11 +50511,17 @@
 	<programme channel="黑莓动画" start="20241231015700 +0800" stop="20241231024700 +0800">
 		<title lang="zh">21_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241231024700 +0800" stop="20241231033700 +0800">
+		<title lang="zh">07_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20241231004300 +0800" stop="20241231025300 +0800">
 		<title lang="zh">一代宗师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20241231025300 +0800" stop="20241231042600 +0800">
+		<title lang="zh">勒阿弗尔</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50802,6 +50808,9 @@
 	<programme channel="newtv超级综艺" start="20241231020900 +0800" stop="20241231025600 +0800">
 		<title lang="zh">14_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241231025600 +0800" stop="20241231035600 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50816,6 +50825,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241231013600 +0800" stop="20241231030600 +0800">
 		<title lang="zh">大国手之胜者为王</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241231030600 +0800" stop="20241231043700 +0800">
+		<title lang="zh">大国手之棋行江湖</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50843,6 +50855,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20241231020300 +0800" stop="20241231024700 +0800">
 		<title lang="zh">21_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20241231024700 +0800" stop="20241231033200 +0800">
+		<title lang="zh">22_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50900,6 +50915,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20241231020900 +0800" stop="20241231025500 +0800">
 		<title lang="zh">05_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20241231025500 +0800" stop="20241231034600 +0800">
+		<title lang="zh">06_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51074,6 +51092,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20241231012700 +0800" stop="20241231024600 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20241231024600 +0800" stop="20241231043100 +0800">
+		<title lang="zh">龙形侠影黄澄可</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
