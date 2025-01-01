@@ -49794,6 +49794,9 @@
 	<programme channel="newtv超级综艺" start="20250102030800 +0800" stop="20250102035400 +0800">
 		<title lang="zh">22_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250102035400 +0800" stop="20250102045400 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49857,6 +49860,9 @@
 	<programme channel="newtv精品大剧" start="20250102031400 +0800" stop="20250102035700 +0800">
 		<title lang="zh">33_北国英雄</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250102035700 +0800" stop="20250102044400 +0800">
+		<title lang="zh">24_特别行动</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49913,6 +49919,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250102030500 +0800" stop="20250102035600 +0800">
 		<title lang="zh">33_风声</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250102035600 +0800" stop="20250102044700 +0800">
+		<title lang="zh">34_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49989,6 +49998,9 @@
 	<programme channel="newtv怡伴健康" start="20250102032700 +0800" stop="20250102035400 +0800">
 		<title lang="zh">花园里的奇妙生活（下）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250102035400 +0800" stop="20250102042700 +0800">
+		<title lang="zh">远方的来客——鹦鹉（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50003,6 +50015,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250102030400 +0800" stop="20250102035500 +0800">
 		<title lang="zh">06_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250102035500 +0800" stop="20250102044600 +0800">
+		<title lang="zh">07_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
