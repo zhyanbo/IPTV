@@ -40530,6 +40530,9 @@
 	<programme channel="纯享4K" start="20250103003200 +0800" stop="20250103010000 +0800">
 		<title lang="zh">记住乡愁4K第九季 留坝——秦岭深处 院坝人家</title>
 	</programme>
+	<programme channel="纯享4K" start="20250103010000 +0800" stop="20250103012900 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7五祖拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49989,11 +49992,17 @@
 	<programme channel="newtv超级综艺" start="20250103001600 +0800" stop="20250103010200 +0800">
 		<title lang="zh">25_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250103010200 +0800" stop="20250103014700 +0800">
+		<title lang="zh">26_三十而已</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250103000500 +0800" stop="20250103010500 +0800">
 		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 日本站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250103010500 +0800" stop="20250103023500 +0800">
+		<title lang="zh">实况录像-2024年中国羽毛球公开赛 3</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50010,6 +50019,9 @@
 	<programme channel="newtv超级电视剧" start="20250103000600 +0800" stop="20250103004800 +0800">
 		<title lang="zh">16_幸福有配方</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250103004800 +0800" stop="20250103012900 +0800">
+		<title lang="zh">17_幸福有配方</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50022,6 +50034,9 @@
 	<programme channel="newtv精品纪录" start="20250103002200 +0800" stop="20250103004700 +0800">
 		<title lang="zh">31_杏林春暖 胡仪吉</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250103004700 +0800" stop="20250103011700 +0800">
+		<title lang="zh">01_少年已知愁滋味</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50031,41 +50046,8 @@
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
-	<programme channel="newtv军旅剧场" start="20250103000000 +0800" stop="20250103020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103020000 +0800" stop="20250103040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103060000 +0800" stop="20250103080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103080000 +0800" stop="20250103100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103100600 +0800" stop="20250103120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103120000 +0800" stop="20250103140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103140000 +0800" stop="20250103160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103160000 +0800" stop="20250103180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103180000 +0800" stop="20250103190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103190000 +0800" stop="20250103200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103200000 +0800" stop="20250103220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv军旅剧场" start="20250103220000 +0800" stop="20250103235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv军旅剧场" start="20250103004800 +0800" stop="20250103013900 +0800">
+		<title lang="zh">35_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50111,6 +50093,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250103002800 +0800" stop="20250103005500 +0800">
 		<title lang="zh">护林利器</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250103005500 +0800" stop="20250103012100 +0800">
+		<title lang="zh">抗震尖兵（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
