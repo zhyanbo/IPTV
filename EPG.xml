@@ -42909,6 +42909,9 @@
 	<programme channel="newtv超级电视剧" start="20250104001500 +0800" stop="20250104005700 +0800">
 		<title lang="zh">21_幸福有配方</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250104005700 +0800" stop="20250104013900 +0800">
+		<title lang="zh">22_幸福有配方</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -42942,6 +42945,9 @@
 	<programme channel="newtv家庭剧场" start="20250104000900 +0800" stop="20250104005400 +0800">
 		<title lang="zh">19_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250104005400 +0800" stop="20250104014000 +0800">
+		<title lang="zh">20_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -42957,41 +42963,8 @@
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
-	<programme channel="newtv动作电影" start="20250104000000 +0800" stop="20250104020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104020000 +0800" stop="20250104040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104060000 +0800" stop="20250104080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104080000 +0800" stop="20250104100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104100600 +0800" stop="20250104120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104120000 +0800" stop="20250104140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104140000 +0800" stop="20250104160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104160000 +0800" stop="20250104180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104180000 +0800" stop="20250104190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104190000 +0800" stop="20250104200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104200000 +0800" stop="20250104220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv动作电影" start="20250104220000 +0800" stop="20250104235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv动作电影" start="20250104004600 +0800" stop="20250104021100 +0800">
+		<title lang="zh">钟馗降魔</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -43013,6 +42986,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250104002600 +0800" stop="20250104005300 +0800">
 		<title lang="zh">利刃突击</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250104005300 +0800" stop="20250104012000 +0800">
+		<title lang="zh">火力支援</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
