@@ -39012,6 +39012,9 @@
 	<programme channel="纯享4K" start="20250107021300 +0800" stop="20250107024200 +0800">
 		<title lang="zh">味道4K 原味乡间b7舒城篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250107024700 +0800" stop="20250107031700 +0800">
+		<title lang="zh">寻古中国4K 玉石记b7古玉之谜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47964,11 +47967,17 @@
 	<programme channel="黑莓动画" start="20250107014300 +0800" stop="20250107023200 +0800">
 		<title lang="zh">21_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250107023200 +0800" stop="20250107032200 +0800">
+		<title lang="zh">07_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250107005000 +0800" stop="20250107024800 +0800">
 		<title lang="zh">盲女凶杀案</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250107024800 +0800" stop="20250107044600 +0800">
+		<title lang="zh">佣兵传奇</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -48255,6 +48264,9 @@
 	<programme channel="newtv超级综艺" start="20250107021100 +0800" stop="20250107025800 +0800">
 		<title lang="zh">43_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250107025800 +0800" stop="20250107041500 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48300,6 +48312,9 @@
 	<programme channel="newtv精品大剧" start="20250107014500 +0800" stop="20250107023200 +0800">
 		<title lang="zh">08_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250107023200 +0800" stop="20250107031800 +0800">
+		<title lang="zh">09_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48314,6 +48329,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250107020500 +0800" stop="20250107024200 +0800">
 		<title lang="zh">04_炎蒸三伏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250107024200 +0800" stop="20250107033200 +0800">
+		<title lang="zh">第二集 转型之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48354,6 +48372,9 @@
 	<programme channel="newtv家庭剧场" start="20250107014800 +0800" stop="20250107023400 +0800">
 		<title lang="zh">33_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250107023400 +0800" stop="20250107032000 +0800">
+		<title lang="zh">34_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48393,6 +48414,9 @@
 	<programme channel="newtv怡伴健康" start="20250107020200 +0800" stop="20250107024800 +0800">
 		<title lang="zh">09_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250107024800 +0800" stop="20250107033400 +0800">
+		<title lang="zh">10_我的爱对你说</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48426,6 +48450,9 @@
 	<programme channel="newtv军事评论" start="20250107020800 +0800" stop="20250107023500 +0800">
 		<title lang="zh">铁甲探奇 走进法国索缪尔战车博物馆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250107023500 +0800" stop="20250107030100 +0800">
+		<title lang="zh">春节特别节目 舰艇探奇 走进澳大利亚悉尼国家海事博物馆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48434,6 +48461,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250107012200 +0800" stop="20250107023900 +0800">
 		<title lang="zh">《红楼梦》人物服饰首现星光舞台 朱迅摇身一变成“黛玉”（20250104）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250107025600 +0800" stop="20250107031500 +0800">
+		<title lang="zh">全是爱—毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48467,6 +48497,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20250107005900 +0800" stop="20250107024000 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第9轮：阿拉维斯VS巴塞罗那</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250107024000 +0800" stop="20250107042500 +0800">
+		<title lang="zh">2024-25赛季英超联赛第8轮：曼联VS布伦特福德</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
