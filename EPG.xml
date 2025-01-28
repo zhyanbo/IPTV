@@ -15771,6 +15771,9 @@
 	<programme channel="咪咕综合体育" start="20250129011500 +0800" stop="20250129025500 +0800">
 		<title lang="zh">足球世界-24/25赛季意甲 第21轮 尤文图斯-AC米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250129030000 +0800" stop="20250129052000 +0800">
+		<title lang="zh">足球世界-24/25赛季足总杯 第3轮 阿森纳-曼联</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46473,6 +46476,9 @@
 	<programme channel="newtv古装剧场" start="20250129021100 +0800" stop="20250129025400 +0800">
 		<title lang="zh">15_大舜</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250129025400 +0800" stop="20250129033800 +0800">
+		<title lang="zh">16_大舜</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -46511,6 +46517,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250129020400 +0800" stop="20250129025200 +0800">
 		<title lang="zh">20_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250129025200 +0800" stop="20250129033700 +0800">
+		<title lang="zh">21_欢乐颂4</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -46557,6 +46566,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250129020100 +0800" stop="20250129025100 +0800">
 		<title lang="zh">03_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250129025100 +0800" stop="20250129034000 +0800">
+		<title lang="zh">04_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -46592,6 +46604,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250129013500 +0800" stop="20250129030000 +0800">
 		<title lang="zh">纪敏佳助阵！张梦羽圆梦《星光大道》总决赛（20250125）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250129030000 +0800" stop="20250129031100 +0800">
+		<title lang="zh">套马杆-乌兰图雅</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -46679,6 +46694,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250129014200 +0800" stop="20250129025500 +0800">
 		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250129025500 +0800" stop="20250129042500 +0800">
+		<title lang="zh">南宋猎人之匹马中原</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
