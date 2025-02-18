@@ -47376,6 +47376,9 @@
 	<programme channel="黑莓动画" start="20250219040800 +0800" stop="20250219045300 +0800">
 		<title lang="zh">17_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250219045300 +0800" stop="20250219054200 +0800">
+		<title lang="zh">11_葬送的芙莉莲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47730,6 +47733,9 @@
 	<programme channel="newtv超级电视剧" start="20250219041200 +0800" stop="20250219045700 +0800">
 		<title lang="zh">22_铁血武工队传奇</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250219045700 +0800" stop="20250219054200 +0800">
+		<title lang="zh">23_铁血武工队传奇</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47955,6 +47961,9 @@
 	<programme channel="newtv军事评论" start="20250219043100 +0800" stop="20250219045800 +0800">
 		<title lang="zh">春节特别节目 舰艇探奇 走进澳大利亚悉尼国家海事博物馆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250219045800 +0800" stop="20250219052500 +0800">
+		<title lang="zh">低空火力倾泻者</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48002,6 +48011,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250219033300 +0800" stop="20250219045400 +0800">
 		<title lang="zh">碟仙诡谭2</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250219045400 +0800" stop="20250219061900 +0800">
+		<title lang="zh">不要回头</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -48077,6 +48089,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250219031000 +0800" stop="20250219044900 +0800">
 		<title lang="zh">津门奇案之元凶</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250219044900 +0800" stop="20250219055200 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
