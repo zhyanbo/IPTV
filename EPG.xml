@@ -16497,6 +16497,9 @@
 	<programme channel="咪咕综合体育" start="20250222004600 +0800" stop="20250222010000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250222010000 +0800" stop="20250222024000 +0800">
+		<title lang="zh">足球世界-24/25赛季英超 第24轮 阿森纳-曼城</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47145,11 +47148,17 @@
 	<programme channel="newtv精品纪录" start="20250222002500 +0800" stop="20250222005100 +0800">
 		<title lang="zh">02_心脏刀锋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250222005100 +0800" stop="20250222011800 +0800">
+		<title lang="zh">05_坚持，再坚持一下</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250222001000 +0800" stop="20250222005900 +0800">
 		<title lang="zh">38_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250222005900 +0800" stop="20250222014700 +0800">
+		<title lang="zh">39_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47162,6 +47171,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250222000400 +0800" stop="20250222004800 +0800">
 		<title lang="zh">42_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250222004800 +0800" stop="20250222013400 +0800">
+		<title lang="zh">43_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47196,11 +47208,17 @@
 	<programme channel="newtv潮妈辣婆" start="20250222000300 +0800" stop="20250222005000 +0800">
 		<title lang="zh">15_长歌行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250222005000 +0800" stop="20250222013900 +0800">
+		<title lang="zh">16_长歌行</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20250222000000 +0800" stop="20250222005200 +0800">
 		<title lang="zh">血与火：第一次世界大战启示录 ② 最惨烈的战场</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250222005200 +0800" stop="20250222014200 +0800">
+		<title lang="zh">血与火：第一次世界大战启示录 ③ 东线风雷</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
