@@ -17013,11 +17013,20 @@
 	<programme channel="咪咕综合体育" start="20250228010000 +0800" stop="20250228011800 +0800">
 		<title lang="zh">中国榜样冰雪季-对话李坚柔</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250228012000 +0800" stop="20250228014500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250228014500 +0800" stop="20250228032500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第24轮 马德里竞技-塞尔塔</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250228000100 +0800" stop="20250228012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250228012600 +0800" stop="20250228022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41211,6 +41220,9 @@
 	<programme channel="纯享4K" start="20250228005300 +0800" stop="20250228012100 +0800">
 		<title lang="zh">记住乡愁4K第八季 半月里村——百年畲寨 家园相守</title>
 	</programme>
+	<programme channel="纯享4K" start="20250228012100 +0800" stop="20250228015100 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（1）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50568,11 +50580,17 @@
 	<programme channel="newtv超级电视剧" start="20250228010100 +0800" stop="20250228014100 +0800">
 		<title lang="zh">02_证词</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250228014100 +0800" stop="20250228022000 +0800">
+		<title lang="zh">03_证词</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250228002200 +0800" stop="20250228010900 +0800">
 		<title lang="zh">27_危机迷雾</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250228010900 +0800" stop="20250228015600 +0800">
+		<title lang="zh">28_危机迷雾</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50583,11 +50601,17 @@
 	<programme channel="newtv精品纪录" start="20250228004100 +0800" stop="20250228010700 +0800">
 		<title lang="zh">第四集 非常诊断</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250228010700 +0800" stop="20250228015900 +0800">
+		<title lang="zh">第五集 打开心脏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250228002500 +0800" stop="20250228010900 +0800">
 		<title lang="zh">12_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250228010900 +0800" stop="20250228015100 +0800">
+		<title lang="zh">13_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -50600,6 +50624,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250228002600 +0800" stop="20250228011200 +0800">
 		<title lang="zh">66_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250228011200 +0800" stop="20250228020200 +0800">
+		<title lang="zh">67_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
