@@ -33387,6 +33387,9 @@
 	<programme channel="纯享4K" start="20250306002700 +0800" stop="20250306005500 +0800">
 		<title lang="zh">记住乡愁4K 第八季 安阳——革故鼎新 自强不息</title>
 	</programme>
+	<programme channel="纯享4K" start="20250306005500 +0800" stop="20250306012300 +0800">
+		<title lang="zh">记住乡愁4K 第八季 理塘——天空之城 同舟共济</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -40602,6 +40605,9 @@
 	<programme channel="newtv超级体育" start="20250306001500 +0800" stop="20250306010500 +0800">
 		<title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250306010500 +0800" stop="20250306023500 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40674,6 +40680,9 @@
 	<programme channel="newtv怡伴健康" start="20250306000900 +0800" stop="20250306005700 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250306005700 +0800" stop="20250306015300 +0800">
+		<title lang="zh">32_红高粱</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -40710,41 +40719,8 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
-	<programme channel="newtv金牌综艺" start="20250306000000 +0800" stop="20250306020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306020000 +0800" stop="20250306040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306060000 +0800" stop="20250306080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306080000 +0800" stop="20250306100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306100600 +0800" stop="20250306120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306120000 +0800" stop="20250306140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306140000 +0800" stop="20250306160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306160000 +0800" stop="20250306180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306180000 +0800" stop="20250306190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306190000 +0800" stop="20250306200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306200000 +0800" stop="20250306220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv金牌综艺" start="20250306220000 +0800" stop="20250306235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv金牌综艺" start="20250306010000 +0800" stop="20250306040100 +0800">
+		<title lang="zh">开门大吉（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
