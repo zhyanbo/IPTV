@@ -15051,6 +15051,12 @@
 	<programme channel="咪咕综合体育" start="20250313024500 +0800" stop="20250313025000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250313025000 +0800" stop="20250313031500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250313031500 +0800" stop="20250313045500 +0800">
+		<title lang="zh">足球世界-24/25足总杯 1/8决赛 曼城-普利茅斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -34911,6 +34917,9 @@
 	<programme channel="纯享4K" start="20250313024400 +0800" stop="20250313031400 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
 	</programme>
+	<programme channel="纯享4K" start="20250313031400 +0800" stop="20250313032900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 彩绘驯马陶俑</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43032,6 +43041,9 @@
 	<programme channel="newtv超级综艺" start="20250313015300 +0800" stop="20250313030800 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250313030800 +0800" stop="20250313042500 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43065,6 +43077,9 @@
 	<programme channel="newtv超级电视剧" start="20250313021500 +0800" stop="20250313030000 +0800">
 		<title lang="zh">08_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250313030000 +0800" stop="20250313034600 +0800">
+		<title lang="zh">09_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -43073,6 +43088,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250313014800 +0800" stop="20250313025300 +0800">
 		<title lang="zh">19_女人的抗战</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250313025300 +0800" stop="20250313035800 +0800">
+		<title lang="zh">20_女人的抗战</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -43101,6 +43119,9 @@
 	<programme channel="newtv古装剧场" start="20250313020800 +0800" stop="20250313031200 +0800">
 		<title lang="zh">36_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250313031200 +0800" stop="20250313041500 +0800">
+		<title lang="zh">37_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -43125,6 +43146,9 @@
 	<programme channel="newtv家庭剧场" start="20250313022500 +0800" stop="20250313031200 +0800">
 		<title lang="zh">07_小日子</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250313031200 +0800" stop="20250313041900 +0800">
+		<title lang="zh">08_小日子</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -43133,6 +43157,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250313015200 +0800" stop="20250313025800 +0800">
 		<title lang="zh">06_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250313025800 +0800" stop="20250313034300 +0800">
+		<title lang="zh">07_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -43194,6 +43221,9 @@
 	<programme channel="newtv军事评论" start="20250313020000 +0800" stop="20250313025300 +0800">
 		<title lang="zh">红军传人心向党 国防知识挑战赛走进新疆军区某红军师</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250313025300 +0800" stop="20250313034500 +0800">
+		<title lang="zh">南粤精兵铸利刃 走进武警第二机动队总队某支队</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -43205,6 +43235,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250313023000 +0800" stop="20250313024800 +0800">
 		<title lang="zh">春三月-李莹</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250313024800 +0800" stop="20250313030200 +0800">
+		<title lang="zh">繁花-李莹</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250313031300 +0800" stop="20250313043000 +0800">
+		<title lang="zh">“跑酷”男孩飞檐走壁惊呆众人 现场挑战空翻过七人（20250131）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
