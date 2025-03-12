@@ -27138,6 +27138,9 @@
 	<programme channel="咪咕足球" start="20250312184000 +0800" stop="20250312190000 +0800">
 		<title lang="zh">中国榜样-郑薇</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250312190000 +0800" stop="20250312191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -80028,6 +80031,9 @@
 	<programme channel="newtv超级体育" start="20250312180000 +0800" stop="20250312190000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250312190000 +0800" stop="20250312193000 +0800">
+		<title lang="zh">赛事集锦-2024/2025英格兰足球超级联赛第28轮集锦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -80301,6 +80307,9 @@
 	<programme channel="newtv精品纪录" start="20250312180500 +0800" stop="20250312185400 +0800">
 		<title lang="zh">02_东渡</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250312185400 +0800" stop="20250312194300 +0800">
+		<title lang="zh">01_到法国去</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80370,6 +80379,9 @@
 	<programme channel="newtv古装剧场" start="20250312180900 +0800" stop="20250312185600 +0800">
 		<title lang="zh">08_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250312185600 +0800" stop="20250312192600 +0800">
+		<title lang="zh">《健康之门》推荐第二期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80432,6 +80444,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250312180500 +0800" stop="20250312185000 +0800">
 		<title lang="zh">02_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250312185000 +0800" stop="20250312193500 +0800">
+		<title lang="zh">03_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80940,6 +80955,9 @@
 	<programme channel="newtv军事评论" start="20250312182800 +0800" stop="20250312185000 +0800">
 		<title lang="zh">军博里的秘密武器（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250312185000 +0800" stop="20250312191200 +0800">
+		<title lang="zh">军博里的秘密武器（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81320,6 +81338,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250312181900 +0800" stop="20250312184900 +0800">
 		<title lang="zh">《健康之门》推荐第二期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250312184900 +0800" stop="20250312193500 +0800">
+		<title lang="zh">35_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
