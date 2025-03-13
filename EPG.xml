@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20250314000000 +0800" stop="20250314004800 +0800">
 		<title lang="zh">奇兵神犬20171124</title>
 	</programme>
+	<programme channel="4K综艺" start="20250314004800 +0800" stop="20250314021900 +0800">
+		<title lang="zh">我最爱的女人们20190628</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -35700,6 +35703,9 @@
 	<programme channel="纯享4K" start="20250314004200 +0800" stop="20250314011000 +0800">
 		<title lang="zh">记住乡愁 第八季4K 汉口村——一缕香缘 流转千年</title>
 	</programme>
+	<programme channel="纯享4K" start="20250314011000 +0800" stop="20250314013900 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（1）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43869,11 +43875,17 @@
 	<programme channel="newtv超级综艺" start="20250314001900 +0800" stop="20250314010600 +0800">
 		<title lang="zh">15_舍不得星星</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250314010600 +0800" stop="20250314015200 +0800">
+		<title lang="zh">16_舍不得星星</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250314002000 +0800" stop="20250314010500 +0800">
 		<title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 意大利站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250314010500 +0800" stop="20250314023500 +0800">
+		<title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 双人自由滑</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -43886,6 +43898,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250314001100 +0800" stop="20250314005800 +0800">
 		<title lang="zh">11_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250314005800 +0800" stop="20250314014400 +0800">
+		<title lang="zh">12_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43941,6 +43956,9 @@
 	<programme channel="newtv怡伴健康" start="20250314002700 +0800" stop="20250314011000 +0800">
 		<title lang="zh">56_红高粱</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250314011000 +0800" stop="20250314015200 +0800">
+		<title lang="zh">57_红高粱</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -43952,6 +43970,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20250314000500 +0800" stop="20250314005700 +0800">
 		<title lang="zh">双拥花开春满园 国防知识挑战赛走进山东曲阜</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250314005700 +0800" stop="20250314014900 +0800">
+		<title lang="zh">《谁是终极英雄》春节特别策划 双拥花开春满园</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -43970,6 +43991,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250314000500 +0800" stop="20250314005300 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250314005300 +0800" stop="20250314022800 +0800">
+		<title lang="zh">第一滴血2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
