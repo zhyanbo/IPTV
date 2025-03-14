@@ -72,6 +72,9 @@
 	<programme channel="4K综艺" start="20250315041300 +0800" stop="20250315044300 +0800">
 		<title lang="zh">重返地球20180323</title>
 	</programme>
+	<programme channel="4K综艺" start="20250315044300 +0800" stop="20250315052200 +0800">
+		<title lang="zh">重返地球20180330</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -15050,6 +15053,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250315042100 +0800" stop="20250315043000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250315043000 +0800" stop="20250315053000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -35175,6 +35181,9 @@
 	<programme channel="纯享4K" start="20250315035600 +0800" stop="20250315043700 +0800">
 		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20250315044300 +0800" stop="20250315044800 +0800">
+		<title lang="zh">美丽中国自然4K 青海山地系列 冲突中的和谐</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43332,6 +43341,9 @@
 	<programme channel="黑莓动画" start="20250315034000 +0800" stop="20250315043000 +0800">
 		<title lang="zh">47_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250315043000 +0800" stop="20250315052100 +0800">
+		<title lang="zh">08_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43632,6 +43644,9 @@
 	<programme channel="newtv超级综艺" start="20250315030900 +0800" stop="20250315042600 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250315042600 +0800" stop="20250315052400 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43713,6 +43728,9 @@
 	<programme channel="newtv精品纪录" start="20250315034700 +0800" stop="20250315043700 +0800">
 		<title lang="zh">第一集 往事千年</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250315043700 +0800" stop="20250315052700 +0800">
+		<title lang="zh">第二集 中国探月</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -43727,6 +43745,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250315031500 +0800" stop="20250315041900 +0800">
 		<title lang="zh">05_九流霸主</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250315041900 +0800" stop="20250315052000 +0800">
+		<title lang="zh">30_天行健</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -43743,6 +43764,9 @@
 	<programme channel="newtv军旅剧场" start="20250315033700 +0800" stop="20250315044300 +0800">
 		<title lang="zh">25_大汉口</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250315044300 +0800" stop="20250315052900 +0800">
+		<title lang="zh">09_伏击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -43757,6 +43781,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250315032400 +0800" stop="20250315043000 +0800">
 		<title lang="zh">16_小日子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250315043000 +0800" stop="20250315051400 +0800">
+		<title lang="zh">27_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -43815,6 +43842,9 @@
 	<programme channel="newtv怡伴健康" start="20250315033300 +0800" stop="20250315042100 +0800">
 		<title lang="zh">动物生存策略b7群体合作</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250315042100 +0800" stop="20250315052900 +0800">
+		<title lang="zh">动物生存策略b7智慧掠食者</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -43847,6 +43877,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250315035100 +0800" stop="20250315044300 +0800">
 		<title lang="zh">博物馆里话海军 海军知识挑战赛b7人民海军成立75周年特别策划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250315044300 +0800" stop="20250315050900 +0800">
+		<title lang="zh">驻守在西北第一哨 共爱一个家</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -43884,6 +43917,9 @@
 	<programme channel="newtv精品综合" start="20250315032500 +0800" stop="20250315043000 +0800">
 		<title lang="zh">28_光荣时代</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250315043000 +0800" stop="20250315053600 +0800">
+		<title lang="zh">29_光荣时代</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -43892,6 +43928,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250315021600 +0800" stop="20250315041700 +0800">
 		<title lang="zh">终结者：创世纪（英语版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250315041700 +0800" stop="20250315054300 +0800">
+		<title lang="zh">猫妖奇谭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -43961,6 +44000,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250315023400 +0800" stop="20250315042600 +0800">
 		<title lang="zh">绝世古镇之九宫八卦门</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250315042600 +0800" stop="20250315054600 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
