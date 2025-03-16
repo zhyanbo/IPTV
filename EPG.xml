@@ -14208,6 +14208,12 @@
 	<programme channel="咪咕足球" start="20250317012600 +0800" stop="20250317022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250317022600 +0800" stop="20250317024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250317024100 +0800" stop="20250317042100 +0800">
+		<title lang="zh">2024NBL 河南赊店老酒-江西赣弛</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -33606,6 +33612,9 @@
 	<programme channel="纯享4K" start="20250317020200 +0800" stop="20250317023100 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7五祖拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20250317023100 +0800" stop="20250317030000 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7白鹤拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40245,6 +40254,9 @@
 	<programme channel="黑莓动画" start="20250317011800 +0800" stop="20250317024500 +0800">
 		<title lang="zh">潜艇总动员：寻龙</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250317024500 +0800" stop="20250317031500 +0800">
+		<title lang="zh">37_西行纪</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40449,6 +40461,9 @@
 	<programme channel="newtv超级体育" start="20250317013000 +0800" stop="20250317023900 +0800">
 		<title lang="zh">实况录像-2024/2025赛季单板滑雪世界杯 美国阿斯彭站 U型场地</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250317023900 +0800" stop="20250317040000 +0800">
+		<title lang="zh">2025年澳大利亚网球公开赛-女单决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40470,6 +40485,9 @@
 	<programme channel="newtv超级电视剧" start="20250317014500 +0800" stop="20250317022800 +0800">
 		<title lang="zh">28_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250317022800 +0800" stop="20250317031400 +0800">
+		<title lang="zh">29_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40490,6 +40508,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250317012500 +0800" stop="20250317023000 +0800">
 		<title lang="zh">第4集：安b7危</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250317023000 +0800" stop="20250317034000 +0800">
+		<title lang="zh">第一集 构筑基石</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -40524,11 +40545,17 @@
 	<programme channel="newtv家庭剧场" start="20250317011100 +0800" stop="20250317021800 +0800">
 		<title lang="zh">22_小日子</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250317021800 +0800" stop="20250317030400 +0800">
+		<title lang="zh">23_小日子</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20250317005600 +0800" stop="20250317021800 +0800">
 		<title lang="zh">伏魔罗汉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250317021800 +0800" stop="20250317032400 +0800">
+		<title lang="zh">25_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -40560,6 +40587,9 @@
 	<programme channel="newtv怡伴健康" start="20250317013700 +0800" stop="20250317022300 +0800">
 		<title lang="zh">06_绝地枪王2（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250317022300 +0800" stop="20250317032800 +0800">
+		<title lang="zh">07_绝地枪王2（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -40568,6 +40598,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250317013000 +0800" stop="20250317023500 +0800">
 		<title lang="zh">05_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250317023500 +0800" stop="20250317034000 +0800">
+		<title lang="zh">06_大嫁风尚</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -40590,6 +40623,9 @@
 	<programme channel="newtv炫舞未来" start="20250317013500 +0800" stop="20250317023600 +0800">
 		<title lang="zh">第14集：许知远对话安藤忠雄 . 建筑界的“野武士”</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250317023600 +0800" stop="20250317025000 +0800">
+		<title lang="zh">饿狼传说-毕刚（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40601,6 +40637,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250317013900 +0800" stop="20250317022600 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250317022600 +0800" stop="20250317033900 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
