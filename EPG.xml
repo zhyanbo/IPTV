@@ -33615,6 +33615,9 @@
 	<programme channel="纯享4K" start="20250317023100 +0800" stop="20250317030000 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7白鹤拳</title>
 	</programme>
+	<programme channel="纯享4K" start="20250317030000 +0800" stop="20250317031500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 狩猎纹金方奇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40536,6 +40539,9 @@
 	<programme channel="newtv军旅剧场" start="20250317014900 +0800" stop="20250317025500 +0800">
 		<title lang="zh">31_大汉口</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250317025500 +0800" stop="20250317040100 +0800">
+		<title lang="zh">32_大汉口</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -40614,6 +40620,9 @@
 	<programme channel="newtv军事评论" start="20250317020400 +0800" stop="20250317025700 +0800">
 		<title lang="zh">博物馆里话海军 海军知识挑战赛b7人民海军成立75周年特别策划</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250317025700 +0800" stop="20250317034900 +0800">
+		<title lang="zh">东胜之光暖北疆 国防知识挑战赛走进东胜</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -40626,11 +40635,17 @@
 	<programme channel="newtv炫舞未来" start="20250317023600 +0800" stop="20250317025000 +0800">
 		<title lang="zh">饿狼传说-毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250317025000 +0800" stop="20250317030600 +0800">
+		<title lang="zh">笑纳-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250317010200 +0800" stop="20250317025000 +0800">
 		<title lang="zh">九十二任务</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250317025000 +0800" stop="20250317042800 +0800">
+		<title lang="zh">大伙之家</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
