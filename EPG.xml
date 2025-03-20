@@ -20835,6 +20835,9 @@
 	<programme channel="动作电影" start="20250320125300 +0800" stop="20250320135300 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
+	<programme channel="动作电影" start="20250320135300 +0800" stop="20250320153400 +0800">
+		<title lang="zh">怒火追凶</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27998,6 +28001,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250320133500 +0800" stop="20250320140000 +0800">
 		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250320140000 +0800" stop="20250320164800 +0800">
+		<title lang="zh">2024-2025 X GAMES CHINA 滑雪锦标赛 第一比赛日 单板预赛</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -78756,6 +78762,9 @@
 	<programme channel="黑莓动画" start="20250320132000 +0800" stop="20250320135400 +0800">
 		<title lang="zh">11_嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250320135400 +0800" stop="20250320142000 +0800">
+		<title lang="zh">08_熊出没之小小世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79785,6 +79794,9 @@
 	<programme channel="newtv超级电视剧" start="20250320130900 +0800" stop="20250320135400 +0800">
 		<title lang="zh">03_林深见鹿</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250320135400 +0800" stop="20250320143900 +0800">
+		<title lang="zh">04_林深见鹿</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80037,6 +80049,9 @@
 	<programme channel="newtv家庭剧场" start="20250320131500 +0800" stop="20250320140000 +0800">
 		<title lang="zh">32_烟火人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250320140000 +0800" stop="20250320145500 +0800">
+		<title lang="zh">33_烟火人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80153,6 +80168,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250320125300 +0800" stop="20250320135300 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250320135300 +0800" stop="20250320153400 +0800">
+		<title lang="zh">怒火追凶</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -80507,6 +80525,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250320130200 +0800" stop="20250320140200 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250320140200 +0800" stop="20250320145200 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250320130200 +0800" stop="20250320140200 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250320140200 +0800" stop="20250320145200 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
