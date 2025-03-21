@@ -15561,6 +15561,9 @@
 	<programme channel="咪咕足球" start="20250322012100 +0800" stop="20250322012600 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250322012600 +0800" stop="20250322022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -33924,6 +33927,9 @@
 	<programme channel="纯享4K" start="20250322010300 +0800" stop="20250322013300 +0800">
 		<title lang="zh">味道4K 原味乡间b7定南篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250322013300 +0800" stop="20250322020200 +0800">
+		<title lang="zh">味道4K 原味乡间b7定南篇（下）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -41118,11 +41124,17 @@
 	<programme channel="newtv超级电视剧" start="20250322010300 +0800" stop="20250322014600 +0800">
 		<title lang="zh">52_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250322015100 +0800" stop="20250322023600 +0800">
+		<title lang="zh">53_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250322002800 +0800" stop="20250322013300 +0800">
 		<title lang="zh">14_天涯浴血</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250322013300 +0800" stop="20250322023800 +0800">
+		<title lang="zh">15_天涯浴血</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -41139,6 +41151,9 @@
 	<programme channel="newtv古装剧场" start="20250322003800 +0800" stop="20250322014200 +0800">
 		<title lang="zh">30_九流霸主</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250322014200 +0800" stop="20250322024600 +0800">
+		<title lang="zh">31_九流霸主</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -41153,6 +41168,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250322003800 +0800" stop="20250322012300 +0800">
 		<title lang="zh">15_好事成双</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250322012300 +0800" stop="20250322021900 +0800">
+		<title lang="zh">16_好事成双</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -41181,6 +41199,9 @@
 	<programme channel="newtv怡伴健康" start="20250322005300 +0800" stop="20250322013800 +0800">
 		<title lang="zh">20_绝地枪王2（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250322013800 +0800" stop="20250322022500 +0800">
+		<title lang="zh">21_绝地枪王2（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -41204,6 +41225,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250322000500 +0800" stop="20250322013900 +0800">
 		<title lang="zh">撒贝宁和大家一起识读《备急千金要方》 看孙思邈如何用一生践行“大医精诚”之道！（20230409）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250322013900 +0800" stop="20250322024800 +0800">
+		<title lang="zh">第6集：许知远对话徐京坤 | 世界上航行最远的独臂船长</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -41276,6 +41300,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250322001200 +0800" stop="20250322014400 +0800">
 		<title lang="zh">兰若行者</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250322014400 +0800" stop="20250322033000 +0800">
+		<title lang="zh">伏虎武松</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
