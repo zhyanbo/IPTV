@@ -15459,6 +15459,12 @@
 	<programme channel="咪咕足球" start="20250323024100 +0800" stop="20250323042100 +0800">
 		<title lang="zh">2024NBL总决赛G3 香港金牛-安徽文一</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250323042100 +0800" stop="20250323043000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250323043000 +0800" stop="20250323053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -40590,6 +40596,9 @@
 	<programme channel="newtv超级综艺" start="20250323032400 +0800" stop="20250323044100 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250323044100 +0800" stop="20250323055800 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40703,6 +40712,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250323032500 +0800" stop="20250323041900 +0800">
 		<title lang="zh">27_香草美人</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250323041900 +0800" stop="20250323051400 +0800">
+		<title lang="zh">28_香草美人</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -40835,6 +40847,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250323041200 +0800" stop="20250323043800 +0800">
 		<title lang="zh">智战 智造铁马骋未来</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250323043800 +0800" stop="20250323050400 +0800">
+		<title lang="zh">元旦我们在战位</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
