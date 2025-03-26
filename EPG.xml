@@ -28020,6 +28020,9 @@
 	<programme channel="咪咕综合体育" start="20250326221000 +0800" stop="20250326223500 +0800">
 		<title lang="zh">中超精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250326223500 +0800" stop="20250326000000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第26轮 斯图加特-勒沃库森</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39288,6 +39291,9 @@
 	<programme channel="惊悚悬疑" start="20250326202900 +0800" stop="20250326223500 +0800">
 		<title lang="zh">碟中谍III</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250326223500 +0800" stop="20250326000800 +0800">
+		<title lang="zh">扑朔迷离</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42410,6 +42416,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250326213500 +0800" stop="20250326222300 +0800">
 		<title lang="zh">30_爱的二八定律</title>
+	</programme>
+	<programme channel="明星大片" start="20250326222300 +0800" stop="20250326231000 +0800">
+		<title lang="zh">31_爱的二八定律</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -69966,6 +69975,9 @@
 	<programme channel="超级电影" start="20250326211600 +0800" stop="20250326224300 +0800">
 		<title lang="zh">电影《速度与激情》</title>
 	</programme>
+	<programme channel="超级电影" start="20250326224300 +0800" stop="20250326000600 +0800">
+		<title lang="zh">电影《变异危机》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81378,6 +81390,9 @@
 	<programme channel="newtv超级综艺" start="20250326221400 +0800" stop="20250326224600 +0800">
 		<title lang="zh">TOP音乐咖</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250326224600 +0800" stop="20250326233300 +0800">
+		<title lang="zh">35_大奉打更人</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81485,6 +81500,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250326211600 +0800" stop="20250326224300 +0800">
 		<title lang="zh">电影《速度与激情》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250326224300 +0800" stop="20250326000600 +0800">
+		<title lang="zh">电影《变异危机》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -81675,6 +81693,9 @@
 	<programme channel="newtv精品大剧" start="20250326215400 +0800" stop="20250326224400 +0800">
 		<title lang="zh">30_李三枪</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250326224400 +0800" stop="20250326232900 +0800">
+		<title lang="zh">31_李三枪</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81783,6 +81804,9 @@
 	<programme channel="newtv精品纪录" start="20250326215100 +0800" stop="20250326224200 +0800">
 		<title lang="zh">第1集：山语</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250326224200 +0800" stop="20250326233800 +0800">
+		<title lang="zh">走进老区看新貌：江西</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81872,6 +81896,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250326214000 +0800" stop="20250326222600 +0800">
 		<title lang="zh">37_灼灼风流</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250326222600 +0800" stop="20250326231700 +0800">
+		<title lang="zh">38_灼灼风流</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82062,6 +82089,9 @@
 	<programme channel="newtv家庭剧场" start="20250326214400 +0800" stop="20250326223000 +0800">
 		<title lang="zh">28_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250326223000 +0800" stop="20250326231500 +0800">
+		<title lang="zh">29_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82145,6 +82175,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250326215000 +0800" stop="20250326223700 +0800">
 		<title lang="zh">16_藏海花</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250326223700 +0800" stop="20250326230700 +0800">
+		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82391,6 +82424,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250326215300 +0800" stop="20250326223600 +0800">
 		<title lang="zh">广东N5vs北京龙腾四海 第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250326223600 +0800" stop="20250326230600 +0800">
+		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82641,6 +82677,9 @@
 	<programme channel="newtv军事评论" start="20250326221500 +0800" stop="20250326224100 +0800">
 		<title lang="zh">炒作开战“倒计时” 美国准备三套剧本</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250326224100 +0800" stop="20250326230600 +0800">
+		<title lang="zh">铁腕推国民党改革 朱立伦为何不妥协？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82737,6 +82776,12 @@
 	<programme channel="newtv炫舞未来" start="20250326213000 +0800" stop="20250326221900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250326221900 +0800" stop="20250326224100 +0800">
+		<title lang="zh">基础球感训练：颠球（20250106）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250326224100 +0800" stop="20250326230200 +0800">
+		<title lang="zh">高强度+间歇性有氧训练（20241231）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82824,6 +82869,9 @@
 	<programme channel="newtv精品综合" start="20250326213500 +0800" stop="20250326222300 +0800">
 		<title lang="zh">30_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250326222300 +0800" stop="20250326231000 +0800">
+		<title lang="zh">31_爱的二八定律</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82880,6 +82928,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250326202900 +0800" stop="20250326223500 +0800">
 		<title lang="zh">碟中谍III</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250326223500 +0800" stop="20250326000800 +0800">
+		<title lang="zh">扑朔迷离</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83102,6 +83153,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250326214800 +0800" stop="20250326223400 +0800">
 		<title lang="zh">49_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250326223400 +0800" stop="20250326230400 +0800">
+		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
