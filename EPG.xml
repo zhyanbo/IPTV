@@ -15213,6 +15213,9 @@
 	<programme channel="咪咕足球" start="20250329022600 +0800" stop="20250329024100 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250329024100 +0800" stop="20250329042100 +0800">
+		<title lang="zh">2024NBL 武汉鲲鹏-香港金牛</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -40455,6 +40458,9 @@
 	<programme channel="newtv超级电影" start="20250329011500 +0800" stop="20250329024500 +0800">
 		<title lang="zh">艾草仙姑</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250329024500 +0800" stop="20250329040700 +0800">
+		<title lang="zh">欢乐喜剧人</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40557,6 +40563,9 @@
 	<programme channel="newtv爱情喜剧" start="20250329015400 +0800" stop="20250329024300 +0800">
 		<title lang="zh">22_山村大爷</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250329024300 +0800" stop="20250329033200 +0800">
+		<title lang="zh">23_山村大爷</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -40593,6 +40602,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250329014700 +0800" stop="20250329023600 +0800">
 		<title lang="zh">11_流光之城</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250329023600 +0800" stop="20250329032500 +0800">
+		<title lang="zh">12_流光之城</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -40613,6 +40625,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250329021200 +0800" stop="20250329023800 +0800">
 		<title lang="zh">台当局计划成立“自主紧急应变队” 澳增投百亿扩建海军</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250329023800 +0800" stop="20250329030300 +0800">
+		<title lang="zh">俄军发起多路攻势继续推进 乌称不能“入约”就造核弹</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
