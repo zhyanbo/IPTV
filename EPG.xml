@@ -70515,6 +70515,9 @@
 	<programme channel="超级电影" start="20250403124200 +0800" stop="20250403141100 +0800">
 		<title lang="zh">电影《心里有数》</title>
 	</programme>
+	<programme channel="超级电影" start="20250403141100 +0800" stop="20250403154000 +0800">
+		<title lang="zh">电影《毕业之前说再见》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81678,6 +81681,9 @@
 	<programme channel="newtv超级电影" start="20250403124200 +0800" stop="20250403141100 +0800">
 		<title lang="zh">电影《心里有数》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250403141100 +0800" stop="20250403154000 +0800">
+		<title lang="zh">电影《毕业之前说再见》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82562,6 +82568,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250403120700 +0800" stop="20250403142400 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250403142400 +0800" stop="20250403151800 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
