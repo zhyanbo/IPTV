@@ -21378,6 +21378,9 @@
 	<programme channel="动作电影" start="20250404135100 +0800" stop="20250404152000 +0800">
 		<title lang="zh">史前怪兽</title>
 	</programme>
+	<programme channel="动作电影" start="20250404152000 +0800" stop="20250404165100 +0800">
+		<title lang="zh">边境威龙</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28487,6 +28490,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250404150500 +0800" stop="20250404153000 +0800">
 		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250404153000 +0800" stop="20250404171000 +0800">
+		<title lang="zh">足球世界-24/25赛季意甲 第30轮 佛罗伦萨-亚特兰大</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -60159,6 +60165,9 @@
 	<programme channel="爱情喜剧" start="20250404143000 +0800" stop="20250404152000 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250404152000 +0800" stop="20250404161000 +0800">
+		<title lang="zh">35_爱的二八定律</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81795,6 +81804,9 @@
 	<programme channel="newtv超级电视剧" start="20250404145100 +0800" stop="20250404154100 +0800">
 		<title lang="zh">20_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250404154100 +0800" stop="20250404163000 +0800">
+		<title lang="zh">21_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81939,6 +81951,9 @@
 	<programme channel="newtv精品纪录" start="20250404144000 +0800" stop="20250404152700 +0800">
 		<title lang="zh">03_责实之律</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250404152700 +0800" stop="20250404161600 +0800">
+		<title lang="zh">02_带羽毛恐龙的秘密</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82001,6 +82016,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250404143300 +0800" stop="20250404151900 +0800">
 		<title lang="zh">21_怎敌她千娇百媚</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250404151900 +0800" stop="20250404160400 +0800">
+		<title lang="zh">22_怎敌她千娇百媚</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82236,6 +82254,9 @@
 	<programme channel="newtv爱情喜剧" start="20250404143000 +0800" stop="20250404152000 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250404152000 +0800" stop="20250404161000 +0800">
+		<title lang="zh">35_爱的二八定律</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82271,6 +82292,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250404135100 +0800" stop="20250404152000 +0800">
 		<title lang="zh">史前怪兽</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250404152000 +0800" stop="20250404165100 +0800">
+		<title lang="zh">边境威龙</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82350,6 +82374,9 @@
 	<programme channel="newtv怡伴健康" start="20250404143300 +0800" stop="20250404152200 +0800">
 		<title lang="zh">中元益宝牌灵芝孢子油-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250404152200 +0800" stop="20250404160000 +0800">
+		<title lang="zh">词语里藏中医 3</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82409,6 +82436,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250404144200 +0800" stop="20250404152700 +0800">
 		<title lang="zh">09_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250404152700 +0800" stop="20250404161200 +0800">
+		<title lang="zh">10_锦心似玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
