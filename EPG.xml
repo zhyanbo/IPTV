@@ -14649,6 +14649,9 @@
 	<programme channel="咪咕综合体育" start="20250407000000 +0800" stop="20250407014500 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第31轮 曼联-曼城 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250407014500 +0800" stop="20250407015000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14657,6 +14660,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250407012100 +0800" stop="20250407012600 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250407012600 +0800" stop="20250407022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -37539,6 +37545,9 @@
 	<programme channel="纯享4K" start="20250407010000 +0800" stop="20250407013000 +0800">
 		<title lang="zh">味道4K 原味乡间b7乌江寨篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250407013000 +0800" stop="20250407020000 +0800">
+		<title lang="zh">味道4K 原味乡间b7乌江寨篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45777,6 +45786,12 @@
 	<programme channel="黑莓动画" start="20250407011500 +0800" stop="20250407025500 +0800">
 		<title lang="zh">守龙者</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250407011700 +0800" stop="20250407030200 +0800">
+		<title lang="zh">命案</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -45996,11 +46011,17 @@
 	<programme channel="newtv精品大剧" start="20250407010100 +0800" stop="20250407014600 +0800">
 		<title lang="zh">14_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250407014600 +0800" stop="20250407022800 +0800">
+		<title lang="zh">15_谍战深海之惊蛰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20250407004100 +0800" stop="20250407013400 +0800">
 		<title lang="zh">第五集 打开心脏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250407013400 +0800" stop="20250407022700 +0800">
+		<title lang="zh">第六集 生死“器”约</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46010,6 +46031,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250407005000 +0800" stop="20250407013700 +0800">
 		<title lang="zh">30_千古玦尘</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250407013700 +0800" stop="20250407022400 +0800">
+		<title lang="zh">31_千古玦尘</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -46062,11 +46086,17 @@
 	<programme channel="newtv怡伴健康" start="20250407010000 +0800" stop="20250407014500 +0800">
 		<title lang="zh">25_新洛神</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250407014500 +0800" stop="20250407023000 +0800">
+		<title lang="zh">26_新洛神</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250407004300 +0800" stop="20250407013100 +0800">
 		<title lang="zh">32_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250407013100 +0800" stop="20250407021900 +0800">
+		<title lang="zh">33_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -46089,11 +46119,17 @@
 	<programme channel="newtv精品综合" start="20250407000400 +0800" stop="20250407013700 +0800">
 		<title lang="zh">龙门镇客栈</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250407013700 +0800" stop="20250407032400 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250407001900 +0800" stop="20250407011900 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250407011900 +0800" stop="20250407024600 +0800">
+		<title lang="zh">南宋猎人之决战御街</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -46151,6 +46187,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250407001700 +0800" stop="20250407014000 +0800">
 		<title lang="zh">七剑降魔传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250407014000 +0800" stop="20250407030500 +0800">
+		<title lang="zh">兰若行者</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
