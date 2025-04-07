@@ -19812,6 +19812,9 @@
 	<programme channel="动作电影" start="20250407200900 +0800" stop="20250407213200 +0800">
 		<title lang="zh">怒火十二小时</title>
 	</programme>
+	<programme channel="动作电影" start="20250407213200 +0800" stop="20250407220200 +0800">
+		<title lang="zh">《美丽改变生活》第十一期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -38285,6 +38288,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250407200100 +0800" stop="20250407213000 +0800">
 		<title lang="zh">江湖英雄联盟之奇门惊情</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250407213000 +0800" stop="20250407220000 +0800">
+		<title lang="zh">《美丽改变生活》第十一期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -79212,6 +79218,9 @@
 	<programme channel="newtv超级综艺" start="20250407205200 +0800" stop="20250407215100 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250407215100 +0800" stop="20250407224000 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79268,6 +79277,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250407193000 +0800" stop="20250407214500 +0800">
 		<title lang="zh">2024/2025赛季中国男子篮球职业联赛-季后赛12进8 第二场1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250407214500 +0800" stop="20250407225000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -79490,6 +79502,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250407203800 +0800" stop="20250407212400 +0800">
 		<title lang="zh">38_问心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250407212400 +0800" stop="20250407215300 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79851,6 +79866,9 @@
 	<programme channel="newtv家庭剧场" start="20250407203500 +0800" stop="20250407212000 +0800">
 		<title lang="zh">16_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250407212000 +0800" stop="20250407215000 +0800">
+		<title lang="zh">《美丽改变生活》第十一期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79928,6 +79946,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250407205100 +0800" stop="20250407213700 +0800">
 		<title lang="zh">10_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250407213700 +0800" stop="20250407220700 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第13期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80049,6 +80070,9 @@
 	<programme channel="newtv动作电影" start="20250407200900 +0800" stop="20250407213200 +0800">
 		<title lang="zh">怒火十二小时</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250407213200 +0800" stop="20250407220200 +0800">
+		<title lang="zh">《美丽改变生活》第十一期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80150,6 +80174,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250407205100 +0800" stop="20250407213700 +0800">
 		<title lang="zh">湖南星火燎原vs四川剑开天门 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250407213700 +0800" stop="20250407222100 +0800">
+		<title lang="zh">山东好哥哥vs北京源莱慧精英 第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80357,6 +80384,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250407205100 +0800" stop="20250407211600 +0800">
 		<title lang="zh">赖清德斗来斗去 岛内还能忍多久？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250407211600 +0800" stop="20250407214200 +0800">
+		<title lang="zh">郑文灿案滚雪球 蔡英文难逃牢狱</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250407214200 +0800" stop="20250407220700 +0800">
+		<title lang="zh">岛内热议二十届三中全会</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80583,6 +80616,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250407200100 +0800" stop="20250407213000 +0800">
 		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250407213000 +0800" stop="20250407220000 +0800">
+		<title lang="zh">《美丽改变生活》第十一期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -80801,6 +80837,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250407203400 +0800" stop="20250407212000 +0800">
 		<title lang="zh">49_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250407212000 +0800" stop="20250407215000 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第13期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
