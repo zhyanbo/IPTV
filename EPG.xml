@@ -47088,6 +47088,9 @@
 	<programme channel="newtv超级电视剧" start="20250413022200 +0800" stop="20250413030300 +0800">
 		<title lang="zh">20_故乡的泥土</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250413030300 +0800" stop="20250413034500 +0800">
+		<title lang="zh">21_故乡的泥土</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47115,6 +47118,9 @@
 	<programme channel="newtv精品纪录" start="20250413020600 +0800" stop="20250413025900 +0800">
 		<title lang="zh">02_机器人发展史</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250413025900 +0800" stop="20250413033900 +0800">
+		<title lang="zh">01_机器人</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47126,6 +47132,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250413020200 +0800" stop="20250413025400 +0800">
 		<title lang="zh">06_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250413025400 +0800" stop="20250413034400 +0800">
+		<title lang="zh">07_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47174,6 +47183,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250413021200 +0800" stop="20250413030100 +0800">
 		<title lang="zh">12_承欢记</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250413030100 +0800" stop="20250413035000 +0800">
+		<title lang="zh">13_承欢记</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
