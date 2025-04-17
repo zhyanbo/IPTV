@@ -17298,6 +17298,9 @@
 	<programme channel="咪咕足球" start="20250418012100 +0800" stop="20250418012600 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250418012600 +0800" stop="20250418022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41364,6 +41367,9 @@
 	<programme channel="纯享4K" start="20250418010100 +0800" stop="20250418013100 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7泰州篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250418013100 +0800" stop="20250418020000 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7泰州篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50703,11 +50709,20 @@
 	<programme channel="黄河卫视" start="20250418232000 +0800" stop="20250418235900 +0800">
 		<title lang="zh">真相解码</title>
 	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20250418012600 +0800" stop="20250418025400 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250418001600 +0800" stop="20250418013900 +0800">
 		<title lang="zh">锦鼠御猫之九幽血狼</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250418013900 +0800" stop="20250418030800 +0800">
+		<title lang="zh">盗墓追缉</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50940,6 +50955,9 @@
 	<programme channel="newtv超级综艺" start="20250418004000 +0800" stop="20250418012600 +0800">
 		<title lang="zh">21_长歌行</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250418012600 +0800" stop="20250418021200 +0800">
+		<title lang="zh">22_长歌行</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50960,6 +50978,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250418005100 +0800" stop="20250418013300 +0800">
 		<title lang="zh">14_国家孩子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250418013300 +0800" stop="20250418021400 +0800">
+		<title lang="zh">15_国家孩子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50994,6 +51015,9 @@
 	<programme channel="newtv军旅剧场" start="20250418004700 +0800" stop="20250418013600 +0800">
 		<title lang="zh">26_再造之恩</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250418013600 +0800" stop="20250418022600 +0800">
+		<title lang="zh">27_再造之恩</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51002,6 +51026,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250418005200 +0800" stop="20250418013700 +0800">
 		<title lang="zh">20_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250418013700 +0800" stop="20250418021700 +0800">
+		<title lang="zh">21_娘亲舅大</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51021,6 +51048,9 @@
 	<programme channel="newtv动作电影" start="20250418000000 +0800" stop="20250418012500 +0800">
 		<title lang="zh">兰若行者</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250418012500 +0800" stop="20250418024000 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -51029,6 +51059,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250418004300 +0800" stop="20250418012900 +0800">
 		<title lang="zh">58_新洛神</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250418012900 +0800" stop="20250418021500 +0800">
+		<title lang="zh">59_新洛神</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51065,6 +51098,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250418003400 +0800" stop="20250418012200 +0800">
 		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250418012200 +0800" stop="20250418030600 +0800">
+		<title lang="zh">A计划</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
