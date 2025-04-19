@@ -16236,6 +16236,12 @@
 	<programme channel="咪咕足球" start="20250420043000 +0800" stop="20250420053000 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250420053000 +0800" stop="20250420053500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250420053500 +0800" stop="20250420062000 +0800">
+		<title lang="zh">一球一城 科隆勒沃库森</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -47550,6 +47556,9 @@
 	<programme channel="newtv超级综艺" start="20250420041100 +0800" stop="20250420052600 +0800">
 		<title lang="zh">小品相声大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250420052600 +0800" stop="20250420070300 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47561,6 +47570,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250420040000 +0800" stop="20250420053000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第19轮 巴黎圣日尔曼-兰斯(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250420053000 +0800" stop="20250420060000 +0800">
+		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47604,6 +47616,9 @@
 	<programme channel="newtv超级电视剧" start="20250420051000 +0800" stop="20250420055200 +0800">
 		<title lang="zh">07_大侠霍元甲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250420055200 +0800" stop="20250420063300 +0800">
+		<title lang="zh">08_大侠霍元甲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47624,6 +47639,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250420043200 +0800" stop="20250420053000 +0800">
 		<title lang="zh">31_启航：当风起时</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250420053000 +0800" stop="20250420062700 +0800">
+		<title lang="zh">32_启航：当风起时</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47657,6 +47675,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250420051400 +0800" stop="20250420053100 +0800">
 		<title lang="zh">02_柯文思</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250420053100 +0800" stop="20250420055000 +0800">
+		<title lang="zh">03_竹内亮</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47706,6 +47727,9 @@
 	<programme channel="newtv军旅剧场" start="20250420045200 +0800" stop="20250420053900 +0800">
 		<title lang="zh">39_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250420053900 +0800" stop="20250420061900 +0800">
+		<title lang="zh">白水杜康F20版398 高清10分 400-855-7879</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47748,6 +47772,9 @@
 	<programme channel="newtv热播精选" start="20250420043400 +0800" stop="20250420052000 +0800">
 		<title lang="zh">01_狮子山下的故事（粤语版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250420052000 +0800" stop="20250420060900 +0800">
+		<title lang="zh">02_狮子山下的故事（粤语版）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47780,6 +47807,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250420041200 +0800" stop="20250420054300 +0800">
 		<title lang="zh">长安侠影之剑客风云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250420054300 +0800" stop="20250420071400 +0800">
+		<title lang="zh">晨星</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47856,6 +47886,9 @@
 	<programme channel="newtv军事评论" start="20250420050800 +0800" stop="20250420053400 +0800">
 		<title lang="zh">追梦橄榄绿</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250420053400 +0800" stop="20250420060100 +0800">
+		<title lang="zh">轻装“战神”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47876,6 +47909,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250420044300 +0800" stop="20250420052100 +0800">
 		<title lang="zh">给脊柱减减龄（上）（20240108）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250420052100 +0800" stop="20250420060000 +0800">
+		<title lang="zh">给脊柱减减龄（下）（20240109）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47987,6 +48023,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250420040200 +0800" stop="20250420052500 +0800">
 		<title lang="zh">女子太极剑决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250420052500 +0800" stop="20250420060800 +0800">
+		<title lang="zh">拳王争霸赛：罗德里格斯VS爱德华兹</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
