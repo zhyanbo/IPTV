@@ -13788,19 +13788,19 @@
 	<programme channel="东方卫视" start="20250424212000 +0800" stop="20250424215900 +0800">
 		<title lang="zh">今晚</title>
 	</programme>
-	<programme channel="东方卫视" start="20250424215900 +0800" stop="20250424220000 +0800">
+	<programme channel="东方卫视" start="20250424215900 +0800" stop="20250424220100 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="东方卫视" start="20250424220000 +0800" stop="20250424222700 +0800">
-		<title lang="zh">爱上海</title>
+	<programme channel="东方卫视" start="20250424220100 +0800" stop="20250424222900 +0800">
+		<title lang="zh">爱上海（16）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250424222700 +0800" stop="20250424225200 +0800">
+	<programme channel="东方卫视" start="20250424222900 +0800" stop="20250424225500 +0800">
 		<title lang="zh">1／7（1069）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250424225200 +0800" stop="20250424233400 +0800">
+	<programme channel="东方卫视" start="20250424225500 +0800" stop="20250424233700 +0800">
 		<title lang="zh">玫瑰的故事（3）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250424233400 +0800" stop="20250424235900 +0800">
+	<programme channel="东方卫视" start="20250424233700 +0800" stop="20250424235900 +0800">
 		<title lang="zh">玫瑰的故事（4）</title>
 	</programme>
 	<channel id="东方影视">
@@ -27659,6 +27659,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250424180500 +0800" stop="20250424184000 +0800">
 		<title lang="zh">西班牙黄金一代03 美式问候</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250424184000 +0800" stop="20250424190000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -60165,6 +60168,9 @@
 	<programme channel="爱情喜剧" start="20250424173700 +0800" stop="20250424182600 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-国补版-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250424182600 +0800" stop="20250424191000 +0800">
+		<title lang="zh">15_在希望的田野上</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65870,6 +65876,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250424175000 +0800" stop="20250424181900 +0800">
 		<title lang="zh">旅游指南4K 幸会师父b7咏春拳</title>
+	</programme>
+	<programme channel="纯享4K" start="20250424181900 +0800" stop="20250424184800 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7白眉拳</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81051,6 +81060,9 @@
 	<programme channel="黑莓动画" start="20250424164900 +0800" stop="20250424181700 +0800">
 		<title lang="zh">星际大逃亡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250424181700 +0800" stop="20250424200700 +0800">
+		<title lang="zh">绝海的侦探 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82182,6 +82194,9 @@
 	<programme channel="newtv超级电视剧" start="20250424174300 +0800" stop="20250424182900 +0800">
 		<title lang="zh">22_我的后半生</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250424182900 +0800" stop="20250424191400 +0800">
+		<title lang="zh">23_我的后半生</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82608,6 +82623,9 @@
 	<programme channel="newtv热播精选" start="20250424173900 +0800" stop="20250424182800 +0800">
 		<title lang="zh">我的美食向导</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250424182800 +0800" stop="20250424190900 +0800">
+		<title lang="zh">05_闪耀的她</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82658,6 +82676,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250424173700 +0800" stop="20250424182600 +0800">
 		<title lang="zh">VK 13 PRO MAX 5G语音手机-国补版-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250424182600 +0800" stop="20250424191000 +0800">
+		<title lang="zh">15_在希望的田野上</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82793,6 +82814,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250424174800 +0800" stop="20250424181800 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250424181800 +0800" stop="20250424185800 +0800">
+		<title lang="zh">北京源莱慧热爱vs湖北华龙 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83058,6 +83082,9 @@
 	<programme channel="newtv炫舞未来" start="20250424171000 +0800" stop="20250424182000 +0800">
 		<title lang="zh">姚泽龙邀请朱迅共同表演《坐宫》选段（20250405）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250424182000 +0800" stop="20250424191600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83198,6 +83225,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250424170500 +0800" stop="20250424183000 +0800">
 		<title lang="zh">典籍里的中国第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250424183000 +0800" stop="20250424190800 +0800">
+		<title lang="zh">BEUTENI泰韵御享精油皂臻享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
