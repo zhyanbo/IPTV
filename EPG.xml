@@ -70083,6 +70083,9 @@
 	<programme channel="超级电影" start="20250426212700 +0800" stop="20250426230400 +0800">
 		<title lang="zh">电影《魔幻岛奇遇》</title>
 	</programme>
+	<programme channel="超级电影" start="20250426230400 +0800" stop="20250426003600 +0800">
+		<title lang="zh">电影《起死回生》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81609,6 +81612,9 @@
 	<programme channel="newtv超级综艺" start="20250426222500 +0800" stop="20250426225900 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250426225900 +0800" stop="20250426234400 +0800">
+		<title lang="zh">03_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81714,6 +81720,9 @@
 	<programme channel="newtv超级电影" start="20250426212700 +0800" stop="20250426230400 +0800">
 		<title lang="zh">电影《魔幻岛奇遇》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250426230400 +0800" stop="20250426003600 +0800">
+		<title lang="zh">电影《起死回生》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -81809,6 +81818,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250426222900 +0800" stop="20250426231200 +0800">
 		<title lang="zh">04_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250426231200 +0800" stop="20250426235600 +0800">
+		<title lang="zh">05_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82014,6 +82026,9 @@
 	<programme channel="newtv精品纪录" start="20250426220700 +0800" stop="20250426225700 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250426225700 +0800" stop="20250426232200 +0800">
+		<title lang="zh">第31集：大江南北</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82100,6 +82115,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250426220400 +0800" stop="20250426224900 +0800">
 		<title lang="zh">34_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250426224900 +0800" stop="20250426233400 +0800">
+		<title lang="zh">35_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82190,6 +82208,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250426221500 +0800" stop="20250426224800 +0800">
 		<title lang="zh">31_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250426224800 +0800" stop="20250426232300 +0800">
+		<title lang="zh">32_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82289,6 +82310,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250426220300 +0800" stop="20250426225400 +0800">
 		<title lang="zh">22_血脉</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250426225400 +0800" stop="20250426234000 +0800">
+		<title lang="zh">23_血脉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82869,6 +82893,9 @@
 	<programme channel="newtv军事评论" start="20250426223200 +0800" stop="20250426225700 +0800">
 		<title lang="zh">《哪吒2》登顶全球影史单一市场票房榜 岛内民众：身为中国人感到自豪</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250426225700 +0800" stop="20250426232300 +0800">
+		<title lang="zh">特朗普自挖大坑 台湾别跟着跳</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82958,6 +82985,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250426223300 +0800" stop="20250426225500 +0800">
 		<title lang="zh">牛仔舞系列教学（20240723）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250426225500 +0800" stop="20250426003200 +0800">
+		<title lang="zh">乐在旅途 第三季（20250419）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
