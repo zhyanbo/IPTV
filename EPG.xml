@@ -48483,6 +48483,12 @@
 	<programme channel="黄河卫视" start="20250427232000 +0800" stop="20250427235900 +0800">
 		<title lang="zh">真相解码</title>
 	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20250427005400 +0800" stop="20250427023300 +0800">
+		<title lang="zh">第十四个目标 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48792,6 +48798,9 @@
 	<programme channel="newtv精品大剧" start="20250427001100 +0800" stop="20250427010000 +0800">
 		<title lang="zh">01_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250427010000 +0800" stop="20250427015100 +0800">
+		<title lang="zh">02_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48810,6 +48819,9 @@
 	<programme channel="newtv军旅剧场" start="20250427000300 +0800" stop="20250427005200 +0800">
 		<title lang="zh">06_最后一张签证</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250427005200 +0800" stop="20250427014000 +0800">
+		<title lang="zh">07_最后一张签证</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48825,41 +48837,8 @@
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
-	<programme channel="newtv爱情喜剧" start="20250427000000 +0800" stop="20250427020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427020000 +0800" stop="20250427040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427060000 +0800" stop="20250427080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427080000 +0800" stop="20250427100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427100600 +0800" stop="20250427120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427120000 +0800" stop="20250427140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427140000 +0800" stop="20250427160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427160000 +0800" stop="20250427180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427180000 +0800" stop="20250427190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427190000 +0800" stop="20250427200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427200000 +0800" stop="20250427220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv爱情喜剧" start="20250427220000 +0800" stop="20250427235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv爱情喜剧" start="20250427010000 +0800" stop="20250427022500 +0800">
+		<title lang="zh">特工使命</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48881,6 +48860,9 @@
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250427000300 +0800" stop="20250427005100 +0800">
 		<title lang="zh">35_流光之城</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250427005100 +0800" stop="20250427013900 +0800">
+		<title lang="zh">36_流光之城</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
