@@ -43533,6 +43533,9 @@
 	<programme channel="明星大片" start="20250429213400 +0800" stop="20250429222800 +0800">
 		<title lang="zh">30_失笑</title>
 	</programme>
+	<programme channel="明星大片" start="20250429222800 +0800" stop="20250429231700 +0800">
+		<title lang="zh">31_失笑</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -67260,6 +67263,9 @@
 	<programme channel="纯享4K" start="20250429215300 +0800" stop="20250429224200 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第2集 斜阳寒草带重门</title>
 	</programme>
+	<programme channel="纯享4K" start="20250429224200 +0800" stop="20250429232200 +0800">
+		<title lang="zh">探索b7发现4K 家乡至味2023（14）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82689,6 +82695,9 @@
 	<programme channel="黑莓动画" start="20250429205400 +0800" stop="20250429222400 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250429222400 +0800" stop="20250429235100 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83712,6 +83721,9 @@
 	<programme channel="newtv超级体育" start="20250429214500 +0800" stop="20250429225000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250429225000 +0800" stop="20250429010500 +0800">
+		<title lang="zh">2024/2025赛季世界斯诺克锦标赛-1/4决赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84042,6 +84054,9 @@
 	<programme channel="newtv精品纪录" start="20250429214900 +0800" stop="20250429223900 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250429223900 +0800" stop="20250429230400 +0800">
+		<title lang="zh">第40集：红色中国纪事</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84131,6 +84146,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250429214600 +0800" stop="20250429223000 +0800">
 		<title lang="zh">07_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250429223000 +0800" stop="20250429231300 +0800">
+		<title lang="zh">08_岁岁青莲</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84224,6 +84242,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250429221000 +0800" stop="20250429224400 +0800">
 		<title lang="zh">43_特种兵之火凤凰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250429224400 +0800" stop="20250429232000 +0800">
+		<title lang="zh">44_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84639,6 +84660,9 @@
 	<programme channel="newtv怡伴健康" start="20250429220800 +0800" stop="20250429223800 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250429223800 +0800" stop="20250429232000 +0800">
+		<title lang="zh">湖南名将vs上海天行奔源 第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84728,6 +84752,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250429214600 +0800" stop="20250429221600 +0800">
 		<title lang="zh">《花样人生》推荐第49期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250429221600 +0800" stop="20250429232800 +0800">
+		<title lang="zh">杨戬传</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84882,6 +84909,12 @@
 	<programme channel="newtv军事评论" start="20250429215400 +0800" stop="20250429222000 +0800">
 		<title lang="zh">台当局再禁交流 国台办批“夜郎自大”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250429222000 +0800" stop="20250429224600 +0800">
+		<title lang="zh">特朗普挑明核心利益 台湾根本没牌</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250429224600 +0800" stop="20250429231100 +0800">
+		<title lang="zh">民进党当局助推“大罢免”引发反制 台湾民众党：赖清德正把台湾带向沉沦的</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84984,6 +85017,9 @@
 	<programme channel="newtv炫舞未来" start="20250429221500 +0800" stop="20250429223700 +0800">
 		<title lang="zh">POP DANCE健身舞</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250429223700 +0800" stop="20250429000700 +0800">
+		<title lang="zh">寻味“郑和下西洋”b7辣炒鸡（20221111）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85064,6 +85100,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250429213400 +0800" stop="20250429222800 +0800">
 		<title lang="zh">30_失笑</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250429222800 +0800" stop="20250429231700 +0800">
+		<title lang="zh">31_失笑</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
