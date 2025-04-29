@@ -41070,6 +41070,9 @@
 	<programme channel="纯享4K" start="20250430003300 +0800" stop="20250430010100 +0800">
 		<title lang="zh">记住乡愁4K第九季 盐池——塞上牧歌传四方</title>
 	</programme>
+	<programme channel="纯享4K" start="20250430010100 +0800" stop="20250430013000 +0800">
+		<title lang="zh">味道4K 山海拾味b7象山篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50559,44 +50562,14 @@
 	<programme channel="newtv超级综艺" start="20250430002400 +0800" stop="20250430011000 +0800">
 		<title lang="zh">17_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250430011000 +0800" stop="20250430015600 +0800">
+		<title lang="zh">18_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20250430000000 +0800" stop="20250430020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430020000 +0800" stop="20250430040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430060000 +0800" stop="20250430080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430080000 +0800" stop="20250430100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430100600 +0800" stop="20250430120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430120000 +0800" stop="20250430140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430140000 +0800" stop="20250430160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430160000 +0800" stop="20250430180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430180000 +0800" stop="20250430190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430190000 +0800" stop="20250430200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430200000 +0800" stop="20250430220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20250430220000 +0800" stop="20250430235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20250430010500 +0800" stop="20250430020500 +0800">
+		<title lang="zh">顶级赛事-围棋</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50610,6 +50583,9 @@
 	<programme channel="newtv超级电视剧" start="20250430002600 +0800" stop="20250430011200 +0800">
 		<title lang="zh">01_前途无量</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250430011200 +0800" stop="20250430015300 +0800">
+		<title lang="zh">02_前途无量</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50621,6 +50597,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20250430002500 +0800" stop="20250430010900 +0800">
 		<title lang="zh">蓝色能源 海盐</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250430010900 +0800" stop="20250430020200 +0800">
+		<title lang="zh">01_谁在改变一切</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50667,11 +50646,17 @@
 	<programme channel="newtv怡伴健康" start="20250430001200 +0800" stop="20250430005200 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250430005200 +0800" stop="20250430013800 +0800">
+		<title lang="zh">26_金钗谍影</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250430000800 +0800" stop="20250430005700 +0800">
 		<title lang="zh">17_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250430005700 +0800" stop="20250430014600 +0800">
+		<title lang="zh">18_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -50679,11 +50664,17 @@
 	<programme channel="newtv军事评论" start="20250430000200 +0800" stop="20250430005300 +0800">
 		<title lang="zh">长征足迹 第3集 四渡赤水出奇兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250430005300 +0800" stop="20250430014300 +0800">
+		<title lang="zh">长征足迹 第4集 大渡桥横铁索寒</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250430000700 +0800" stop="20250430011400 +0800">
 		<title lang="zh">国家宝藏 第四季（20240518）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250430011400 +0800" stop="20250430020400 +0800">
+		<title lang="zh">第12集：许知远对话李东生 要创造一个自己的时间</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
