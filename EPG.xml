@@ -16608,6 +16608,9 @@
 	<programme channel="咪咕综合体育" start="20250502000500 +0800" stop="20250502005500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第三集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250502010000 +0800" stop="20250502024000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第29轮 勒沃库森-柏林联合</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47451,11 +47454,17 @@
 	<programme channel="newtv超级综艺" start="20250502000800 +0800" stop="20250502005400 +0800">
 		<title lang="zh">25_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250502005400 +0800" stop="20250502014000 +0800">
+		<title lang="zh">26_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250502003000 +0800" stop="20250502010500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2025年全国举重锦标赛 女子比赛2(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250502010500 +0800" stop="20250502023500 +0800">
+		<title lang="zh">实况录像-2025年世界男子冰壶锦标赛 循环赛 中国队-德国队</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47471,6 +47480,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250502000900 +0800" stop="20250502005000 +0800">
 		<title lang="zh">12_前途无量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250502005000 +0800" stop="20250502013200 +0800">
+		<title lang="zh">13_前途无量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47495,6 +47507,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250502001100 +0800" stop="20250502010000 +0800">
 		<title lang="zh">31_最后一张签证</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250502010000 +0800" stop="20250502014800 +0800">
+		<title lang="zh">32_最后一张签证</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47595,6 +47610,9 @@
 	<programme channel="newtv怡伴健康" start="20250502001400 +0800" stop="20250502005400 +0800">
 		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250502005400 +0800" stop="20250502014000 +0800">
+		<title lang="zh">31_金钗谍影</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47606,6 +47624,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20250502000300 +0800" stop="20250502005200 +0800">
 		<title lang="zh">绝地防线 第3集 齐格菲防线</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250502005200 +0800" stop="20250502014000 +0800">
+		<title lang="zh">绝地防线 第4集 巴列夫防线</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
