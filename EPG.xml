@@ -17085,6 +17085,9 @@
 	<programme channel="咪咕足球" start="20250506042100 +0800" stop="20250506043000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250506043000 +0800" stop="20250506053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41661,6 +41664,9 @@
 	<programme channel="纯享4K" start="20250506033800 +0800" stop="20250506042000 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 乐享海岛新生活</title>
 	</programme>
+	<programme channel="纯享4K" start="20250506042000 +0800" stop="20250506050200 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 生态之城 活力台州</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51354,6 +51360,9 @@
 	<programme channel="黑莓动画" start="20250506032300 +0800" stop="20250506044500 +0800">
 		<title lang="zh">神奇乐园历险记（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250506044500 +0800" stop="20250506061300 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51645,6 +51654,9 @@
 	<programme channel="newtv超级电影" start="20250506025700 +0800" stop="20250506042600 +0800">
 		<title lang="zh">铭心岁月</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250506042600 +0800" stop="20250506063600 +0800">
+		<title lang="zh">红海行动</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51662,6 +51674,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250506033800 +0800" stop="20250506042300 +0800">
 		<title lang="zh">10_锦囊妙录</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250506042300 +0800" stop="20250506050500 +0800">
+		<title lang="zh">31_回家的路有多远</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51708,6 +51723,9 @@
 	<programme channel="newtv精品纪录" start="20250506035200 +0800" stop="20250506044500 +0800">
 		<title lang="zh">01_机器人发展史</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250506044500 +0800" stop="20250506053800 +0800">
+		<title lang="zh">02_机器人发展史</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -51749,6 +51767,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250506035100 +0800" stop="20250506044000 +0800">
 		<title lang="zh">24_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250506044000 +0800" stop="20250506052900 +0800">
+		<title lang="zh">25_军人荣誉之铁血雄心</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51798,6 +51819,9 @@
 	<programme channel="newtv爱情喜剧" start="20250506033700 +0800" stop="20250506042700 +0800">
 		<title lang="zh">27_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250506042700 +0800" stop="20250506051700 +0800">
+		<title lang="zh">28_树下有片红房子</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51809,6 +51833,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250506025700 +0800" stop="20250506043200 +0800">
 		<title lang="zh">大匠春秋之牌坊风云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250506043200 +0800" stop="20250506055600 +0800">
+		<title lang="zh">勇敢风暴</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -51849,6 +51876,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250506034700 +0800" stop="20250506043500 +0800">
 		<title lang="zh">63_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250506043500 +0800" stop="20250506052400 +0800">
+		<title lang="zh">64_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51875,6 +51905,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250506021600 +0800" stop="20250506042300 +0800">
 		<title lang="zh">第1期（上）：张雨绮罗永浩李诞爆笑“互掐”</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250506042300 +0800" stop="20250506044400 +0800">
+		<title lang="zh">高强度+间歇性有氧训练（20241231）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250506044400 +0800" stop="20250506050600 +0800">
+		<title lang="zh">亲子健身操（20241209）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
