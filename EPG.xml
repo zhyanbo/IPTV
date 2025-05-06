@@ -16317,6 +16317,9 @@
 	<programme channel="咪咕综合体育" start="20250507010000 +0800" stop="20250507012500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250507012500 +0800" stop="20250507032500 +0800">
+		<title lang="zh">网球世界-2025WTA500斯图加特站 决赛 萨巴伦卡-奥斯塔彭科</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16325,6 +16328,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250507012100 +0800" stop="20250507012600 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250507012600 +0800" stop="20250507022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -38778,6 +38784,9 @@
 	<programme channel="纯享4K" start="20250507005900 +0800" stop="20250507012800 +0800">
 		<title lang="zh">味道4K 原味乡间b7萧县篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250507012800 +0800" stop="20250507015700 +0800">
+		<title lang="zh">味道4K 原味乡间b7萧县篇（下）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -46980,6 +46989,12 @@
 	<programme channel="黑莓动画" start="20250507005400 +0800" stop="20250507022400 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250507013900 +0800" stop="20250507034200 +0800">
+		<title lang="zh">一次别离</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47295,6 +47310,9 @@
 	<programme channel="newtv精品大剧" start="20250507005100 +0800" stop="20250507014100 +0800">
 		<title lang="zh">52_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250507014100 +0800" stop="20250507023100 +0800">
+		<title lang="zh">53_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47328,6 +47346,9 @@
 	<programme channel="newtv家庭剧场" start="20250507004400 +0800" stop="20250507013000 +0800">
 		<title lang="zh">06_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250507013000 +0800" stop="20250507022100 +0800">
+		<title lang="zh">07_非常有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -47346,6 +47367,9 @@
 	<programme channel="newtv动作电影" start="20250507000100 +0800" stop="20250507012300 +0800">
 		<title lang="zh">奇门异人</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250507012300 +0800" stop="20250507025200 +0800">
+		<title lang="zh">唐门之神犼双雄</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -47360,6 +47384,9 @@
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250507003000 +0800" stop="20250507011800 +0800">
 		<title lang="zh">66_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250507011800 +0800" stop="20250507020800 +0800">
+		<title lang="zh">67_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47376,6 +47403,9 @@
 	<programme channel="newtv炫舞未来" start="20250507001300 +0800" stop="20250507013000 +0800">
 		<title lang="zh">汕尾咸咸的海风 吹来了浪漫的信号（20250415）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250507013000 +0800" stop="20250507022000 +0800">
+		<title lang="zh">一笑一周（20250410）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47385,41 +47415,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20250507000000 +0800" stop="20250507020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507020000 +0800" stop="20250507040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507060000 +0800" stop="20250507080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507080000 +0800" stop="20250507100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507100600 +0800" stop="20250507120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507120000 +0800" stop="20250507140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507140000 +0800" stop="20250507160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507160000 +0800" stop="20250507180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507180000 +0800" stop="20250507190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507190000 +0800" stop="20250507200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507200000 +0800" stop="20250507220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250507220000 +0800" stop="20250507235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20250507012100 +0800" stop="20250507020900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
