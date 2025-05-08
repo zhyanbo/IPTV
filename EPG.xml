@@ -27333,6 +27333,9 @@
 	<programme channel="咪咕综合体育" start="20250508225000 +0800" stop="20250508231500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250508231500 +0800" stop="20250508000000 +0800">
+		<title lang="zh">足球世界-24/25意大利杯 半决赛次回合 国际米兰-AC米兰</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -71415,6 +71418,9 @@
 	<programme channel="超级电影" start="20250508212800 +0800" stop="20250508225500 +0800">
 		<title lang="zh">电影《特种兵归来4替身疑云》</title>
 	</programme>
+	<programme channel="超级电影" start="20250508225500 +0800" stop="20250508002500 +0800">
+		<title lang="zh">电影《鲨卷风2》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83157,6 +83163,9 @@
 	<programme channel="newtv超级电影" start="20250508212800 +0800" stop="20250508225500 +0800">
 		<title lang="zh">电影《特种兵归来4替身疑云》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250508225500 +0800" stop="20250508002500 +0800">
+		<title lang="zh">电影《鲨卷风2》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83345,6 +83354,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250508221300 +0800" stop="20250508225900 +0800">
 		<title lang="zh">05_婆婆来了</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250508225900 +0800" stop="20250508234800 +0800">
+		<title lang="zh">06_婆婆来了</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83633,6 +83645,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250508220900 +0800" stop="20250508225400 +0800">
 		<title lang="zh">22_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250508225400 +0800" stop="20250508234000 +0800">
+		<title lang="zh">23_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84305,6 +84320,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250508223200 +0800" stop="20250508225800 +0800">
 		<title lang="zh">赖清德开局不利 未来四年更难</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250508225800 +0800" stop="20250508232300 +0800">
+		<title lang="zh">解放军强势警告 随时打掉“台独武装”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
