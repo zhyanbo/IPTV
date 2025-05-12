@@ -32874,6 +32874,9 @@
 	<programme channel="纯享4K" start="20250513003400 +0800" stop="20250513010200 +0800">
 		<title lang="zh">记住乡愁4K第十季 严家桥——智慧稻田种出江南好味“稻”</title>
 	</programme>
+	<programme channel="纯享4K" start="20250513010200 +0800" stop="20250513013200 +0800">
+		<title lang="zh">味道4K 山海拾味b7长乐篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40410,6 +40413,12 @@
 	<programme channel="黑莓动画" start="20250513000300 +0800" stop="20250513013200 +0800">
 		<title lang="zh">金猴降妖</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250513005800 +0800" stop="20250513021900 +0800">
+		<title lang="zh">双生</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40689,11 +40698,17 @@
 	<programme channel="newtv超级综艺" start="20250513001400 +0800" stop="20250513005500 +0800">
 		<title lang="zh">33_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250513005500 +0800" stop="20250513013700 +0800">
+		<title lang="zh">34_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250513001500 +0800" stop="20250513010500 +0800">
 		<title lang="zh">实况录像-2025年世界短道速滑锦标赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250513010500 +0800" stop="20250513023500 +0800">
+		<title lang="zh">实况录像-2025年世界男子冰壶锦标赛 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -40707,6 +40722,9 @@
 	<programme channel="newtv超级电视剧" start="20250513002200 +0800" stop="20250513010900 +0800">
 		<title lang="zh">05_暗战风云</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250513010900 +0800" stop="20250513015600 +0800">
+		<title lang="zh">06_暗战风云</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40718,6 +40736,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20250513001100 +0800" stop="20250513005800 +0800">
 		<title lang="zh">01_民宿试睡员</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250513005800 +0800" stop="20250513014500 +0800">
+		<title lang="zh">02_实景地图采集员</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -40773,11 +40794,17 @@
 	<programme channel="newtv潮妈辣婆" start="20250513000900 +0800" stop="20250513011300 +0800">
 		<title lang="zh">34_灼灼风流</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250513011300 +0800" stop="20250513021500 +0800">
+		<title lang="zh">35_灼灼风流</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20250513000900 +0800" stop="20250513010300 +0800">
 		<title lang="zh">朱文立：执着“天青”终为“汝”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250513010300 +0800" stop="20250513015700 +0800">
+		<title lang="zh">钮向阳：越野越年轻</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
