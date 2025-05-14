@@ -18357,6 +18357,9 @@
 	<programme channel="咪咕综合体育" start="20250514195000 +0800" stop="20250514201500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250514201500 +0800" stop="20250514215500 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第29轮 拜仁慕尼黑-多特蒙德</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48072,6 +48075,9 @@
 	<programme channel="纯享4K" start="20250514193300 +0800" stop="20250514201500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄河岸边的天鹅之城</title>
 	</programme>
+	<programme channel="纯享4K" start="20250514201500 +0800" stop="20250514205700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 水岸家园 多彩生活</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58881,6 +58887,9 @@
 	<programme channel="黑莓动画" start="20250514183900 +0800" stop="20250514201200 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250514201200 +0800" stop="20250514220700 +0800">
+		<title lang="zh">战栗的乐谱 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59274,6 +59283,9 @@
 	<programme channel="newtv超级综艺" start="20250514193000 +0800" stop="20250514205100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250514205100 +0800" stop="20250514214600 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59457,6 +59469,9 @@
 	<programme channel="newtv超级电视剧" start="20250514193000 +0800" stop="20250514201700 +0800">
 		<title lang="zh">30_滤镜</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250514201700 +0800" stop="20250514210400 +0800">
+		<title lang="zh">31_滤镜</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59531,6 +59546,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250514194100 +0800" stop="20250514202600 +0800">
 		<title lang="zh">17_棋士</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250514202600 +0800" stop="20250514205600 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59613,6 +59631,9 @@
 	<programme channel="newtv精品纪录" start="20250514193500 +0800" stop="20250514202300 +0800">
 		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250514202300 +0800" stop="20250514211800 +0800">
+		<title lang="zh">06_棹歌四海</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59684,6 +59705,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250514193400 +0800" stop="20250514201900 +0800">
 		<title lang="zh">08_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250514201900 +0800" stop="20250514210000 +0800">
+		<title lang="zh">09_御赐小仵作</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59762,6 +59786,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250514194600 +0800" stop="20250514201600 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250514201600 +0800" stop="20250514210600 +0800">
+		<title lang="zh">14_亮剑</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59909,6 +59936,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250514193400 +0800" stop="20250514202300 +0800">
 		<title lang="zh">16_最好的时代</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250514202300 +0800" stop="20250514210700 +0800">
+		<title lang="zh">17_最好的时代</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60306,6 +60336,9 @@
 	<programme channel="newtv军事评论" start="20250514195500 +0800" stop="20250514202000 +0800">
 		<title lang="zh">拜登退选 特朗普打劫台湾</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250514202000 +0800" stop="20250514204600 +0800">
+		<title lang="zh">台军猛练反锁岛 为何被批是演戏？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60509,6 +60542,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250514194400 +0800" stop="20250514201400 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250514201400 +0800" stop="20250514212600 +0800">
+		<title lang="zh">第五次死刑</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
