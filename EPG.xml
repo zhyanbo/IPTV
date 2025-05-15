@@ -17262,6 +17262,12 @@
 	<programme channel="咪咕综合体育" start="20250516023000 +0800" stop="20250516050000 +0800">
 		<title lang="zh">网球世界-2025WTA1000罗马站 半决赛 郑钦文-高芙 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250516050000 +0800" stop="20250516051000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250516051000 +0800" stop="20250516053500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42006,6 +42012,9 @@
 	<programme channel="纯享4K" start="20250516042400 +0800" stop="20250516050400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 大河奔流惠中原</title>
 	</programme>
+	<programme channel="纯享4K" start="20250516051400 +0800" stop="20250516060400 +0800">
+		<title lang="zh">大运河之歌4K 第5集 融通天下</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52032,6 +52041,9 @@
 	<programme channel="黑莓电影" start="20250516033100 +0800" stop="20250516051600 +0800">
 		<title lang="zh">阿薇尔与虚构世界</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250516051600 +0800" stop="20250516065400 +0800">
+		<title lang="zh">纽约大逃亡</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52308,6 +52320,9 @@
 	<programme channel="newtv超级综艺" start="20250516031600 +0800" stop="20250516045100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250516045100 +0800" stop="20250516062000 +0800">
+		<title lang="zh">乐在旅途 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52338,6 +52353,9 @@
 	<programme channel="newtv超级电影" start="20250516034200 +0800" stop="20250516050000 +0800">
 		<title lang="zh">冠军</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250516050000 +0800" stop="20250516070700 +0800">
+		<title lang="zh">你好，李焕英</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52358,6 +52376,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250516041900 +0800" stop="20250516050200 +0800">
 		<title lang="zh">33_大嫁风尚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250516050200 +0800" stop="20250516054700 +0800">
+		<title lang="zh">34_大嫁风尚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52412,6 +52433,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250516040100 +0800" stop="20250516050200 +0800">
 		<title lang="zh">04_清平乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250516050200 +0800" stop="20250516060400 +0800">
+		<title lang="zh">05_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52485,6 +52509,9 @@
 	<programme channel="newtv爱情喜剧" start="20250516040800 +0800" stop="20250516050400 +0800">
 		<title lang="zh">22_初婚</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250516050400 +0800" stop="20250516060100 +0800">
+		<title lang="zh">23_初婚</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52515,6 +52542,9 @@
 	<programme channel="newtv怡伴健康" start="20250516034700 +0800" stop="20250516045100 +0800">
 		<title lang="zh">鬣狗部落</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250516045100 +0800" stop="20250516053600 +0800">
+		<title lang="zh">18_三十而已</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52532,6 +52562,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250516041300 +0800" stop="20250516051500 +0800">
 		<title lang="zh">13_婚姻那些事儿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250516051500 +0800" stop="20250516061000 +0800">
+		<title lang="zh">血脂管理有新知</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -52553,6 +52586,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250516044000 +0800" stop="20250516050200 +0800">
 		<title lang="zh">谁是军营厨王（44）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250516050200 +0800" stop="20250516052400 +0800">
+		<title lang="zh">谁是军营厨王（45）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52584,6 +52620,9 @@
 	<programme channel="newtv精品综合" start="20250516034400 +0800" stop="20250516044700 +0800">
 		<title lang="zh">03_天狼星行动</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250516044700 +0800" stop="20250516055100 +0800">
+		<title lang="zh">04_天狼星行动</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52598,6 +52637,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250516034000 +0800" stop="20250516045900 +0800">
 		<title lang="zh">纸画皮</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250516045900 +0800" stop="20250516061100 +0800">
+		<title lang="zh">不老山异事</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -52619,6 +52661,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250516033500 +0800" stop="20250516045500 +0800">
 		<title lang="zh">2024-25赛季英超联赛第17轮：曼联VS伯恩茅斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250516045500 +0800" stop="20250516064100 +0800">
+		<title lang="zh">2024-25赛季英超联赛第16轮：利物浦VS富勒姆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -52670,6 +52715,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250516034300 +0800" stop="20250516050100 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250516050100 +0800" stop="20250516055900 +0800">
+		<title lang="zh">拳王争霸赛：茨尤VS门多萨</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
