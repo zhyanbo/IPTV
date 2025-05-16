@@ -16209,6 +16209,9 @@
 	<programme channel="咪咕综合体育" start="20250517005000 +0800" stop="20250517014500 +0800">
 		<title lang="zh">纪录片曼联92班第一季 第二集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250517015000 +0800" stop="20250517024000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16217,6 +16220,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250517012100 +0800" stop="20250517012600 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250517012600 +0800" stop="20250517022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -38697,6 +38703,9 @@
 	<programme channel="纯享4K" start="20250517010200 +0800" stop="20250517013100 +0800">
 		<title lang="zh">味道4K 原味乡间b7绵阳篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250517013100 +0800" stop="20250517020100 +0800">
+		<title lang="zh">味道4K 原味乡间b7兴国篇</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47379,6 +47388,9 @@
 	<programme channel="黑莓动画" start="20250517000200 +0800" stop="20250517012400 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250517012400 +0800" stop="20250517030500 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47682,17 +47694,26 @@
 	<programme channel="newtv超级电影" start="20250517001100 +0800" stop="20250517013300 +0800">
 		<title lang="zh">特种突袭之觉醒</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250517013300 +0800" stop="20250517030000 +0800">
+		<title lang="zh">有车好好开</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250517004300 +0800" stop="20250517013000 +0800">
 		<title lang="zh">25_暗战风云</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250517013000 +0800" stop="20250517021700 +0800">
+		<title lang="zh">26_暗战风云</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250517003800 +0800" stop="20250517012200 +0800">
 		<title lang="zh">02_鹊刀门传奇</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250517012200 +0800" stop="20250517020600 +0800">
+		<title lang="zh">03_鹊刀门传奇</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47709,6 +47730,9 @@
 	<programme channel="newtv古装剧场" start="20250517002300 +0800" stop="20250517012400 +0800">
 		<title lang="zh">11_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250517012400 +0800" stop="20250517022500 +0800">
+		<title lang="zh">12_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47718,11 +47742,17 @@
 	<programme channel="newtv军旅剧场" start="20250517002900 +0800" stop="20250517013200 +0800">
 		<title lang="zh">08_血染大青山</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250517013200 +0800" stop="20250517023400 +0800">
+		<title lang="zh">09_血染大青山</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250517003100 +0800" stop="20250517011600 +0800">
 		<title lang="zh">13_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250517011600 +0800" stop="20250517021700 +0800">
+		<title lang="zh">15_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47750,6 +47780,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250517005200 +0800" stop="20250517013800 +0800">
 		<title lang="zh">16_青山不墨</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250517013800 +0800" stop="20250517023900 +0800">
+		<title lang="zh">17_青山不墨</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
