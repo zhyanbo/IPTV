@@ -16239,6 +16239,9 @@
 	<programme channel="咪咕足球" start="20250517042100 +0800" stop="20250517043000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250517043000 +0800" stop="20250517053000 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38835,6 +38838,9 @@
 	<programme channel="纯享4K" start="20250517034100 +0800" stop="20250517042300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 水润中原美如画</title>
 	</programme>
+	<programme channel="纯享4K" start="20250517042300 +0800" stop="20250517050500 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 江河之畔 幸福家园</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47625,6 +47631,9 @@
 	<programme channel="黑莓动画" start="20250517030500 +0800" stop="20250517044300 +0800">
 		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250517044300 +0800" stop="20250517060700 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47955,6 +47964,9 @@
 	<programme channel="newtv超级电影" start="20250517030000 +0800" stop="20250517043000 +0800">
 		<title lang="zh">钧瓷蛤蟆砚</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250517043000 +0800" stop="20250517061900 +0800">
+		<title lang="zh">白马飞飞</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47972,6 +47984,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250517035100 +0800" stop="20250517043900 +0800">
 		<title lang="zh">29_暗战风云</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250517043900 +0800" stop="20250517052400 +0800">
+		<title lang="zh">37_大嫁风尚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48006,6 +48021,9 @@
 	<programme channel="newtv精品纪录" start="20250517032000 +0800" stop="20250517042200 +0800">
 		<title lang="zh">05_超级车辆</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250517042200 +0800" stop="20250517052800 +0800">
+		<title lang="zh">01_家 世界</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -48020,6 +48038,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250517032500 +0800" stop="20250517042600 +0800">
 		<title lang="zh">14_且试天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250517042600 +0800" stop="20250517052700 +0800">
+		<title lang="zh">08_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48039,6 +48060,9 @@
 	<programme channel="newtv军旅剧场" start="20250517033700 +0800" stop="20250517044000 +0800">
 		<title lang="zh">11_血染大青山</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250517044000 +0800" stop="20250517052800 +0800">
+		<title lang="zh">14_红色娘子军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48057,6 +48081,9 @@
 	<programme channel="newtv家庭剧场" start="20250517040000 +0800" stop="20250517044300 +0800">
 		<title lang="zh">12_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250517044300 +0800" stop="20250517054600 +0800">
+		<title lang="zh">13_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48068,6 +48095,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250517031600 +0800" stop="20250517042000 +0800">
 		<title lang="zh">03_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250517042000 +0800" stop="20250517052200 +0800">
+		<title lang="zh">04_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48083,6 +48113,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250517034700 +0800" stop="20250517044400 +0800">
 		<title lang="zh">27_初婚</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250517044400 +0800" stop="20250517054100 +0800">
+		<title lang="zh">28_初婚</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48113,6 +48146,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250517032700 +0800" stop="20250517043100 +0800">
 		<title lang="zh">可爱的野生动物宝宝（上）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250517043100 +0800" stop="20250517051600 +0800">
+		<title lang="zh">20_三十而已</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48150,6 +48186,9 @@
 	<programme channel="newtv军事评论" start="20250517034300 +0800" stop="20250517043500 +0800">
 		<title lang="zh">博物馆里话海军 海军知识挑战赛b7人民海军成立75周年特别策划</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250517043500 +0800" stop="20250517050000 +0800">
+		<title lang="zh">台媒妄言饱和攻击可“重创解放军航母” 美被曝计划助菲修复“坐滩”军舰</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48171,6 +48210,12 @@
 	<programme channel="newtv炫舞未来" start="20250517040500 +0800" stop="20250517042200 +0800">
 		<title lang="zh">风吹麦浪-李莹（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250517042200 +0800" stop="20250517043800 +0800">
+		<title lang="zh">吉米来吧-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250517043800 +0800" stop="20250517052800 +0800">
+		<title lang="zh">02_茶香情满园</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48182,6 +48227,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250517033100 +0800" stop="20250517043500 +0800">
 		<title lang="zh">06_天狼星行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250517043500 +0800" stop="20250517053900 +0800">
+		<title lang="zh">07_天狼星行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
