@@ -48384,6 +48384,9 @@
 	<programme channel="纯享4K" start="20250521224000 +0800" stop="20250521231000 +0800">
 		<title lang="zh">好吃客4K 泉州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250521231000 +0800" stop="20250521233800 +0800">
+		<title lang="zh">好吃客4K 西安</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59409,6 +59412,9 @@
 	<programme channel="黑莓动画" start="20250521212000 +0800" stop="20250521225500 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250521225500 +0800" stop="20250521000000 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59450,6 +59456,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250521205000 +0800" stop="20250521230200 +0800">
 		<title lang="zh">星际迷航：暗黑无界</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521230200 +0800" stop="20250521010400 +0800">
+		<title lang="zh">今夜，就算这份爱恋从世界上消失</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -59811,6 +59820,9 @@
 	<programme channel="newtv超级综艺" start="20250521214700 +0800" stop="20250521230300 +0800">
 		<title lang="zh">风华国乐—乐从东方来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250521230300 +0800" stop="20250521234800 +0800">
+		<title lang="zh">29_暴风眼</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60011,6 +60023,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250521214000 +0800" stop="20250521224600 +0800">
 		<title lang="zh">06_漫长的季节</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250521224600 +0800" stop="20250521000900 +0800">
+		<title lang="zh">07_漫长的季节</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60309,6 +60324,9 @@
 	<programme channel="newtv古装剧场" start="20250521222700 +0800" stop="20250521230800 +0800">
 		<title lang="zh">19_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250521230800 +0800" stop="20250521234900 +0800">
+		<title lang="zh">20_星汉灿烂</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60402,6 +60420,9 @@
 	<programme channel="newtv军旅剧场" start="20250521220400 +0800" stop="20250521224900 +0800">
 		<title lang="zh">10_猎狼刀</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250521224900 +0800" stop="20250521233500 +0800">
+		<title lang="zh">11_猎狼刀</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60494,6 +60515,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250521220200 +0800" stop="20250521225200 +0800">
 		<title lang="zh">07_珠江人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250521225200 +0800" stop="20250521233700 +0800">
+		<title lang="zh">08_珠江人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60834,6 +60858,9 @@
 	<programme channel="newtv怡伴健康" start="20250521221800 +0800" stop="20250521224800 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第17期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250521224800 +0800" stop="20250521233400 +0800">
+		<title lang="zh">北京源莱慧精英vs北京东炸团 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61080,6 +61107,9 @@
 	<programme channel="newtv军事评论" start="20250521222900 +0800" stop="20250521225500 +0800">
 		<title lang="zh">解放军捍卫主权：航母演训震慑外敌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250521225500 +0800" stop="20250521232000 +0800">
+		<title lang="zh">我们的宝岛：家从大陆来 乡音诉乡情</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61184,6 +61214,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250521223700 +0800" stop="20250521225300 +0800">
 		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250521225300 +0800" stop="20250521230600 +0800">
+		<title lang="zh">领航-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250521230600 +0800" stop="20250521232400 +0800">
+		<title lang="zh">压力来源：强计划型的强迫症</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
