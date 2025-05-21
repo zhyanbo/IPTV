@@ -17292,11 +17292,17 @@
 	<programme channel="咪咕综合体育" start="20250522011000 +0800" stop="20250522014500 +0800">
 		<title lang="zh">纪录片巨石强森 移动泰山</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250522015000 +0800" stop="20250522024000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250522000100 +0800" stop="20250522012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250522012600 +0800" stop="20250522022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -42303,6 +42309,9 @@
 	<programme channel="纯享4K" start="20250522010100 +0800" stop="20250522013000 +0800">
 		<title lang="zh">味道4K 原味乡间b7彭泽篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250522013000 +0800" stop="20250522015900 +0800">
+		<title lang="zh">味道4K 原味乡间b7东莞篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52386,6 +52395,9 @@
 	<programme channel="newtv超级电影" start="20250522001700 +0800" stop="20250522014200 +0800">
 		<title lang="zh">地上最强</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250522014200 +0800" stop="20250522034100 +0800">
+		<title lang="zh">十八洞村</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52394,6 +52406,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250522005400 +0800" stop="20250522014000 +0800">
 		<title lang="zh">20_侦察英雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250522014000 +0800" stop="20250522022500 +0800">
+		<title lang="zh">21_侦察英雄</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52406,6 +52421,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250522005800 +0800" stop="20250522012500 +0800">
 		<title lang="zh">25_鹊刀门传奇</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250522012500 +0800" stop="20250522015400 +0800">
+		<title lang="zh">26_鹊刀门传奇</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52494,6 +52512,9 @@
 	<programme channel="newtv炫舞未来" start="20250522001200 +0800" stop="20250522012900 +0800">
 		<title lang="zh">九五后女兽医穿得粉 治得准 用实力打破偏见赢得尊重（20250402）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250522012900 +0800" stop="20250522020700 +0800">
+		<title lang="zh">第1期：山涧起舞！品诗仙李白《上李邕》</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52503,41 +52524,8 @@
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
-	<programme channel="newtv惊悚悬疑" start="20250522000000 +0800" stop="20250522020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522020000 +0800" stop="20250522040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522060000 +0800" stop="20250522080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522080000 +0800" stop="20250522100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522100600 +0800" stop="20250522120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522120000 +0800" stop="20250522140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522140000 +0800" stop="20250522160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522160000 +0800" stop="20250522180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522180000 +0800" stop="20250522190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522190000 +0800" stop="20250522200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522200000 +0800" stop="20250522220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv惊悚悬疑" start="20250522220000 +0800" stop="20250522235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv惊悚悬疑" start="20250522012000 +0800" stop="20250522020000 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
