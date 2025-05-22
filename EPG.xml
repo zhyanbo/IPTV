@@ -17298,6 +17298,9 @@
 	<programme channel="咪咕综合体育" start="20250523024500 +0800" stop="20250523031000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250523031000 +0800" stop="20250523045000 +0800">
+		<title lang="zh">足球世界-24/25赛季亚冠精英联赛 决赛 吉达国民-川崎前锋</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42321,6 +42324,9 @@
 	<programme channel="纯享4K" start="20250523023500 +0800" stop="20250523030500 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7神玉寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250523030500 +0800" stop="20250523034400 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（5）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52527,6 +52533,9 @@
 	<programme channel="newtv超级电视剧" start="20250523022400 +0800" stop="20250523031000 +0800">
 		<title lang="zh">27_侦察英雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250523031000 +0800" stop="20250523035500 +0800">
+		<title lang="zh">28_侦察英雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52544,6 +52553,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250523022100 +0800" stop="20250523024800 +0800">
 		<title lang="zh">33_鹊刀门传奇</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250523024800 +0800" stop="20250523033200 +0800">
+		<title lang="zh">34_鹊刀门传奇</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52572,6 +52584,9 @@
 	<programme channel="newtv古装剧场" start="20250523021300 +0800" stop="20250523030000 +0800">
 		<title lang="zh">37_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250523030000 +0800" stop="20250523034700 +0800">
+		<title lang="zh">38_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52586,6 +52601,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250523022400 +0800" stop="20250523031200 +0800">
 		<title lang="zh">35_血染大青山</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250523031200 +0800" stop="20250523035900 +0800">
+		<title lang="zh">16_英雄祭</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52610,6 +52628,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250523020300 +0800" stop="20250523025200 +0800">
 		<title lang="zh">31_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250523025200 +0800" stop="20250523034200 +0800">
+		<title lang="zh">32_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52659,6 +52680,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250523023300 +0800" stop="20250523031300 +0800">
 		<title lang="zh">19_千金女贼</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250523031300 +0800" stop="20250523035000 +0800">
+		<title lang="zh">20_千金女贼</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52670,6 +52694,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250523020800 +0800" stop="20250523030000 +0800">
 		<title lang="zh">画说长征 纪念红军长征出发90周年</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250523030000 +0800" stop="20250523035200 +0800">
+		<title lang="zh">行进在光荣的战旗下 走进陆军第77集团军某旅</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52689,6 +52716,9 @@
 	<programme channel="newtv精品综合" start="20250523015000 +0800" stop="20250523030600 +0800">
 		<title lang="zh">桃花坞开放中第3季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250523030600 +0800" stop="20250523035500 +0800">
+		<title lang="zh">27_天狼星行动</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52703,6 +52733,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250523001600 +0800" stop="20250523025600 +0800">
 		<title lang="zh">越战越勇（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250523025600 +0800" stop="20250523043200 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
