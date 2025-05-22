@@ -61254,6 +61254,9 @@
 	<programme channel="newtv精品纪录" start="20250522211900 +0800" stop="20250522214400 +0800">
 		<title lang="zh">03_生熟</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250522214400 +0800" stop="20250522220900 +0800">
+		<title lang="zh">04_行家</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61340,6 +61343,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250522205400 +0800" stop="20250522214000 +0800">
 		<title lang="zh">07_庆余年</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250522214000 +0800" stop="20250522222800 +0800">
+		<title lang="zh">22_星汉灿烂</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61599,6 +61605,9 @@
 	<programme channel="newtv热播精选" start="20250522210700 +0800" stop="20250522214000 +0800">
 		<title lang="zh">17_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250522214000 +0800" stop="20250522221000 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61721,6 +61730,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250522200400 +0800" stop="20250522214300 +0800">
 		<title lang="zh">花花型警</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250522214300 +0800" stop="20250522221300 +0800">
+		<title lang="zh">《八段锦》推荐第22期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -62516,6 +62528,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250522204900 +0800" stop="20250522213500 +0800">
 		<title lang="zh">20_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250522213500 +0800" stop="20250522220500 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第18期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
