@@ -46773,6 +46773,9 @@
 	<programme channel="纯享4K" start="20250524193000 +0800" stop="20250524201200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 木兰溪畔 山水莆田</title>
 	</programme>
+	<programme channel="纯享4K" start="20250524201200 +0800" stop="20250524205300 +0800">
+		<title lang="zh">远方的家4K 中国自然秘境 湘西秘境 共享家园</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -56607,6 +56610,9 @@
 	<programme channel="黑莓动画" start="20250524185500 +0800" stop="20250524202200 +0800">
 		<title lang="zh">棉球方块历险记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250524202200 +0800" stop="20250524215100 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -57180,6 +57186,9 @@
 	<programme channel="newtv超级电视剧" start="20250524193600 +0800" stop="20250524202100 +0800">
 		<title lang="zh">04_似锦</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250524202100 +0800" stop="20250524210700 +0800">
+		<title lang="zh">05_似锦</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57258,6 +57267,9 @@
 	<programme channel="newtv精品大剧" start="20250524193200 +0800" stop="20250524201400 +0800">
 		<title lang="zh">01_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250524201400 +0800" stop="20250524204400 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -57332,6 +57344,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250524192400 +0800" stop="20250524200200 +0800">
 		<title lang="zh">家乡至味2022（36）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250524200200 +0800" stop="20250524205100 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -57408,6 +57423,9 @@
 	<programme channel="newtv古装剧场" start="20250524192200 +0800" stop="20250524200800 +0800">
 		<title lang="zh">15_庆余年</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250524200800 +0800" stop="20250524205500 +0800">
+		<title lang="zh">16_庆余年</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -57479,6 +57497,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250524192100 +0800" stop="20250524200600 +0800">
 		<title lang="zh">42_四十九日b7祭（DVD版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250524200600 +0800" stop="20250524205100 +0800">
+		<title lang="zh">桃花绽放第1集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -57626,6 +57647,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250524194900 +0800" stop="20250524202300 +0800">
 		<title lang="zh">24_西出玉门</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250524202300 +0800" stop="20250524205500 +0800">
+		<title lang="zh">25_西出玉门</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -57825,6 +57849,9 @@
 	<programme channel="newtv怡伴健康" start="20250524192200 +0800" stop="20250524200300 +0800">
 		<title lang="zh">北京源莱慧精英vs北京源莱慧热爱 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250524200300 +0800" stop="20250524203300 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -57926,6 +57953,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250524194200 +0800" stop="20250524202800 +0800">
 		<title lang="zh">07_我的后半生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250524202800 +0800" stop="20250524211300 +0800">
+		<title lang="zh">08_我的后半生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -58064,6 +58094,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250524195600 +0800" stop="20250524202200 +0800">
 		<title lang="zh">狂言“寸土不让” 赖清德拉美国壮胆</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250524202200 +0800" stop="20250524204700 +0800">
+		<title lang="zh">特朗普硬要保护费 两岸都不买账</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -58226,6 +58259,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250524193700 +0800" stop="20250524201200 +0800">
 		<title lang="zh">24_想见你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250524201200 +0800" stop="20250524204700 +0800">
+		<title lang="zh">25_想见你</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
