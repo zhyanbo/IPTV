@@ -51345,6 +51345,9 @@
 	<programme channel="newtv超级综艺" start="20250527014200 +0800" stop="20250527025200 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250527025200 +0800" stop="20250527050400 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51378,6 +51381,9 @@
 	<programme channel="newtv超级电视剧" start="20250527020400 +0800" stop="20250527025100 +0800">
 		<title lang="zh">14_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250527025100 +0800" stop="20250527033800 +0800">
+		<title lang="zh">15_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51392,6 +51398,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250527020500 +0800" stop="20250527030100 +0800">
 		<title lang="zh">10_鹊刀门传奇2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250527030100 +0800" stop="20250527034500 +0800">
+		<title lang="zh">35_维和步兵营</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51507,6 +51516,9 @@
 	<programme channel="newtv军事评论" start="20250527020400 +0800" stop="20250527025700 +0800">
 		<title lang="zh">守护徽州山水间</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250527025700 +0800" stop="20250527035100 +0800">
+		<title lang="zh">2024年春节特别节目 老兵新春会客厅（1）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51515,6 +51527,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250527020200 +0800" stop="20250527025200 +0800">
 		<title lang="zh">绽放吧！妈妈（20250505）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250527025200 +0800" stop="20250527030600 +0800">
+		<title lang="zh">相遇花开-饶子龙（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
