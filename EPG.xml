@@ -17289,6 +17289,9 @@
 	<programme channel="咪咕足球" start="20250528022600 +0800" stop="20250528024100 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250528024100 +0800" stop="20250528042100 +0800">
+		<title lang="zh">2024NBL 长沙湾田勇胜-河南赊店老酒</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -52170,6 +52173,9 @@
 	<programme channel="newtv超级电视剧" start="20250528020300 +0800" stop="20250528024900 +0800">
 		<title lang="zh">19_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250528024900 +0800" stop="20250528033600 +0800">
+		<title lang="zh">20_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52242,11 +52248,17 @@
 	<programme channel="newtv热播精选" start="20250528020100 +0800" stop="20250528024600 +0800">
 		<title lang="zh">18_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250528024600 +0800" stop="20250528035100 +0800">
+		<title lang="zh">19_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250528002900 +0800" stop="20250528023300 +0800">
 		<title lang="zh">杀戒</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250528023300 +0800" stop="20250528033800 +0800">
+		<title lang="zh">08_雁归西窗月</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52269,6 +52281,9 @@
 	<programme channel="newtv怡伴健康" start="20250528012800 +0800" stop="20250528023700 +0800">
 		<title lang="zh">05_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250528023700 +0800" stop="20250528032500 +0800">
+		<title lang="zh">龟之魅力</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52280,6 +52295,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250528022100 +0800" stop="20250528024100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250528024100 +0800" stop="20250528032700 +0800">
+		<title lang="zh">42_千金女贼</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
