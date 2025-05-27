@@ -42207,6 +42207,12 @@
 	<programme channel="纯享4K" start="20250528041800 +0800" stop="20250528045900 +0800">
 		<title lang="zh">远方的家 中国自然秘境 北回归线上的绿色家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250528045900 +0800" stop="20250528050500 +0800">
+		<title lang="zh">美丽中国自然4K 广东茂名系列 虎颜花开</title>
+	</programme>
+	<programme channel="纯享4K" start="20250528051000 +0800" stop="20250528055500 +0800">
+		<title lang="zh">传承b7智慧篇4K 第5集 美学之码</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52317,6 +52323,9 @@
 	<programme channel="newtv超级电视剧" start="20250528042100 +0800" stop="20250528050900 +0800">
 		<title lang="zh">07_舍不得星星</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250528050900 +0800" stop="20250528055500 +0800">
+		<title lang="zh">08_舍不得星星</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52361,6 +52370,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250528042000 +0800" stop="20250528050900 +0800">
 		<title lang="zh">第5集：从世界到中国</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250528050900 +0800" stop="20250528055500 +0800">
+		<title lang="zh">第6集：从内涵到驱动</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52464,6 +52476,9 @@
 	<programme channel="newtv动作电影" start="20250528030600 +0800" stop="20250528045100 +0800">
 		<title lang="zh">陆小凤传奇之绣花大盗</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250528045100 +0800" stop="20250528065000 +0800">
+		<title lang="zh">女兵突击</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52484,6 +52499,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250528041300 +0800" stop="20250528045800 +0800">
 		<title lang="zh">42_三十而已</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250528045800 +0800" stop="20250528054500 +0800">
+		<title lang="zh">43_三十而已</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52509,6 +52527,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250528042600 +0800" stop="20250528050500 +0800">
 		<title lang="zh">44_千金女贼</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250528050500 +0800" stop="20250528054300 +0800">
+		<title lang="zh">调理脏腑有门道（下）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52529,6 +52550,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250528043900 +0800" stop="20250528050100 +0800">
 		<title lang="zh">卡西诺之战b7苦战（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250528050100 +0800" stop="20250528052300 +0800">
+		<title lang="zh">卡西诺之战b7苦战（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52580,6 +52604,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250528031000 +0800" stop="20250528044700 +0800">
 		<title lang="zh">谷魂</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250528044700 +0800" stop="20250528061900 +0800">
+		<title lang="zh">昆仑神宫</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -52655,6 +52682,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250528033800 +0800" stop="20250528045700 +0800">
 		<title lang="zh">女子太极剑决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250528045700 +0800" stop="20250528061800 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
