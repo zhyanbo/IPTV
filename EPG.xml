@@ -16758,6 +16758,9 @@
 	<programme channel="咪咕足球" start="20250529000100 +0800" stop="20250529012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250529012600 +0800" stop="20250529022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -51132,6 +51135,9 @@
 	<programme channel="newtv超级综艺" start="20250529010400 +0800" stop="20250529015000 +0800">
 		<title lang="zh">16_黑白禁区</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250529015000 +0800" stop="20250529033300 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51147,11 +51153,17 @@
 	<programme channel="newtv超级电影" start="20250529000200 +0800" stop="20250529013500 +0800">
 		<title lang="zh">道医傅青主</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250529013500 +0800" stop="20250529030500 +0800">
+		<title lang="zh">并购风云</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250529003800 +0800" stop="20250529012400 +0800">
 		<title lang="zh">22_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250529012400 +0800" stop="20250529020900 +0800">
+		<title lang="zh">23_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51168,11 +51180,17 @@
 	<programme channel="newtv精品纪录" start="20250529002000 +0800" stop="20250529013000 +0800">
 		<title lang="zh">牛奶——事实 数据和观念</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250529013000 +0800" stop="20250529023800 +0800">
+		<title lang="zh">第一集 燃烧的力量</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250529002600 +0800" stop="20250529012700 +0800">
 		<title lang="zh">19_大舜</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250529012700 +0800" stop="20250529022900 +0800">
+		<title lang="zh">20_大舜</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51185,6 +51203,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250529004200 +0800" stop="20250529012500 +0800">
 		<title lang="zh">20_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250529012500 +0800" stop="20250529022800 +0800">
+		<title lang="zh">21_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51233,6 +51254,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250529001300 +0800" stop="20250529012800 +0800">
 		<title lang="zh">灯火中国（20240929）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250529012800 +0800" stop="20250529024500 +0800">
+		<title lang="zh">来自辽宁卫视的主持人姜依含 长相甜美能说会道（20241119）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
