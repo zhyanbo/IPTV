@@ -14421,11 +14421,17 @@
 	<programme channel="咪咕综合体育" start="20250602001000 +0800" stop="20250602005500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第五集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250602010000 +0800" stop="20250602024000 +0800">
+		<title lang="zh">足球世界-24/25赛季亚冠精英联赛 决赛 吉达国民-川崎前锋</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250602000100 +0800" stop="20250602012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250602012100 +0800" stop="20250602012600 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -36207,6 +36213,9 @@
 	<programme channel="纯享4K" start="20250602003000 +0800" stop="20250602005800 +0800">
 		<title lang="zh">记住乡愁——门楣之上4K 天水胡氏——心底无私千古公</title>
 	</programme>
+	<programme channel="纯享4K" start="20250602005800 +0800" stop="20250602012800 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（1）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -44670,11 +44679,17 @@
 	<programme channel="newtv超级综艺" start="20250602002200 +0800" stop="20250602010700 +0800">
 		<title lang="zh">31_黑白禁区</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250602010700 +0800" stop="20250602015300 +0800">
+		<title lang="zh">32_黑白禁区</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250602000500 +0800" stop="20250602010500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2025年亚洲举重锦标赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250602010500 +0800" stop="20250602023600 +0800">
+		<title lang="zh">赛事集锦-2025年世界室内田径锦标赛 1(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -44688,17 +44703,26 @@
 	<programme channel="newtv超级电视剧" start="20250602002000 +0800" stop="20250602010300 +0800">
 		<title lang="zh">03_巾帼枭雄之悬崖</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250602010300 +0800" stop="20250602014700 +0800">
+		<title lang="zh">04_巾帼枭雄之悬崖</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250602002200 +0800" stop="20250602004900 +0800">
 		<title lang="zh">31_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250602004900 +0800" stop="20250602014400 +0800">
+		<title lang="zh">32_鹊刀门传奇2</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20250602000700 +0800" stop="20250602005700 +0800">
 		<title lang="zh">第二集 中国探月</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250602005700 +0800" stop="20250602014700 +0800">
+		<title lang="zh">第三集 嫦娥落月</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
