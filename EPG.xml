@@ -13728,16 +13728,16 @@
 	<programme channel="东方卫视" start="20250604032000 +0800" stop="20250604032300 +0800">
 		<title lang="zh">明日精彩看点</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604032300 +0800" stop="20250604040500 +0800">
+	<programme channel="东方卫视" start="20250604032300 +0800" stop="20250604040600 +0800">
 		<title lang="zh">画眉（17）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604040500 +0800" stop="20250604045000 +0800">
+	<programme channel="东方卫视" start="20250604040600 +0800" stop="20250604045000 +0800">
 		<title lang="zh">画眉（18）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604045000 +0800" stop="20250604053100 +0800">
+	<programme channel="东方卫视" start="20250604045000 +0800" stop="20250604053200 +0800">
 		<title lang="zh">画眉（19）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604053100 +0800" stop="20250604053500 +0800">
+	<programme channel="东方卫视" start="20250604053200 +0800" stop="20250604053500 +0800">
 		<title lang="zh">明日精彩看点</title>
 	</programme>
 	<programme channel="东方卫视" start="20250604053500 +0800" stop="20250604061600 +0800">
@@ -13791,10 +13791,10 @@
 	<programme channel="东方卫视" start="20250604141400 +0800" stop="20250604145700 +0800">
 		<title lang="zh">六姊妹（11）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604145700 +0800" stop="20250604153900 +0800">
+	<programme channel="东方卫视" start="20250604145700 +0800" stop="20250604154000 +0800">
 		<title lang="zh">六姊妹（12）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250604153900 +0800" stop="20250604162200 +0800">
+	<programme channel="东方卫视" start="20250604154000 +0800" stop="20250604162200 +0800">
 		<title lang="zh">六姊妹（13）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250604162200 +0800" stop="20250604170500 +0800">
@@ -65883,6 +65883,9 @@
 	<programme channel="纯享4K" start="20250604180200 +0800" stop="20250604183000 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7杭州（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250604183000 +0800" stop="20250604190000 +0800">
+		<title lang="zh">旅游指南4K 好吃客b7杭州（下）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82737,6 +82740,9 @@
 	<programme channel="newtv超级电视剧" start="20250604180100 +0800" stop="20250604184500 +0800">
 		<title lang="zh">17_旗袍美探</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250604184500 +0800" stop="20250604192900 +0800">
+		<title lang="zh">18_旗袍美探</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82806,6 +82812,9 @@
 	<programme channel="newtv精品大剧" start="20250604175000 +0800" stop="20250604182000 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第32期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250604182000 +0800" stop="20250604192500 +0800">
+		<title lang="zh">20_锦绣未央</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82874,6 +82883,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250604180800 +0800" stop="20250604183600 +0800">
 		<title lang="zh">第二集：织焰</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250604183600 +0800" stop="20250604191500 +0800">
+		<title lang="zh">家乡至味2022（52）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83013,6 +83025,9 @@
 	<programme channel="newtv军旅剧场" start="20250604173900 +0800" stop="20250604182300 +0800">
 		<title lang="zh">12_黎明决战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250604182300 +0800" stop="20250604190600 +0800">
+		<title lang="zh">13_黎明决战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83079,6 +83094,9 @@
 	<programme channel="newtv家庭剧场" start="20250604172200 +0800" stop="20250604182800 +0800">
 		<title lang="zh">20_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250604182800 +0800" stop="20250604191400 +0800">
+		<title lang="zh">16_幸福来敲门</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83138,6 +83156,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250604175900 +0800" stop="20250604184400 +0800">
 		<title lang="zh">老广的味道 第三季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250604184400 +0800" stop="20250604193000 +0800">
+		<title lang="zh">28_在暴雪时分</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83322,6 +83343,9 @@
 	<programme channel="newtv怡伴健康" start="20250604180000 +0800" stop="20250604184300 +0800">
 		<title lang="zh">北京源莱慧精英vs北京源莱慧热爱--第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250604184300 +0800" stop="20250604191300 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第24期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83405,6 +83429,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250604181100 +0800" stop="20250604184600 +0800">
 		<title lang="zh">15_西出玉门</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250604184600 +0800" stop="20250604192200 +0800">
+		<title lang="zh">16_西出玉门</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83532,6 +83559,9 @@
 	<programme channel="newtv军事评论" start="20250604175800 +0800" stop="20250604182500 +0800">
 		<title lang="zh">破浪前行</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250604182500 +0800" stop="20250604185200 +0800">
+		<title lang="zh">全新挑战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83615,6 +83645,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250604174900 +0800" stop="20250604183600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250604183600 +0800" stop="20250604195300 +0800">
+		<title lang="zh">天南海北的掌勺人共聚一堂 用美味介绍家乡（20250519）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83900,6 +83933,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250604175100 +0800" stop="20250604182100 +0800">
 		<title lang="zh">《八段锦》推荐第24期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250604182100 +0800" stop="20250604190700 +0800">
+		<title lang="zh">19_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
