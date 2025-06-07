@@ -48096,6 +48096,9 @@
 	<programme channel="newtv精品大剧" start="20250608020100 +0800" stop="20250608024700 +0800">
 		<title lang="zh">17_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250608024700 +0800" stop="20250608035300 +0800">
+		<title lang="zh">18_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48122,6 +48125,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250608014400 +0800" stop="20250608025400 +0800">
 		<title lang="zh">21_双刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250608025400 +0800" stop="20250608040500 +0800">
+		<title lang="zh">22_双刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48206,6 +48212,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250608020800 +0800" stop="20250608030100 +0800">
 		<title lang="zh">执笔为戈：晋察冀战地记者（上集）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250608030100 +0800" stop="20250608035400 +0800">
+		<title lang="zh">执笔为戈：晋察冀战地记者（下集）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
