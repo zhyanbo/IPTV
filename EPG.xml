@@ -39384,6 +39384,9 @@
 	<programme channel="纯享4K" start="20250609024400 +0800" stop="20250609031400 +0800">
 		<title lang="zh">寻古中国4K 稻谷记b7稻丰古国</title>
 	</programme>
+	<programme channel="纯享4K" start="20250609031400 +0800" stop="20250609035300 +0800">
+		<title lang="zh">探索b7发现4K 西朱村大墓墓主之谜（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48084,6 +48087,9 @@
 	<programme channel="黑莓动画" start="20250609010700 +0800" stop="20250609025800 +0800">
 		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250609025800 +0800" stop="20250609042600 +0800">
+		<title lang="zh">太空神鹰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48318,6 +48324,9 @@
 	<programme channel="newtv超级电视剧" start="20250609021500 +0800" stop="20250609030200 +0800">
 		<title lang="zh">16_使徒行者3</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250609030200 +0800" stop="20250609034700 +0800">
+		<title lang="zh">17_使徒行者3</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48329,6 +48338,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250609022300 +0800" stop="20250609030800 +0800">
 		<title lang="zh">21_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250609030800 +0800" stop="20250609041400 +0800">
+		<title lang="zh">22_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48350,6 +48362,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250609014300 +0800" stop="20250609025800 +0800">
 		<title lang="zh">29_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250609025800 +0800" stop="20250609041400 +0800">
+		<title lang="zh">30_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48374,6 +48389,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250609022800 +0800" stop="20250609031300 +0800">
 		<title lang="zh">32_追爱家族</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250609031300 +0800" stop="20250609041800 +0800">
+		<title lang="zh">33_追爱家族</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48462,6 +48480,12 @@
 	<programme channel="newtv炫舞未来" start="20250609023900 +0800" stop="20250609025500 +0800">
 		<title lang="zh">兄弟想你了-李萍（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250609025500 +0800" stop="20250609030400 +0800">
+		<title lang="zh">最炫民族风-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250609030400 +0800" stop="20250609032300 +0800">
+		<title lang="zh">送你一首吉祥的歌-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48471,6 +48495,9 @@
 	<programme channel="newtv精品综合" start="20250609014300 +0800" stop="20250609030300 +0800">
 		<title lang="zh">十三邀第7季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250609030300 +0800" stop="20250609041800 +0800">
+		<title lang="zh">25_亮剑</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -48479,6 +48506,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250609005400 +0800" stop="20250609025400 +0800">
 		<title lang="zh">夺命枪火</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250609025400 +0800" stop="20250609042900 +0800">
+		<title lang="zh">不速之客</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
