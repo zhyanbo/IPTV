@@ -48741,6 +48741,9 @@
 	<programme channel="newtv超级电视剧" start="20250614021100 +0800" stop="20250614030200 +0800">
 		<title lang="zh">03_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250614030200 +0800" stop="20250614035600 +0800">
+		<title lang="zh">04_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48773,6 +48776,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250614014200 +0800" stop="20250614025800 +0800">
 		<title lang="zh">49_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250614025800 +0800" stop="20250614041300 +0800">
+		<title lang="zh">50_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48833,6 +48839,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250614015300 +0800" stop="20250614025300 +0800">
 		<title lang="zh">03_新白蛇传</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250614025300 +0800" stop="20250614034100 +0800">
+		<title lang="zh">生死交锋</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
