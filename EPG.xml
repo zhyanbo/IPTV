@@ -16260,6 +16260,9 @@
 	<programme channel="咪咕足球" start="20250614000100 +0800" stop="20250614012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250614012600 +0800" stop="20250614022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38997,6 +39000,9 @@
 	<programme channel="纯享4K" start="20250614010400 +0800" stop="20250614013300 +0800">
 		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250614013300 +0800" stop="20250614020200 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（1）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -48570,6 +48576,9 @@
 	<programme channel="newtv超级综艺" start="20250614003400 +0800" stop="20250614012000 +0800">
 		<title lang="zh">15_折腰</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250614012000 +0800" stop="20250614020700 +0800">
+		<title lang="zh">16_折腰</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48594,11 +48603,17 @@
 	<programme channel="newtv超级电视剧" start="20250614003100 +0800" stop="20250614012000 +0800">
 		<title lang="zh">01_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250614012000 +0800" stop="20250614021100 +0800">
+		<title lang="zh">02_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250614003600 +0800" stop="20250614012300 +0800">
 		<title lang="zh">39_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250614012300 +0800" stop="20250614022900 +0800">
+		<title lang="zh">01_菜刀班尖刀连</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48606,11 +48621,17 @@
 	<programme channel="newtv精品纪录" start="20250614000600 +0800" stop="20250614012400 +0800">
 		<title lang="zh">第三集 电驱加速度</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250614012400 +0800" stop="20250614024200 +0800">
+		<title lang="zh">第四集 重装夺巧工</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250614002700 +0800" stop="20250614014200 +0800">
 		<title lang="zh">48_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250614014200 +0800" stop="20250614025800 +0800">
+		<title lang="zh">49_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48669,6 +48690,9 @@
 	<programme channel="newtv军事评论" start="20250614000800 +0800" stop="20250614005400 +0800">
 		<title lang="zh">闪亮的坐标 第5集 血战碾庄扬英名</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250614014000 +0800" stop="20250614022800 +0800">
+		<title lang="zh">长征足迹 第1集 于都河水映初心</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48686,6 +48710,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250614004000 +0800" stop="20250614012800 +0800">
 		<title lang="zh">丹麦原装进口PG酵母β-葡聚糖麦芽复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250614012800 +0800" stop="20250614032800 +0800">
+		<title lang="zh">拆弹专家（普通话版）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -48743,6 +48770,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250614000600 +0800" stop="20250614013000 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250614013000 +0800" stop="20250614030500 +0800">
+		<title lang="zh">齐天大圣b7无双</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
