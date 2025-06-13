@@ -16251,6 +16251,9 @@
 	<programme channel="咪咕综合体育" start="20250614000000 +0800" stop="20250614010000 +0800">
 		<title lang="zh">网球世界-WTA500伦敦站 1/4决赛 郑钦文-拉杜卡努 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250614010500 +0800" stop="20250614020000 +0800">
+		<title lang="zh">纪录片曼联92班第二季 第二集</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38991,6 +38994,9 @@
 	<programme channel="纯享4K" start="20250614003400 +0800" stop="20250614010400 +0800">
 		<title lang="zh">记住乡愁 第五季4K 自贡仙市老街——吃得咸 看得淡</title>
 	</programme>
+	<programme channel="纯享4K" start="20250614010400 +0800" stop="20250614013300 +0800">
+		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -48270,6 +48276,12 @@
 	<programme channel="黄石都市，黄石都市" start="20250614235400 +0800" stop="20250614235900 +0800">
 		<title lang="zh">网罗天下</title>
 	</programme>
+	<channel id="黑莓动画">
+		<display-name lang="zh">黑莓动画</display-name>
+	</channel>
+	<programme channel="黑莓动画" start="20250614010100 +0800" stop="20250614024000 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48564,6 +48576,9 @@
 	<programme channel="newtv超级体育" start="20250614003500 +0800" stop="20250614010500 +0800">
 		<title lang="zh">实况录像-2025年攀岩世界杯 印尼站 速度赛决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250614010500 +0800" stop="20250614023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 拉巴特站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48609,6 +48624,9 @@
 	<programme channel="newtv家庭剧场" start="20250614003100 +0800" stop="20250614011600 +0800">
 		<title lang="zh">10_向幸福出发</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250614011600 +0800" stop="20250614022100 +0800">
+		<title lang="zh">11_向幸福出发</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48633,11 +48651,17 @@
 	<programme channel="newtv怡伴健康" start="20250614002300 +0800" stop="20250614011200 +0800">
 		<title lang="zh">SHARP大容量双内胆IH电饭煲/健康筷/多功能饮品杯-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250614011200 +0800" stop="20250614015300 +0800">
+		<title lang="zh">02_新白蛇传</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250614001800 +0800" stop="20250614010300 +0800">
 		<title lang="zh">05_折腰</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250614010300 +0800" stop="20250614015200 +0800">
+		<title lang="zh">06_折腰</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
