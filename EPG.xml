@@ -17118,6 +17118,9 @@
 	<programme channel="咪咕足球" start="20250615000100 +0800" stop="20250615012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250615012600 +0800" stop="20250615022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41787,6 +41790,9 @@
 	<programme channel="纯享4K" start="20250615010300 +0800" stop="20250615013200 +0800">
 		<title lang="zh">味道4K 原味乡间b7襄阳篇（2）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250615013200 +0800" stop="20250615020100 +0800">
+		<title lang="zh">味道4K 原味乡间b7襄阳篇（3）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52020,6 +52026,9 @@
 	<programme channel="黑莓动画" start="20250615000400 +0800" stop="20250615013300 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250615013300 +0800" stop="20250615030100 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52326,11 +52335,17 @@
 	<programme channel="newtv超级电视剧" start="20250615004100 +0800" stop="20250615012900 +0800">
 		<title lang="zh">06_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250615012900 +0800" stop="20250615020800 +0800">
+		<title lang="zh">07_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250615003300 +0800" stop="20250615011900 +0800">
 		<title lang="zh">04_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250615011900 +0800" stop="20250615022500 +0800">
+		<title lang="zh">05_菜刀班尖刀连</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52338,17 +52353,26 @@
 	<programme channel="newtv精品纪录" start="20250615001700 +0800" stop="20250615013600 +0800">
 		<title lang="zh">03_防护</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250615013600 +0800" stop="20250615025400 +0800">
+		<title lang="zh">04_感官</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250615002500 +0800" stop="20250615014100 +0800">
 		<title lang="zh">01_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250615014100 +0800" stop="20250615025700 +0800">
+		<title lang="zh">02_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250615000800 +0800" stop="20250615012600 +0800">
 		<title lang="zh">大号小兵第6集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250615012600 +0800" stop="20250615024100 +0800">
+		<title lang="zh">大号小兵第7集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52383,6 +52407,9 @@
 	<programme channel="newtv怡伴健康" start="20250615005000 +0800" stop="20250615013100 +0800">
 		<title lang="zh">04_新白蛇传</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250615013100 +0800" stop="20250615023000 +0800">
+		<title lang="zh">05_新白蛇传</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52404,6 +52431,9 @@
 	<programme channel="newtv炫舞未来" start="20250615001500 +0800" stop="20250615014000 +0800">
 		<title lang="zh">演员成泰燊、朱铁、姚安濂携手再现《水经注》的成书故事（20230226）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250615014000 +0800" stop="20250615025400 +0800">
+		<title lang="zh">第9期下：最强哈哈团诞生，李川锤锤乐队合体</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52415,6 +52445,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250615004700 +0800" stop="20250615013500 +0800">
 		<title lang="zh">丹麦原装进口PG酵母β-葡聚糖麦芽复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250615013500 +0800" stop="20250615030000 +0800">
+		<title lang="zh">公证人之金手指</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
