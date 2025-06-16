@@ -16905,6 +16905,9 @@
 	<programme channel="咪咕足球" start="20250617012100 +0800" stop="20250617012600 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250617012600 +0800" stop="20250617022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41490,6 +41493,9 @@
 	<programme channel="纯享4K" start="20250617010400 +0800" stop="20250617013300 +0800">
 		<title lang="zh">味道4K 原味乡间b7北京篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250617013300 +0800" stop="20250617020300 +0800">
+		<title lang="zh">味道4K 原味乡间b7景宁篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51819,6 +51825,12 @@
 	<programme channel="黑莓动画" start="20250617010900 +0800" stop="20250617023800 +0800">
 		<title lang="zh">金猴降妖</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250617012300 +0800" stop="20250617025100 +0800">
+		<title lang="zh">时间暗局</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52101,6 +52113,9 @@
 	<programme channel="newtv超级综艺" start="20250617005300 +0800" stop="20250617014000 +0800">
 		<title lang="zh">28_折腰</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250617014000 +0800" stop="20250617032200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52122,6 +52137,9 @@
 	<programme channel="newtv超级电视剧" start="20250617004400 +0800" stop="20250617012900 +0800">
 		<title lang="zh">17_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250617012900 +0800" stop="20250617021400 +0800">
+		<title lang="zh">18_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52140,11 +52158,17 @@
 	<programme channel="newtv精品纪录" start="20250617010100 +0800" stop="20250617014600 +0800">
 		<title lang="zh">01_医路前行</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250617014600 +0800" stop="20250617023000 +0800">
+		<title lang="zh">02_篮板青春</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250617002900 +0800" stop="20250617014500 +0800">
 		<title lang="zh">09_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250617014500 +0800" stop="20250617030100 +0800">
+		<title lang="zh">10_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52184,6 +52208,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250617005600 +0800" stop="20250617013900 +0800">
 		<title lang="zh">08_新白蛇传</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250617013900 +0800" stop="20250617023800 +0800">
+		<title lang="zh">09_新白蛇传</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52233,11 +52260,17 @@
 	<programme channel="newtv军事评论" start="20250617005300 +0800" stop="20250617014300 +0800">
 		<title lang="zh">烽火兵工 第3集 钢铁柳沟旗帜扬</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250617014300 +0800" stop="20250617023400 +0800">
+		<title lang="zh">军威赫赫 第1集 大国仪仗</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250617000900 +0800" stop="20250617013500 +0800">
 		<title lang="zh">撒贝宁对话“女史家”班昭 探寻《汉书》的著书故事（20221028）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250617013500 +0800" stop="20250617022500 +0800">
+		<title lang="zh">02_医 健康</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
