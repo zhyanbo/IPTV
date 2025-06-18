@@ -41778,6 +41778,9 @@
 	<programme channel="纯享4K" start="20250619023300 +0800" stop="20250619030300 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉琢华章</title>
 	</programme>
+	<programme channel="纯享4K" start="20250619030300 +0800" stop="20250619034300 +0800">
+		<title lang="zh">探索b7发现4K 西汉葽奢墓（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52227,11 +52230,17 @@
 	<programme channel="黑莓动画" start="20250619020100 +0800" stop="20250619030500 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250619030500 +0800" stop="20250619042800 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250619012900 +0800" stop="20250619030600 +0800">
 		<title lang="zh">果戈里b7起点</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250619030600 +0800" stop="20250619044500 +0800">
+		<title lang="zh">死里逃生</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -52560,6 +52569,9 @@
 	<programme channel="newtv超级电视剧" start="20250619022900 +0800" stop="20250619031100 +0800">
 		<title lang="zh">29_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250619031100 +0800" stop="20250619035900 +0800">
+		<title lang="zh">30_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52571,6 +52583,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250619022000 +0800" stop="20250619030600 +0800">
 		<title lang="zh">22_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250619030600 +0800" stop="20250619041200 +0800">
+		<title lang="zh">23_菜刀班尖刀连</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52593,6 +52608,9 @@
 	<programme channel="newtv古装剧场" start="20250619014600 +0800" stop="20250619030100 +0800">
 		<title lang="zh">18_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250619030100 +0800" stop="20250619041700 +0800">
+		<title lang="zh">19_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52601,6 +52619,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250619015600 +0800" stop="20250619031100 +0800">
 		<title lang="zh">01_风雷动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250619031100 +0800" stop="20250619042600 +0800">
+		<title lang="zh">02_风雷动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52626,11 +52647,17 @@
 	<programme channel="newtv热播精选" start="20250619021200 +0800" stop="20250619025900 +0800">
 		<title lang="zh">21_三十而已</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250619025900 +0800" stop="20250619040500 +0800">
+		<title lang="zh">22_三十而已</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250619012300 +0800" stop="20250619030000 +0800">
 		<title lang="zh">我的灯塔就是你</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250619030000 +0800" stop="20250619041200 +0800">
+		<title lang="zh">16_幸福有配方</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52671,6 +52698,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250619020700 +0800" stop="20250619025600 +0800">
 		<title lang="zh">31_折腰</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250619025600 +0800" stop="20250619034400 +0800">
+		<title lang="zh">32_折腰</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52685,6 +52715,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250619022400 +0800" stop="20250619031600 +0800">
 		<title lang="zh">无坚不摧金刚钻 《谁是终极英雄》国防知识挑战赛走进金刚钻部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250619031600 +0800" stop="20250619040800 +0800">
+		<title lang="zh">军民共建谱华章 走进双拥模范城——辽宁阜新</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
