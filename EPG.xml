@@ -18369,6 +18369,9 @@
 	<programme channel="咪咕足球" start="20250619112000 +0800" stop="20250619124000 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250619124000 +0800" stop="20250619125000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60249,6 +60252,9 @@
 	<programme channel="newtv精品大剧" start="20250619113500 +0800" stop="20250619124100 +0800">
 		<title lang="zh">01_小日子</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250619124100 +0800" stop="20250619133000 +0800">
+		<title lang="zh">27_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60734,6 +60740,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250619120900 +0800" stop="20250619123600 +0800">
 		<title lang="zh">决胜山岭</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250619123600 +0800" stop="20250619130200 +0800">
+		<title lang="zh">水上驰援</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
