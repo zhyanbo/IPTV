@@ -50574,6 +50574,9 @@
 	<programme channel="newtv古装剧场" start="20250625013300 +0800" stop="20250625024900 +0800">
 		<title lang="zh">42_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250625024900 +0800" stop="20250625040500 +0800">
+		<title lang="zh">43_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50582,6 +50585,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250625013500 +0800" stop="20250625025000 +0800">
 		<title lang="zh">25_风雷动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250625025000 +0800" stop="20250625040500 +0800">
+		<title lang="zh">26_风雷动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50606,6 +50612,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250625020200 +0800" stop="20250625024800 +0800">
 		<title lang="zh">08_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250625024800 +0800" stop="20250625035400 +0800">
+		<title lang="zh">09_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
