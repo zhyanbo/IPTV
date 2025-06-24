@@ -16323,6 +16323,9 @@
 	<programme channel="咪咕足球" start="20250625012100 +0800" stop="20250625012600 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250625012600 +0800" stop="20250625022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40005,6 +40008,9 @@
 	<programme channel="纯享4K" start="20250625010800 +0800" stop="20250625013800 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7张掖篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250625013800 +0800" stop="20250625020800 +0800">
+		<title lang="zh">味道4K 原味乡间b7阿克塞篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50067,6 +50073,12 @@
 	<programme channel="黑莓动画" start="20250625004700 +0800" stop="20250625022000 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250625014600 +0800" stop="20250625031700 +0800">
+		<title lang="zh">路尽骄阳</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50376,6 +50388,9 @@
 	<programme channel="newtv超级电视剧" start="20250625004800 +0800" stop="20250625013300 +0800">
 		<title lang="zh">12_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250625013300 +0800" stop="20250625021800 +0800">
+		<title lang="zh">13_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50400,11 +50415,17 @@
 	<programme channel="newtv古装剧场" start="20250625001800 +0800" stop="20250625013300 +0800">
 		<title lang="zh">41_大秦帝国之裂变</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250625013300 +0800" stop="20250625024900 +0800">
+		<title lang="zh">42_大秦帝国之裂变</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250625002000 +0800" stop="20250625013500 +0800">
 		<title lang="zh">24_风雷动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250625013500 +0800" stop="20250625025000 +0800">
+		<title lang="zh">25_风雷动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50441,6 +50462,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250625004100 +0800" stop="20250625012300 +0800">
 		<title lang="zh">24_新白蛇传</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250625012300 +0800" stop="20250625022600 +0800">
+		<title lang="zh">25_新白蛇传</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
