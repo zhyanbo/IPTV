@@ -52089,6 +52089,9 @@
 	<programme channel="黑莓电影" start="20250626011300 +0800" stop="20250626024700 +0800">
 		<title lang="zh">东邪西毒：终极版</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250626024700 +0800" stop="20250626043000 +0800">
+		<title lang="zh">深海越狱</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52398,6 +52401,9 @@
 	<programme channel="newtv超级电影" start="20250626013400 +0800" stop="20250626030400 +0800">
 		<title lang="zh">许海峰的枪</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250626030400 +0800" stop="20250626043600 +0800">
+		<title lang="zh">走西口的哥哥没回来</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52457,6 +52463,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250626013700 +0800" stop="20250626025100 +0800">
 		<title lang="zh">29_风雷动</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250626025100 +0800" stop="20250626040600 +0800">
+		<title lang="zh">30_风雷动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52529,6 +52538,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250626021100 +0800" stop="20250626025600 +0800">
 		<title lang="zh">23_山河锦绣</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250626025600 +0800" stop="20250626040200 +0800">
+		<title lang="zh">24_山河锦绣</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
