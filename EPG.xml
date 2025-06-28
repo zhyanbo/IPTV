@@ -85698,6 +85698,9 @@
 	<programme channel="newtv古装剧场" start="20250628191900 +0800" stop="20250628200600 +0800">
 		<title lang="zh">17_永安梦</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250628200600 +0800" stop="20250628205500 +0800">
+		<title lang="zh">18_永安梦</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85769,6 +85772,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250628193500 +0800" stop="20250628200500 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250628200500 +0800" stop="20250628205100 +0800">
+		<title lang="zh">10_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85847,6 +85853,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250628192900 +0800" stop="20250628201600 +0800">
 		<title lang="zh">24_合适婚姻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250628201600 +0800" stop="20250628204600 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第57期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86226,6 +86235,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250628192700 +0800" stop="20250628201200 +0800">
 		<title lang="zh">34_大盛魁</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250628201200 +0800" stop="20250628204200 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第57期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86354,6 +86366,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250628193600 +0800" stop="20250628200200 +0800">
 		<title lang="zh">爱在海拔4500米</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250628200200 +0800" stop="20250628202700 +0800">
+		<title lang="zh">美军试射“民兵3”洲际弹道导弹 俄里海分舰队基地遭乌无人机袭击</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86610,6 +86625,15 @@
 	<programme channel="newtv金牌综艺" start="20250628190200 +0800" stop="20250628202000 +0800">
 		<title lang="zh">开始推理吧第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250628202000 +0800" stop="20250628205800 +0800">
+		<title lang="zh">FRUVGE司美能量态健康组-周年庆-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250628190200 +0800" stop="20250628202000 +0800">
+		<title lang="zh">开始推理吧第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250628202000 +0800" stop="20250628205800 +0800">
+		<title lang="zh">FRUVGE司美能量态健康组-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -86750,6 +86774,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250628192200 +0800" stop="20250628200800 +0800">
 		<title lang="zh">23_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250628200800 +0800" stop="20250628205400 +0800">
+		<title lang="zh">24_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
