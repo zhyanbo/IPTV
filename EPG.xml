@@ -16092,6 +16092,9 @@
 	<programme channel="咪咕综合体育" start="20250629021000 +0800" stop="20250629022000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250629022000 +0800" stop="20250629030000 +0800">
+		<title lang="zh">世俱杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16103,6 +16106,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250629012600 +0800" stop="20250629022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250629022600 +0800" stop="20250629024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250629024100 +0800" stop="20250629042100 +0800">
+		<title lang="zh">2024NBL 河南赊店老酒-石家庄翔蓝</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40053,6 +40062,9 @@
 	<programme channel="纯享4K" start="20250629020400 +0800" stop="20250629023400 +0800">
 		<title lang="zh">信仰的感召4K 党员楷模 罗亦农</title>
 	</programme>
+	<programme channel="纯享4K" start="20250629023400 +0800" stop="20250629031400 +0800">
+		<title lang="zh">探索b7发现4K 家乡至味2024（16）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50031,6 +50043,9 @@
 	<programme channel="黑莓动画" start="20250629005000 +0800" stop="20250629023100 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250629023100 +0800" stop="20250629040800 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50325,6 +50340,9 @@
 	<programme channel="newtv超级综艺" start="20250629014700 +0800" stop="20250629023200 +0800">
 		<title lang="zh">02_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250629023200 +0800" stop="20250629042200 +0800">
+		<title lang="zh">青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50333,6 +50351,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250629010000 +0800" stop="20250629023100 +0800">
 		<title lang="zh">实况录像-2025年国际乒联单打世界杯 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250629023100 +0800" stop="20250629040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50355,6 +50376,9 @@
 	<programme channel="newtv超级电视剧" start="20250629014500 +0800" stop="20250629022800 +0800">
 		<title lang="zh">07_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250629022800 +0800" stop="20250629031300 +0800">
+		<title lang="zh">08_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50375,6 +50399,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250629011500 +0800" stop="20250629023400 +0800">
 		<title lang="zh">第一集 数据时代</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250629023400 +0800" stop="20250629035300 +0800">
+		<title lang="zh">第二集 转型之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50454,6 +50481,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250629014800 +0800" stop="20250629021800 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250629021800 +0800" stop="20250629025700 +0800">
+		<title lang="zh">01_御赐小仵作</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50504,6 +50534,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20250629003800 +0800" stop="20250629021900 +0800">
 		<title lang="zh">2024-25赛季英超联赛第20轮：曼城VS西汉姆联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250629021900 +0800" stop="20250629035800 +0800">
+		<title lang="zh">2024-25赛季英超联赛第9轮：曼城VS南安普顿</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
