@@ -16095,6 +16095,9 @@
 	<programme channel="咪咕综合体育" start="20250629022000 +0800" stop="20250629030000 +0800">
 		<title lang="zh">世俱杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250629030000 +0800" stop="20250629061000 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/8决赛 本菲卡-切尔西 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50391,6 +50394,9 @@
 	<programme channel="newtv精品大剧" start="20250629020600 +0800" stop="20250629025200 +0800">
 		<title lang="zh">33_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250629025200 +0800" stop="20250629035700 +0800">
+		<title lang="zh">34_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -50412,6 +50418,9 @@
 	<programme channel="newtv古装剧场" start="20250629013600 +0800" stop="20250629025200 +0800">
 		<title lang="zh">10_玉骨遥</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250629025200 +0800" stop="20250629040800 +0800">
+		<title lang="zh">11_玉骨遥</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50420,6 +50429,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250629014200 +0800" stop="20250629025700 +0800">
 		<title lang="zh">07_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250629025700 +0800" stop="20250629041200 +0800">
+		<title lang="zh">08_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50432,6 +50444,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250629021500 +0800" stop="20250629025500 +0800">
 		<title lang="zh">34_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250629025500 +0800" stop="20250629035500 +0800">
+		<title lang="zh">35_娘亲舅大</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50469,6 +50484,9 @@
 	<programme channel="newtv怡伴健康" start="20250629014400 +0800" stop="20250629025200 +0800">
 		<title lang="zh">01_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250629025200 +0800" stop="20250629034000 +0800">
+		<title lang="zh">延续血脉的战斗</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50484,6 +50502,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250629021800 +0800" stop="20250629025700 +0800">
 		<title lang="zh">01_御赐小仵作</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250629025700 +0800" stop="20250629032700 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50495,6 +50516,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250629015800 +0800" stop="20250629025100 +0800">
 		<title lang="zh">铁心向党铸忠诚 走进新疆军区某红军师</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250629025100 +0800" stop="20250629034300 +0800">
+		<title lang="zh">白衣荣光铸忠诚 走进联勤保障部队第九八四医院</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
