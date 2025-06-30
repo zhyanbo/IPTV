@@ -40959,6 +40959,9 @@
 	<programme channel="newtv精品大剧" start="20250701020500 +0800" stop="20250701025100 +0800">
 		<title lang="zh">41_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250701025100 +0800" stop="20250701035600 +0800">
+		<title lang="zh">42_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -40992,6 +40995,9 @@
 	<programme channel="newtv军旅剧场" start="20250701014500 +0800" stop="20250701030100 +0800">
 		<title lang="zh">15_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250701030100 +0800" stop="20250701041600 +0800">
+		<title lang="zh">16_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -41004,6 +41010,9 @@
 	<programme channel="newtv家庭剧场" start="20250701021400 +0800" stop="20250701025400 +0800">
 		<title lang="zh">42_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250701025400 +0800" stop="20250701035500 +0800">
+		<title lang="zh">43_娘亲舅大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41012,6 +41021,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250701020900 +0800" stop="20250701025500 +0800">
 		<title lang="zh">37_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250701025500 +0800" stop="20250701040100 +0800">
+		<title lang="zh">38_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -41069,6 +41081,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250701020700 +0800" stop="20250701030000 +0800">
 		<title lang="zh">韩啸：“登峰造极”的挑战者</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250701030000 +0800" stop="20250701035300 +0800">
+		<title lang="zh">守望铁轨上的团圆路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
