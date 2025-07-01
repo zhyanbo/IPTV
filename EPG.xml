@@ -16761,11 +16761,17 @@
 	<programme channel="咪咕综合体育" start="20250702000000 +0800" stop="20250702014000 +0800">
 		<title lang="zh">UFConESPN69期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250702014000 +0800" stop="20250702020000 +0800">
+		<title lang="zh">世俱杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250702000100 +0800" stop="20250702012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250702012600 +0800" stop="20250702022600 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -51564,6 +51570,9 @@
 	<programme channel="newtv超级综艺" start="20250702004100 +0800" stop="20250702012800 +0800">
 		<title lang="zh">12_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250702012800 +0800" stop="20250702021500 +0800">
+		<title lang="zh">13_三十而已</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51579,6 +51588,9 @@
 	<programme channel="newtv超级电影" start="20250702000000 +0800" stop="20250702014700 +0800">
 		<title lang="zh">妈妈！</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250702014700 +0800" stop="20250702032000 +0800">
+		<title lang="zh">刑警张玉贵</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51588,11 +51600,17 @@
 	<programme channel="newtv超级电视剧" start="20250702010800 +0800" stop="20250702015200 +0800">
 		<title lang="zh">21_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250702015200 +0800" stop="20250702023700 +0800">
+		<title lang="zh">22_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250702003500 +0800" stop="20250702012000 +0800">
 		<title lang="zh">43_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250702012000 +0800" stop="20250702023600 +0800">
+		<title lang="zh">44_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51614,6 +51632,9 @@
 	</channel>
 	<programme channel="newtv军旅剧场" start="20250702000600 +0800" stop="20250702012200 +0800">
 		<title lang="zh">18_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250702012200 +0800" stop="20250702023700 +0800">
+		<title lang="zh">19_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
