@@ -51384,6 +51384,9 @@
 	<programme channel="newtv超级电视剧" start="20250705022200 +0800" stop="20250705030700 +0800">
 		<title lang="zh">14_特别行动</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250705030700 +0800" stop="20250705035300 +0800">
+		<title lang="zh">15_特别行动</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51450,11 +51453,17 @@
 	<programme channel="newtv热播精选" start="20250705023300 +0800" stop="20250705025300 +0800">
 		<title lang="zh">16_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250705025300 +0800" stop="20250705035900 +0800">
+		<title lang="zh">17_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250705004600 +0800" stop="20250705024700 +0800">
 		<title lang="zh">我们的十年</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250705024700 +0800" stop="20250705044700 +0800">
+		<title lang="zh">35_玉骨遥</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51476,6 +51485,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250705014700 +0800" stop="20250705025900 +0800">
 		<title lang="zh">13_在希望的田野上</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250705025900 +0800" stop="20250705034700 +0800">
+		<title lang="zh">动物大家庭（1）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51500,6 +51512,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250705015400 +0800" stop="20250705024600 +0800">
 		<title lang="zh">庆祝新中国成立75周年特别节目 向祖国致敬 上集 我的1949</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250705024600 +0800" stop="20250705033800 +0800">
+		<title lang="zh">庆祝新中国成立75周年特别节目 向祖国致敬 下集 我的国庆记忆</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51539,6 +51554,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250705002600 +0800" stop="20250705025500 +0800">
 		<title lang="zh">正大综艺（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250705025500 +0800" stop="20250705062800 +0800">
+		<title lang="zh">越战越勇（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
