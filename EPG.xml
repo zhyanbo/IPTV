@@ -13131,10 +13131,10 @@
 	<programme channel="东方卫视" start="20250706034200 +0800" stop="20250706042300 +0800">
 		<title lang="zh">孤战迷城（8）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250706042300 +0800" stop="20250706042600 +0800">
+	<programme channel="东方卫视" start="20250706042300 +0800" stop="20250706042700 +0800">
 		<title lang="zh">＜我的世界你好＞明日精彩看点</title>
 	</programme>
-	<programme channel="东方卫视" start="20250706042600 +0800" stop="20250706051000 +0800">
+	<programme channel="东方卫视" start="20250706042700 +0800" stop="20250706051000 +0800">
 		<title lang="zh">孤战迷城（9）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250706051000 +0800" stop="20250706055100 +0800">
@@ -13182,10 +13182,10 @@
 	<programme channel="东方卫视" start="20250706130400 +0800" stop="20250706134500 +0800">
 		<title lang="zh">射雕英雄传（22）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250706134500 +0800" stop="20250706142500 +0800">
+	<programme channel="东方卫视" start="20250706134500 +0800" stop="20250706142600 +0800">
 		<title lang="zh">射雕英雄传（23）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250706142500 +0800" stop="20250706150200 +0800">
+	<programme channel="东方卫视" start="20250706142600 +0800" stop="20250706150200 +0800">
 		<title lang="zh">射雕英雄传（24）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250706150200 +0800" stop="20250706154100 +0800">
@@ -20262,6 +20262,9 @@
 	</programme>
 	<programme channel="动作电影" start="20250706170100 +0800" stop="20250706182900 +0800">
 		<title lang="zh">战斧行动</title>
+	</programme>
+	<programme channel="动作电影" start="20250706182900 +0800" stop="20250706185900 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -27372,6 +27375,12 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250706180000 +0800" stop="20250706183000 +0800">
 		<title lang="zh">豪门盛典世俱杯特别节目 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250706183000 +0800" stop="20250706184000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250706184000 +0800" stop="20250706202000 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/4决赛 巴黎圣日尔曼-拜仁慕尼黑</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -39706,6 +39715,9 @@
 	<programme channel="惊悚悬疑" start="20250706155600 +0800" stop="20250706183100 +0800">
 		<title lang="zh">沙丘（英语版）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250706183100 +0800" stop="20250706194200 +0800">
+		<title lang="zh">重装战警（普通话版）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43242,6 +43254,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250706172600 +0800" stop="20250706184100 +0800">
 		<title lang="zh">09_六姊妹</title>
+	</programme>
+	<programme channel="明星大片" start="20250706184100 +0800" stop="20250706190900 +0800">
+		<title lang="zh">非日常恋爱</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61234,6 +61249,9 @@
 	<programme channel="爱情喜剧" start="20250706174900 +0800" stop="20250706183700 +0800">
 		<title lang="zh">09_爱的二八定律</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250706183700 +0800" stop="20250706190700 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67350,6 +67368,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250706180300 +0800" stop="20250706183300 +0800">
 		<title lang="zh">信仰的感召4K 无衔将帅 许继慎</title>
+	</programme>
+	<programme channel="纯享4K" start="20250706183300 +0800" stop="20250706191200 +0800">
+		<title lang="zh">探索b7发现4K 世园会魏晋墓（上）</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84037,6 +84058,9 @@
 	<programme channel="黑莓电影" start="20250706163300 +0800" stop="20250706183100 +0800">
 		<title lang="zh">暮光之城4：破晓（上）</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250706183100 +0800" stop="20250706200000 +0800">
+		<title lang="zh">马达加斯加3：欧洲大围捕</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -85165,6 +85189,9 @@
 	<programme channel="newtv精品大剧" start="20250706181300 +0800" stop="20250706184300 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250706184300 +0800" stop="20250706195600 +0800">
+		<title lang="zh">25_红高粱</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85224,6 +85251,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250706174700 +0800" stop="20250706184300 +0800">
 		<title lang="zh">第7集：问香何处</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250706184300 +0800" stop="20250706190700 +0800">
+		<title lang="zh">传世古建（20250309）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85516,6 +85546,9 @@
 	<programme channel="newtv爱情喜剧" start="20250706174900 +0800" stop="20250706183700 +0800">
 		<title lang="zh">09_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250706183700 +0800" stop="20250706190700 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85554,6 +85587,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250706170100 +0800" stop="20250706182900 +0800">
 		<title lang="zh">战斧行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250706182900 +0800" stop="20250706185900 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85629,6 +85665,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250706174800 +0800" stop="20250706182600 +0800">
 		<title lang="zh">贵州混斗联盟vs吉林咔乐咪 第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250706182600 +0800" stop="20250706185600 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85710,6 +85749,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250706170600 +0800" stop="20250706184000 +0800">
 		<title lang="zh">第5期下：泥潭大战，王星越把徐志胜按泥里</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250706184000 +0800" stop="20250706192600 +0800">
+		<title lang="zh">06_天龙八部</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85824,6 +85866,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250706180000 +0800" stop="20250706182500 +0800">
 		<title lang="zh">蓝天盛会 第十五届中国航展纪实</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250706182500 +0800" stop="20250706185100 +0800">
+		<title lang="zh">蓝天盛会 第十五届中国航展纪实b7逐梦</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85954,6 +85999,9 @@
 	<programme channel="newtv精品综合" start="20250706172600 +0800" stop="20250706184100 +0800">
 		<title lang="zh">09_六姊妹</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250706184100 +0800" stop="20250706190900 +0800">
+		<title lang="zh">非日常恋爱</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85995,6 +86043,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250706155600 +0800" stop="20250706183100 +0800">
 		<title lang="zh">沙丘（英语版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250706183100 +0800" stop="20250706194200 +0800">
+		<title lang="zh">重装战警（普通话版）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -86046,6 +86097,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250706163200 +0800" stop="20250706184000 +0800">
 		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250706184000 +0800" stop="20250706192800 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
