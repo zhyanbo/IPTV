@@ -17040,6 +17040,9 @@
 	<programme channel="咪咕综合体育" start="20250709020000 +0800" stop="20250709051000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 半决赛 弗卢米嫩塞-切尔西 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250709051000 +0800" stop="20250709053500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -51138,6 +51141,9 @@
 	<programme channel="newtv超级电影" start="20250709030000 +0800" stop="20250709044900 +0800">
 		<title lang="zh">摩托车女孩</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250709044900 +0800" stop="20250709063000 +0800">
+		<title lang="zh">关东大侠</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51179,6 +51185,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250709040900 +0800" stop="20250709045400 +0800">
 		<title lang="zh">30_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250709045400 +0800" stop="20250709061000 +0800">
+		<title lang="zh">31_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51243,6 +51252,9 @@
 	<programme channel="newtv家庭剧场" start="20250709040200 +0800" stop="20250709044700 +0800">
 		<title lang="zh">20_血脉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250709044700 +0800" stop="20250709060400 +0800">
+		<title lang="zh">21_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51257,6 +51269,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250709041400 +0800" stop="20250709045900 +0800">
 		<title lang="zh">35_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250709045900 +0800" stop="20250709060600 +0800">
+		<title lang="zh">36_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -51369,6 +51384,9 @@
 	<programme channel="newtv炫舞未来" start="20250709035700 +0800" stop="20250709044700 +0800">
 		<title lang="zh">勇者之战（20250615）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250709045800 +0800" stop="20250709051200 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51377,6 +51395,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250709021100 +0800" stop="20250709045200 +0800">
 		<title lang="zh">开始推理吧第2季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250709045200 +0800" stop="20250709060700 +0800">
+		<title lang="zh">08_侦察英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
