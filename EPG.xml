@@ -13767,10 +13767,10 @@
 	<programme channel="东方卫视" start="20250709010000 +0800" stop="20250709014200 +0800">
 		<title lang="zh">孤战迷城（29）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250709014200 +0800" stop="20250709014500 +0800">
+	<programme channel="东方卫视" start="20250709014200 +0800" stop="20250709014600 +0800">
 		<title lang="zh">＜我的世界你好＞明日精彩看点</title>
 	</programme>
-	<programme channel="东方卫视" start="20250709014500 +0800" stop="20250709023100 +0800">
+	<programme channel="东方卫视" start="20250709014600 +0800" stop="20250709023100 +0800">
 		<title lang="zh">孤战迷城（30）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250709023100 +0800" stop="20250709031600 +0800">
@@ -13833,10 +13833,10 @@
 	<programme channel="东方卫视" start="20250709123000 +0800" stop="20250709124200 +0800">
 		<title lang="zh">ShanghaiEye</title>
 	</programme>
-	<programme channel="东方卫视" start="20250709124200 +0800" stop="20250709130800 +0800">
+	<programme channel="东方卫视" start="20250709124200 +0800" stop="20250709130900 +0800">
 		<title lang="zh">名医话养生：当心潜在的带状疱疹</title>
 	</programme>
-	<programme channel="东方卫视" start="20250709130800 +0800" stop="20250709135000 +0800">
+	<programme channel="东方卫视" start="20250709130900 +0800" stop="20250709135000 +0800">
 		<title lang="zh">射雕英雄传（42）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250709135000 +0800" stop="20250709142900 +0800">
@@ -21120,6 +21120,9 @@
 	<programme channel="动作电影" start="20250709173800 +0800" stop="20250709182800 +0800">
 		<title lang="zh">琦玉坊和田白玉收藏组-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250709182800 +0800" stop="20250709195100 +0800">
+		<title lang="zh">锦鼠御猫之九幽血狼</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28070,6 +28073,12 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250709180000 +0800" stop="20250709183000 +0800">
 		<title lang="zh">豪门盛典世俱杯特别节目 直播</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250709183000 +0800" stop="20250709185000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250709185000 +0800" stop="20250709212000 +0800">
+		<title lang="zh">足球世界-2025东亚杯 女足第1轮 韩国女足-中国女足 直播</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -40292,6 +40301,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250709170900 +0800" stop="20250709183000 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250709183000 +0800" stop="20250709190000 +0800">
+		<title lang="zh">《美丽密码》推荐第99期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66804,6 +66816,9 @@
 	<programme channel="纯享4K" start="20250709180100 +0800" stop="20250709183100 +0800">
 		<title lang="zh">信仰的感召4K 青年良师 萧楚女</title>
 	</programme>
+	<programme channel="纯享4K" start="20250709183100 +0800" stop="20250709191100 +0800">
+		<title lang="zh">探索b7发现4K 涡河之畔的千年墓地</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83571,6 +83586,9 @@
 	<programme channel="黑莓电影" start="20250709162700 +0800" stop="20250709182000 +0800">
 		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250709182000 +0800" stop="20250709195300 +0800">
+		<title lang="zh">流浪猫鲍勃2：鲍勃的礼物</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84753,6 +84771,9 @@
 	<programme channel="newtv精品纪录" start="20250709172300 +0800" stop="20250709181700 +0800">
 		<title lang="zh">第五集 巨型建筑</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250709181700 +0800" stop="20250709185700 +0800">
+		<title lang="zh">第六集 强大工具</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84873,6 +84894,9 @@
 	<programme channel="newtv军旅剧场" start="20250709175700 +0800" stop="20250709182700 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250709182700 +0800" stop="20250709191300 +0800">
+		<title lang="zh">14_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84939,6 +84963,9 @@
 	<programme channel="newtv家庭剧场" start="20250709173200 +0800" stop="20250709183800 +0800">
 		<title lang="zh">38_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250709183800 +0800" stop="20250709190800 +0800">
+		<title lang="zh">05_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84995,6 +85022,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250709173600 +0800" stop="20250709182700 +0800">
 		<title lang="zh">风味人间</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250709182700 +0800" stop="20250709191200 +0800">
+		<title lang="zh">26_我的后半生</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85088,6 +85118,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250709173800 +0800" stop="20250709182800 +0800">
 		<title lang="zh">琦玉坊和田白玉收藏组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250709182800 +0800" stop="20250709195100 +0800">
+		<title lang="zh">锦鼠御猫之九幽血狼</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85365,6 +85398,9 @@
 	<programme channel="newtv军事评论" start="20250709181200 +0800" stop="20250709183700 +0800">
 		<title lang="zh">直击西藏定日县6.8级地震救援 第一集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250709183700 +0800" stop="20250709190100 +0800">
+		<title lang="zh">直击西藏定日县6.8级地震救援 第二集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85442,6 +85478,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250709173900 +0800" stop="20250709181700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250709181700 +0800" stop="20250709191700 +0800">
+		<title lang="zh">舒服的相处模式有多重要</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85542,6 +85581,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250709170900 +0800" stop="20250709183000 +0800">
 		<title lang="zh">人类削减计划</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250709183000 +0800" stop="20250709190000 +0800">
+		<title lang="zh">《美丽密码》推荐第99期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85589,6 +85631,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250709171700 +0800" stop="20250709183800 +0800">
 		<title lang="zh">开始推理吧第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250709183800 +0800" stop="20250709192800 +0800">
+		<title lang="zh">琦玉坊和田白玉收藏组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -85730,6 +85775,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250709175800 +0800" stop="20250709184400 +0800">
 		<title lang="zh">28_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250709184400 +0800" stop="20250709191400 +0800">
+		<title lang="zh">《美丽密码》推荐第99期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
