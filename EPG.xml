@@ -16674,6 +16674,9 @@
 	<programme channel="咪咕综合体育" start="20250711024000 +0800" stop="20250711042000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 A组第3轮 迈阿密国际-帕尔梅拉斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250711042000 +0800" stop="20250711044500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16688,6 +16691,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250711032000 +0800" stop="20250711042000 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250711042000 +0800" stop="20250711042500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -49566,6 +49572,9 @@
 	<programme channel="黑莓电影" start="20250711022400 +0800" stop="20250711034800 +0800">
 		<title lang="zh">钟馗降魔</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250711034800 +0800" stop="20250711051800 +0800">
+		<title lang="zh">珍宝大战</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -49854,6 +49863,9 @@
 	<programme channel="newtv超级体育" start="20250711023600 +0800" stop="20250711040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250711040000 +0800" stop="20250711053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第10轮 欧塞尔-雷恩</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49884,6 +49896,9 @@
 	<programme channel="newtv超级电视剧" start="20250711033600 +0800" stop="20250711042100 +0800">
 		<title lang="zh">13_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250711042100 +0800" stop="20250711050300 +0800">
+		<title lang="zh">09_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49898,6 +49913,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250711025900 +0800" stop="20250711041400 +0800">
 		<title lang="zh">31_驻站</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250711041400 +0800" stop="20250711045900 +0800">
+		<title lang="zh">38_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49923,6 +49941,9 @@
 	<programme channel="newtv古装剧场" start="20250711025900 +0800" stop="20250711041400 +0800">
 		<title lang="zh">19_且试天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250711041400 +0800" stop="20250711052700 +0800">
+		<title lang="zh">20_且试天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -49934,6 +49955,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250711023400 +0800" stop="20250711035000 +0800">
 		<title lang="zh">18_悬镜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250711035000 +0800" stop="20250711050500 +0800">
+		<title lang="zh">01_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49971,6 +49995,9 @@
 	<programme channel="newtv爱情喜剧" start="20250711024400 +0800" stop="20250711035800 +0800">
 		<title lang="zh">23_怎敌她千娇百媚</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250711035800 +0800" stop="20250711051300 +0800">
+		<title lang="zh">24_怎敌她千娇百媚</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -49979,6 +50006,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250711022100 +0800" stop="20250711040800 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250711040800 +0800" stop="20250711060000 +0800">
+		<title lang="zh">人口交易</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50045,6 +50075,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250711033300 +0800" stop="20250711035400 +0800">
 		<title lang="zh">古诗韵律操（20240610）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250711035400 +0800" stop="20250711042000 +0800">
+		<title lang="zh">第2集：温暖的河谷</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
