@@ -15204,6 +15204,9 @@
 	<programme channel="咪咕综合体育" start="20250714051500 +0800" stop="20250714055000 +0800">
 		<title lang="zh">世俱杯精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250714055000 +0800" stop="20250714082000 +0800">
+		<title lang="zh">2025杭州富阳半程马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -15221,6 +15224,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250714042500 +0800" stop="20250714052500 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250714053000 +0800" stop="20250714071000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第16轮 内蒙古农信-浙江稠州银行</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -48060,6 +48066,9 @@
 	<programme channel="newtv超级体育" start="20250714040000 +0800" stop="20250714053000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第12轮 朗斯-马赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250714053000 +0800" stop="20250714060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48102,6 +48111,9 @@
 	<programme channel="newtv超级电视剧" start="20250714050300 +0800" stop="20250714054500 +0800">
 		<title lang="zh">22_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250714054500 +0800" stop="20250714062700 +0800">
+		<title lang="zh">23_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48119,6 +48131,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250714044800 +0800" stop="20250714053200 +0800">
 		<title lang="zh">12_旗袍美探</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250714053200 +0800" stop="20250714064500 +0800">
+		<title lang="zh">13_旗袍美探</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48173,6 +48188,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250714040700 +0800" stop="20250714052200 +0800">
 		<title lang="zh">07_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250714052200 +0800" stop="20250714064700 +0800">
+		<title lang="zh">08_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48261,6 +48279,9 @@
 	<programme channel="newtv怡伴健康" start="20250714043900 +0800" stop="20250714052600 +0800">
 		<title lang="zh">18_燕云台</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250714052600 +0800" stop="20250714061300 +0800">
+		<title lang="zh">19_燕云台</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48312,6 +48333,9 @@
 	<programme channel="newtv军事评论" start="20250714051400 +0800" stop="20250714053600 +0800">
 		<title lang="zh">穿越蘑菇云的人 第1集 特殊使命</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250714053600 +0800" stop="20250714055800 +0800">
+		<title lang="zh">穿越蘑菇云的人 第2集 勇者不惧</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48339,6 +48363,12 @@
 	<programme channel="newtv炫舞未来" start="20250714042700 +0800" stop="20250714051600 +0800">
 		<title lang="zh">风物</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250714051600 +0800" stop="20250714053800 +0800">
+		<title lang="zh">有氧跳绳跟练（20240528）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250714053800 +0800" stop="20250714060000 +0800">
+		<title lang="zh">特色武术操（20240603）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48350,6 +48380,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250714040200 +0800" stop="20250714051800 +0800">
 		<title lang="zh">23_侦察英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250714051800 +0800" stop="20250714063300 +0800">
+		<title lang="zh">24_侦察英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
