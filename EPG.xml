@@ -13632,22 +13632,22 @@
 	<programme channel="东方卫视" start="20250716003700 +0800" stop="20250716012000 +0800">
 		<title lang="zh">信仰（28）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716012000 +0800" stop="20250716020100 +0800">
+	<programme channel="东方卫视" start="20250716012000 +0800" stop="20250716020200 +0800">
 		<title lang="zh">信仰（29）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716020100 +0800" stop="20250716024300 +0800">
+	<programme channel="东方卫视" start="20250716020200 +0800" stop="20250716024300 +0800">
 		<title lang="zh">信仰（30）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716024300 +0800" stop="20250716032400 +0800">
+	<programme channel="东方卫视" start="20250716024300 +0800" stop="20250716032500 +0800">
 		<title lang="zh">信仰（31）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716032400 +0800" stop="20250716040600 +0800">
+	<programme channel="东方卫视" start="20250716032500 +0800" stop="20250716040600 +0800">
 		<title lang="zh">信仰（32）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716040600 +0800" stop="20250716044700 +0800">
+	<programme channel="东方卫视" start="20250716040600 +0800" stop="20250716044800 +0800">
 		<title lang="zh">信仰（33）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716044700 +0800" stop="20250716045100 +0800">
+	<programme channel="东方卫视" start="20250716044800 +0800" stop="20250716045100 +0800">
 		<title lang="zh">＜正当防卫＞精彩看点</title>
 	</programme>
 	<programme channel="东方卫视" start="20250716045100 +0800" stop="20250716053200 +0800">
@@ -13671,10 +13671,10 @@
 	<programme channel="东方卫视" start="20250716090100 +0800" stop="20250716094200 +0800">
 		<title lang="zh">少年爱迪生第八季：明日世界（7）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716094200 +0800" stop="20250716101300 +0800">
+	<programme channel="东方卫视" start="20250716094200 +0800" stop="20250716101400 +0800">
 		<title lang="zh">小巷人家（39）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250716101300 +0800" stop="20250716105600 +0800">
+	<programme channel="东方卫视" start="20250716101400 +0800" stop="20250716105600 +0800">
 		<title lang="zh">小巷人家（40）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250716105600 +0800" stop="20250716114700 +0800">
@@ -13756,7 +13756,7 @@
 		<title lang="zh">两说（19）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250716225100 +0800" stop="20250716235900 +0800">
-		<title lang="zh">梦想改造家精编（62）：淘来的家</title>
+		<title lang="zh">梦想改造家精编：打开心门的家</title>
 	</programme>
 	<channel id="东方影视">
 		<display-name lang="zh">东方影视</display-name>
@@ -28004,6 +28004,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250716180500 +0800" stop="20250716183000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第一期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250716183000 +0800" stop="20250716184500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250716184500 +0800" stop="20250716214000 +0800">
+		<title lang="zh">2025国际篮联女篮亚洲杯 小组赛 中国女篮-新西兰女篮 直播</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -66303,6 +66309,9 @@
 	<programme channel="纯享4K" start="20250716180700 +0800" stop="20250716183200 +0800">
 		<title lang="zh">东方新科幻4K 第4集 家园遥望</title>
 	</programme>
+	<programme channel="纯享4K" start="20250716183200 +0800" stop="20250716191200 +0800">
+		<title lang="zh">探索b7发现4K 西汉楚王大墓疑云（下）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84033,6 +84042,9 @@
 	<programme channel="newtv超级电视剧" start="20250716175200 +0800" stop="20250716183000 +0800">
 		<title lang="zh">14_滤镜</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250716183000 +0800" stop="20250716191500 +0800">
+		<title lang="zh">15_滤镜</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84095,6 +84107,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250716181300 +0800" stop="20250716184300 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250716184300 +0800" stop="20250716192900 +0800">
+		<title lang="zh">30_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84162,6 +84177,9 @@
 	<programme channel="newtv精品纪录" start="20250716173700 +0800" stop="20250716183300 +0800">
 		<title lang="zh">第3集：花叶奇缘</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250716183300 +0800" stop="20250716191300 +0800">
+		<title lang="zh">第一集 移山之智</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84222,6 +84240,9 @@
 	<programme channel="newtv古装剧场" start="20250716173400 +0800" stop="20250716182000 +0800">
 		<title lang="zh">14_榜上佳婿</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250716182000 +0800" stop="20250716190700 +0800">
+		<title lang="zh">01_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84278,6 +84299,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250716174100 +0800" stop="20250716182600 +0800">
 		<title lang="zh">13_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250716182600 +0800" stop="20250716185600 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84342,6 +84366,9 @@
 	<programme channel="newtv家庭剧场" start="20250716175100 +0800" stop="20250716182100 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250716182100 +0800" stop="20250716190700 +0800">
+		<title lang="zh">27_大都市小爱情</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84401,6 +84428,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250716175200 +0800" stop="20250716184200 +0800">
 		<title lang="zh">风味人间 第2季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250716184200 +0800" stop="20250716191200 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84575,6 +84605,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250716180000 +0800" stop="20250716182900 +0800">
 		<title lang="zh">福建梦幻vs安徽青竹居 第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250716182900 +0800" stop="20250716185700 +0800">
+		<title lang="zh">福建梦幻vs安徽青竹居 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84773,6 +84806,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250716175800 +0800" stop="20250716182500 +0800">
 		<title lang="zh">蓝海试锋 走进中国人民解放军海军博物馆</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250716182500 +0800" stop="20250716185200 +0800">
+		<title lang="zh">铁甲探奇 走进法国索缪尔战车博物馆</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85058,6 +85094,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250716170000 +0800" stop="20250716182800 +0800">
 		<title lang="zh">2025法网公开赛女单第1轮：帕芙柳琴科娃VS郑钦文</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250716182800 +0800" stop="20250716202100 +0800">
+		<title lang="zh">NBA季后赛4月29日：火箭VS勇士</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
