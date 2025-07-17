@@ -52386,6 +52386,9 @@
 	<programme channel="newtv精品大剧" start="20250718012200 +0800" stop="20250718024000 +0800">
 		<title lang="zh">24_燕云台</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250718024000 +0800" stop="20250718032800 +0800">
+		<title lang="zh">25_燕云台</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52404,6 +52407,9 @@
 	<programme channel="newtv古装剧场" start="20250718011800 +0800" stop="20250718023300 +0800">
 		<title lang="zh">06_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250718023300 +0800" stop="20250718035000 +0800">
+		<title lang="zh">07_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52412,6 +52418,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250718012500 +0800" stop="20250718024100 +0800">
 		<title lang="zh">22_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250718024100 +0800" stop="20250718035600 +0800">
+		<title lang="zh">23_我的绝密生涯</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52484,6 +52493,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250718014700 +0800" stop="20250718023900 +0800">
 		<title lang="zh">向国旗敬礼 庆祝中华人民共和国成立75周年特别节目</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250718023900 +0800" stop="20250718033200 +0800">
+		<title lang="zh">大山深处的奉献之歌 走进郑州联勤保障中心某仓库</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
