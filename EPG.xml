@@ -15285,6 +15285,9 @@
 	<programme channel="咪咕综合体育" start="20250721015500 +0800" stop="20250721024500 +0800">
 		<title lang="zh">世俱杯全进球</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250721024500 +0800" stop="20250721042500 +0800">
+		<title lang="zh">足球世界-2025东亚杯 男足第1轮 韩国-中国</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38742,6 +38745,9 @@
 	<programme channel="纯享4K" start="20250721020800 +0800" stop="20250721023300 +0800">
 		<title lang="zh">大国医b7千金方4K 第9集 王清任b7血府逐瘀汤</title>
 	</programme>
+	<programme channel="纯享4K" start="20250721023300 +0800" stop="20250721031300 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（18）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47301,11 +47307,17 @@
 	<programme channel="黑莓动画" start="20250721013700 +0800" stop="20250721024100 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250721024100 +0800" stop="20250721040400 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250721011300 +0800" stop="20250721024100 +0800">
 		<title lang="zh">暮光b7巴黎</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250721024100 +0800" stop="20250721042400 +0800">
+		<title lang="zh">戴高乐</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -47526,6 +47538,9 @@
 	<programme channel="newtv超级电视剧" start="20250721013800 +0800" stop="20250721022000 +0800">
 		<title lang="zh">17_故乡的泥土</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250721022000 +0800" stop="20250721030100 +0800">
+		<title lang="zh">18_故乡的泥土</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47550,6 +47565,9 @@
 	<programme channel="newtv精品纪录" start="20250721013800 +0800" stop="20250721022100 +0800">
 		<title lang="zh">月出东山</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250721022100 +0800" stop="20250721030500 +0800">
+		<title lang="zh">斗转星移</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47568,6 +47586,9 @@
 	<programme channel="newtv军旅剧场" start="20250721013100 +0800" stop="20250721023200 +0800">
 		<title lang="zh">31_我的绝密生涯</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250721023200 +0800" stop="20250721033400 +0800">
+		<title lang="zh">32_我的绝密生涯</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47576,6 +47597,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250721012900 +0800" stop="20250721024500 +0800">
 		<title lang="zh">15_空巢姥爷</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250721024500 +0800" stop="20250721033100 +0800">
+		<title lang="zh">16_空巢姥爷</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47615,6 +47639,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250721012500 +0800" stop="20250721024100 +0800">
 		<title lang="zh">21_长歌行</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250721024100 +0800" stop="20250721032900 +0800">
+		<title lang="zh">动物搏击（3）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47660,6 +47687,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250721000000 +0800" stop="20250721021800 +0800">
 		<title lang="zh">醉后一拳</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250721021800 +0800" stop="20250721043400 +0800">
+		<title lang="zh">开始推理吧第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -47726,6 +47756,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250721000800 +0800" stop="20250721022100 +0800">
 		<title lang="zh">长安伏妖</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250721022100 +0800" stop="20250721034600 +0800">
+		<title lang="zh">罗布泊之九龙天棺</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
