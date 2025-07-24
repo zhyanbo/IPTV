@@ -39984,6 +39984,9 @@
 	<programme channel="纯享4K" start="20250725030800 +0800" stop="20250725031800 +0800">
 		<title lang="zh">秘境之眼4K 秘境龙湾</title>
 	</programme>
+	<programme channel="纯享4K" start="20250725032800 +0800" stop="20250725033300 +0800">
+		<title lang="zh">我的青春我做主4K 追风b7苏镝坷</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50523,6 +50526,9 @@
 	<programme channel="newtv超级电影" start="20250725015800 +0800" stop="20250725032600 +0800">
 		<title lang="zh">我们是冠军</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250725032600 +0800" stop="20250725050100 +0800">
+		<title lang="zh">我的秘密之花</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50580,6 +50586,9 @@
 	<programme channel="newtv古装剧场" start="20250725020000 +0800" stop="20250725031600 +0800">
 		<title lang="zh">34_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250725031600 +0800" stop="20250725043200 +0800">
+		<title lang="zh">35_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50591,6 +50600,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250725021400 +0800" stop="20250725031700 +0800">
 		<title lang="zh">06_暗战风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250725031700 +0800" stop="20250725043100 +0800">
+		<title lang="zh">14_危机迷雾</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50720,6 +50732,15 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250725011400 +0800" stop="20250725033500 +0800">
 		<title lang="zh">遇鉴文明 第二季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250725033500 +0800" stop="20250725065800 +0800">
+		<title lang="zh">向幸福出发（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250725011400 +0800" stop="20250725033500 +0800">
+		<title lang="zh">遇鉴文明 第二季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250725033500 +0800" stop="20250725065800 +0800">
+		<title lang="zh">向幸福出发（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
