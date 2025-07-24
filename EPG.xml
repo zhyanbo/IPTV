@@ -50208,11 +50208,17 @@
 	<programme channel="黑莓动画" start="20250725011000 +0800" stop="20250725023200 +0800">
 		<title lang="zh">神奇乐园历险记（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250725023200 +0800" stop="20250725035900 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250725005200 +0800" stop="20250725023200 +0800">
 		<title lang="zh">观山太保</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250725023200 +0800" stop="20250725041400 +0800">
+		<title lang="zh">警察故事4：简单任务</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50493,6 +50499,9 @@
 	<programme channel="newtv超级体育" start="20250725010000 +0800" stop="20250725023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 巴黎站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250725023600 +0800" stop="20250725040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50540,6 +50549,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250725014900 +0800" stop="20250725023700 +0800">
 		<title lang="zh">08_东方驭能</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250725023700 +0800" stop="20250725033700 +0800">
+		<title lang="zh">09_超级电网</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50589,6 +50601,9 @@
 	<programme channel="newtv爱情喜剧" start="20250725002000 +0800" stop="20250725023300 +0800">
 		<title lang="zh">塬上</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250725023300 +0800" stop="20250725034900 +0800">
+		<title lang="zh">10_乔家的儿女</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -50621,6 +50636,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250725021200 +0800" stop="20250725024200 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250725024200 +0800" stop="20250725035100 +0800">
+		<title lang="zh">72_大秦赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
