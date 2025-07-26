@@ -49881,11 +49881,17 @@
 	<programme channel="newtv超级综艺" start="20250727001300 +0800" stop="20250727010100 +0800">
 		<title lang="zh">23_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250727010100 +0800" stop="20250727014700 +0800">
+		<title lang="zh">24_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250727001300 +0800" stop="20250727011100 +0800">
 		<title lang="zh">2025年赛艇世界杯-卢塞恩站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250727011100 +0800" stop="20250727023900 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49899,11 +49905,17 @@
 	<programme channel="newtv超级电视剧" start="20250727001300 +0800" stop="20250727005800 +0800">
 		<title lang="zh">13_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250727005800 +0800" stop="20250727014300 +0800">
+		<title lang="zh">14_军人荣誉之铁血雄心</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250727000500 +0800" stop="20250727005100 +0800">
 		<title lang="zh">11_加油！妈妈</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250727005100 +0800" stop="20250727020600 +0800">
+		<title lang="zh">12_加油！妈妈</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49928,6 +49940,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250727001000 +0800" stop="20250727005600 +0800">
 		<title lang="zh">06_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250727005600 +0800" stop="20250727021100 +0800">
+		<title lang="zh">07_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -49985,6 +50000,9 @@
 	</channel>
 	<programme channel="newtv怡伴健康" start="20250727001800 +0800" stop="20250727005800 +0800">
 		<title lang="zh">《超级美味》推荐第1期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250727005800 +0800" stop="20250727014300 +0800">
+		<title lang="zh">32_长歌行</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
