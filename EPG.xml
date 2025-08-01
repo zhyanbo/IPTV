@@ -16395,6 +16395,9 @@
 	<programme channel="咪咕足球" start="20250802032000 +0800" stop="20250802042000 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250802042500 +0800" stop="20250802052500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
@@ -50241,6 +50244,9 @@
 	<programme channel="newtv超级综艺" start="20250802023300 +0800" stop="20250802041600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250802043600 +0800" stop="20250802054700 +0800">
+		<title lang="zh">国风超有戏</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50337,6 +50343,9 @@
 	<programme channel="newtv古装剧场" start="20250802030200 +0800" stop="20250802041800 +0800">
 		<title lang="zh">11_庆余年</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250802041800 +0800" stop="20250802053500 +0800">
+		<title lang="zh">12_庆余年</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50348,6 +50357,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250802025500 +0800" stop="20250802042100 +0800">
 		<title lang="zh">30_暗战风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250802042100 +0800" stop="20250802053700 +0800">
+		<title lang="zh">08_伏击</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50363,6 +50375,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250802031100 +0800" stop="20250802042700 +0800">
 		<title lang="zh">34_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250802042700 +0800" stop="20250802051400 +0800">
+		<title lang="zh">09_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50418,6 +50433,9 @@
 	<programme channel="newtv怡伴健康" start="20250802033300 +0800" stop="20250802042000 +0800">
 		<title lang="zh">野生动物大家庭（2）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250802042000 +0800" stop="20250802050500 +0800">
+		<title lang="zh">08_大武当</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50432,6 +50450,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250802030100 +0800" stop="20250802042900 +0800">
 		<title lang="zh">26_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250802042900 +0800" stop="20250802051300 +0800">
+		<title lang="zh">27_榜上佳婿</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -50451,6 +50472,9 @@
 	<programme channel="newtv军事评论" start="20250802035000 +0800" stop="20250802044300 +0800">
 		<title lang="zh">何继荣：老兵的“焰火”人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250802044300 +0800" stop="20250802050900 +0800">
+		<title lang="zh">美日再“升级”安全关系 美日菲欲在南海联合巡逻</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50465,6 +50489,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250802041400 +0800" stop="20250802042600 +0800">
 		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250802042600 +0800" stop="20250802043900 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250802043900 +0800" stop="20250802052700 +0800">
+		<title lang="zh">第3期：撒贝宁秒变受气小媳妇儿</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50564,6 +50594,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250802034800 +0800" stop="20250802044400 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250802044400 +0800" stop="20250802062400 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
