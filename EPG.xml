@@ -72207,6 +72207,9 @@
 	<programme channel="超级电影" start="20250802122800 +0800" stop="20250802143200 +0800">
 		<title lang="zh">电影《战国》</title>
 	</programme>
+	<programme channel="超级电影" start="20250802143200 +0800" stop="20250802162500 +0800">
+		<title lang="zh">电影《超能一家人》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84363,6 +84366,9 @@
 	<programme channel="newtv超级电影" start="20250802122800 +0800" stop="20250802143200 +0800">
 		<title lang="zh">电影《战国》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250802143200 +0800" stop="20250802162500 +0800">
+		<title lang="zh">电影《超能一家人》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84422,6 +84428,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250802140600 +0800" stop="20250802144800 +0800">
 		<title lang="zh">11_海天雄鹰</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250802144800 +0800" stop="20250802153000 +0800">
+		<title lang="zh">12_海天雄鹰</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84570,6 +84579,9 @@
 	<programme channel="newtv古装剧场" start="20250802135000 +0800" stop="20250802143900 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250802143900 +0800" stop="20250802152400 +0800">
+		<title lang="zh">21_独孤天下</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84662,6 +84674,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250802134600 +0800" stop="20250802143300 +0800">
 		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250802143300 +0800" stop="20250802151800 +0800">
+		<title lang="zh">22_承欢记</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85004,6 +85019,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250802141900 +0800" stop="20250802144100 +0800">
 		<title lang="zh">二战空袭大揭秘（十）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250802144100 +0800" stop="20250802150300 +0800">
+		<title lang="zh">二战遗迹b7落水的轰炸机（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
