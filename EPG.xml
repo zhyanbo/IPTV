@@ -16581,6 +16581,9 @@
 	<programme channel="咪咕足球" start="20250806032000 +0800" stop="20250806042000 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250806042500 +0800" stop="20250806052500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -48264,6 +48267,9 @@
 	<programme channel="newtv超级综艺" start="20250806031000 +0800" stop="20250806043000 +0800">
 		<title lang="zh">舞蹈世界</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250806043000 +0800" stop="20250806054400 +0800">
+		<title lang="zh">原声天籁——中国民歌盛典</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48330,6 +48336,9 @@
 	<programme channel="newtv精品大剧" start="20250806040600 +0800" stop="20250806043900 +0800">
 		<title lang="zh">30_西出玉门</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250806043900 +0800" stop="20250806054200 +0800">
+		<title lang="zh">31_西出玉门</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48341,6 +48350,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250806025800 +0800" stop="20250806042600 +0800">
 		<title lang="zh">第五集 聚力天地间</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250806042600 +0800" stop="20250806054400 +0800">
+		<title lang="zh">第六集 数字新引擎</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48399,6 +48411,9 @@
 	<programme channel="newtv热播精选" start="20250806031400 +0800" stop="20250806041900 +0800">
 		<title lang="zh">02_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250806041900 +0800" stop="20250806052400 +0800">
+		<title lang="zh">03_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -48441,6 +48456,9 @@
 	<programme channel="newtv怡伴健康" start="20250806033400 +0800" stop="20250806042200 +0800">
 		<title lang="zh">魅力大猫（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250806042200 +0800" stop="20250806050600 +0800">
+		<title lang="zh">16_大武当</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48477,6 +48495,9 @@
 	<programme channel="newtv军事评论" start="20250806033700 +0800" stop="20250806043000 +0800">
 		<title lang="zh">老兵的茶香之歌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250806043000 +0800" stop="20250806045200 +0800">
+		<title lang="zh">谁是军营厨王（35）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48488,6 +48509,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250806041500 +0800" stop="20250806042900 +0800">
 		<title lang="zh">别知己-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250806042900 +0800" stop="20250806044000 +0800">
+		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250806044000 +0800" stop="20250806045400 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48513,11 +48540,17 @@
 	<programme channel="newtv惊悚悬疑" start="20250806030600 +0800" stop="20250806044100 +0800">
 		<title lang="zh">不速之客</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250806044100 +0800" stop="20250806061000 +0800">
+		<title lang="zh">终极审判</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250806004100 +0800" stop="20250806043300 +0800">
 		<title lang="zh">开门大吉（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250806043300 +0800" stop="20250806063800 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -48581,6 +48614,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250806032300 +0800" stop="20250806042000 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250806042000 +0800" stop="20250806055900 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
