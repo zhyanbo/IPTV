@@ -28194,6 +28194,9 @@
 	<programme channel="咪咕综合体育" start="20250806120500 +0800" stop="20250806123000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第四期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250806123000 +0800" stop="20250806124500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28244,6 +28247,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250806120500 +0800" stop="20250806122000 +0800">
 		<title lang="zh">睛彩圈圈点第四期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250806122500 +0800" stop="20250806140500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第3轮 内蒙古农信-新疆国达氢</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -43841,6 +43847,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250806113200 +0800" stop="20250806121300 +0800">
 		<title lang="zh">20_星汉灿烂</title>
+	</programme>
+	<programme channel="明星大片" start="20250806121300 +0800" stop="20250806133800 +0800">
+		<title lang="zh">史前怪兽</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60459,6 +60468,9 @@
 	<programme channel="爱情喜剧" start="20250806115200 +0800" stop="20250806122300 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250806122300 +0800" stop="20250806133800 +0800">
+		<title lang="zh">23_蔷薇风暴</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66317,6 +66329,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250806113200 +0800" stop="20250806121400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 时光长河 古韵悠悠</title>
+	</programme>
+	<programme channel="纯享4K" start="20250806121400 +0800" stop="20250806125600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 古今辉映 洛阳风华</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -82218,6 +82233,9 @@
 	<programme channel="黑莓动画" start="20250806103500 +0800" stop="20250806120500 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250806120500 +0800" stop="20250806133200 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83364,6 +83382,9 @@
 	<programme channel="newtv古装剧场" start="20250806115800 +0800" stop="20250806121600 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊02</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250806121600 +0800" stop="20250806130200 +0800">
+		<title lang="zh">36_美人心计</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83402,6 +83423,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250806113000 +0800" stop="20250806121000 +0800">
 		<title lang="zh">《超级美味》推荐第2期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250806121000 +0800" stop="20250806132300 +0800">
+		<title lang="zh">13_黑狐之风影（修复版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83484,6 +83508,9 @@
 	<programme channel="newtv热播精选" start="20250806115800 +0800" stop="20250806121600 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊02</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250806121600 +0800" stop="20250806132000 +0800">
+		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83516,6 +83543,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250806115200 +0800" stop="20250806122300 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250806122300 +0800" stop="20250806133800 +0800">
+		<title lang="zh">23_蔷薇风暴</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83598,6 +83628,12 @@
 	<programme channel="newtv怡伴健康" start="20250806110300 +0800" stop="20250806120800 +0800">
 		<title lang="zh">29_最好的时代</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250806120800 +0800" stop="20250806122800 +0800">
+		<title lang="zh">《超级美味》推荐第2期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250806122800 +0800" stop="20250806145800 +0800">
+		<title lang="zh">越剧《孟丽君》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83645,6 +83681,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250806115700 +0800" stop="20250806121100 +0800">
 		<title lang="zh">第32集：美国洛杉矶 鸡架鸡汤面</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250806121100 +0800" stop="20250806124100 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83727,6 +83766,9 @@
 	<programme channel="newtv军事评论" start="20250806115000 +0800" stop="20250806121200 +0800">
 		<title lang="zh">乌克兰上空的“幻影”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250806121200 +0800" stop="20250806123400 +0800">
+		<title lang="zh">全景一战b7困局（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83807,6 +83849,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250806113200 +0800" stop="20250806121300 +0800">
 		<title lang="zh">20_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250806121300 +0800" stop="20250806133800 +0800">
+		<title lang="zh">史前怪兽</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
