@@ -72066,6 +72066,9 @@
 	<programme channel="超级电影" start="20250807211300 +0800" stop="20250807224600 +0800">
 		<title lang="zh">电影《东邪西毒：终极版》</title>
 	</programme>
+	<programme channel="超级电影" start="20250807224600 +0800" stop="20250807001100 +0800">
+		<title lang="zh">电影《鲨卷风4》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84605,6 +84608,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250807211300 +0800" stop="20250807224600 +0800">
 		<title lang="zh">电影《东邪西毒：终极版》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250807224600 +0800" stop="20250807001100 +0800">
+		<title lang="zh">电影《鲨卷风4》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
