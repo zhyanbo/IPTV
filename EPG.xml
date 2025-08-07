@@ -41025,6 +41025,12 @@
 	<programme channel="纯享4K" start="20250808041500 +0800" stop="20250808045700 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 牡丹之城 锦绣菏泽</title>
 	</programme>
+	<programme channel="纯享4K" start="20250808045700 +0800" stop="20250808050200 +0800">
+		<title lang="zh">美丽中国自然4K 江苏盐城系列 鸻步探戈</title>
+	</programme>
+	<programme channel="纯享4K" start="20250808050700 +0800" stop="20250808053700 +0800">
+		<title lang="zh">美丽中国说4K 生态海岸</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51675,6 +51681,9 @@
 	<programme channel="newtv超级电影" start="20250808041100 +0800" stop="20250808050100 +0800">
 		<title lang="zh">沧海渔生（下）</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250808050100 +0800" stop="20250808063600 +0800">
+		<title lang="zh">功夫联盟</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51699,6 +51708,9 @@
 	<programme channel="newtv超级电视剧" start="20250808043500 +0800" stop="20250808051600 +0800">
 		<title lang="zh">06_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250808051600 +0800" stop="20250808055800 +0800">
+		<title lang="zh">07_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51716,6 +51728,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250808040600 +0800" stop="20250808044600 +0800">
 		<title lang="zh">38_西出玉门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250808044600 +0800" stop="20250808060800 +0800">
+		<title lang="zh">01_长相思</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51777,6 +51792,9 @@
 	<programme channel="newtv家庭剧场" start="20250808033400 +0800" stop="20250808045100 +0800">
 		<title lang="zh">22_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250808045100 +0800" stop="20250808053800 +0800">
+		<title lang="zh">33_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51813,6 +51831,9 @@
 	<programme channel="newtv动作电影" start="20250808025300 +0800" stop="20250808045000 +0800">
 		<title lang="zh">镖行天下前传之编外人选</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250808045000 +0800" stop="20250808052900 +0800">
+		<title lang="zh">茯苓添康健康2</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -51833,6 +51854,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250808042100 +0800" stop="20250808050600 +0800">
 		<title lang="zh">19_大武当</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250808050600 +0800" stop="20250808061100 +0800">
+		<title lang="zh">20_大武当</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51872,6 +51896,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250808044400 +0800" stop="20250808050600 +0800">
 		<title lang="zh">谁是军营厨王（53）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250808050600 +0800" stop="20250808052800 +0800">
+		<title lang="zh">中外军粮探秘 1</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51938,6 +51965,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250808033200 +0800" stop="20250808045200 +0800">
 		<title lang="zh">2024-25赛季英超联赛第17轮：曼联VS伯恩茅斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250808045200 +0800" stop="20250808063900 +0800">
+		<title lang="zh">2024-25赛季英超联赛第16轮：利物浦VS富勒姆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
