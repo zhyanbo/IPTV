@@ -16458,6 +16458,9 @@
 	<programme channel="咪咕综合体育" start="20250809024000 +0800" stop="20250809050000 +0800">
 		<title lang="zh">UFConABC9期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250809050000 +0800" stop="20250809080000 +0800">
+		<title lang="zh">2025赛季国际马联场地障碍世界杯总决赛第3轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39390,6 +39393,9 @@
 	<programme channel="纯享4K" start="20250809041700 +0800" stop="20250809045900 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 河岳相映 儒家风范</title>
 	</programme>
+	<programme channel="纯享4K" start="20250809051000 +0800" stop="20250809054000 +0800">
+		<title lang="zh">村庄故事4K 田舍延祥（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49869,6 +49875,9 @@
 	<programme channel="newtv超级综艺" start="20250809031700 +0800" stop="20250809045000 +0800">
 		<title lang="zh">诗画中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250809045000 +0800" stop="20250809060400 +0800">
+		<title lang="zh">会唱歌的院子</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49914,6 +49923,9 @@
 	<programme channel="newtv超级电视剧" start="20250809041900 +0800" stop="20250809050000 +0800">
 		<title lang="zh">09_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250809050000 +0800" stop="20250809054200 +0800">
+		<title lang="zh">10_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49931,6 +49943,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250809040300 +0800" stop="20250809045000 +0800">
 		<title lang="zh">04_长相思</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250809045000 +0800" stop="20250809060800 +0800">
+		<title lang="zh">05_长相思</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50007,6 +50022,9 @@
 	<programme channel="newtv热播精选" start="20250809040000 +0800" stop="20250809050600 +0800">
 		<title lang="zh">17_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250809050600 +0800" stop="20250809061100 +0800">
+		<title lang="zh">18_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50034,6 +50052,9 @@
 	<programme channel="newtv动作电影" start="20250809041100 +0800" stop="20250809045000 +0800">
 		<title lang="zh">茯苓添康健康2</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250809045000 +0800" stop="20250809063800 +0800">
+		<title lang="zh">镖行天下前传之虎口夺镖</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50055,6 +50076,9 @@
 	<programme channel="newtv怡伴健康" start="20250809042900 +0800" stop="20250809051400 +0800">
 		<title lang="zh">22_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250809051400 +0800" stop="20250809055900 +0800">
+		<title lang="zh">23_大武当</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50072,6 +50096,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250809040700 +0800" stop="20250809045200 +0800">
 		<title lang="zh">15_紫檀王</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250809045200 +0800" stop="20250809052200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -50093,6 +50120,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250809042900 +0800" stop="20250809045500 +0800">
 		<title lang="zh">2023回望演训场</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250809045500 +0800" stop="20250809052200 +0800">
+		<title lang="zh">反恐尖兵</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50118,6 +50148,9 @@
 	<programme channel="newtv炫舞未来" start="20250809044200 +0800" stop="20250809050500 +0800">
 		<title lang="zh">粗粮是个宝 口感却不好？那是你没做对 今儿包教包会（20241202）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250809050500 +0800" stop="20250809052800 +0800">
+		<title lang="zh">护心肉 牛宫后 这样做让你一口吃不够！（20241203）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50126,6 +50159,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250809022200 +0800" stop="20250809050300 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250809050300 +0800" stop="20250809061100 +0800">
+		<title lang="zh">27_铁血使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
