@@ -15531,6 +15531,9 @@
 	<programme channel="咪咕足球" start="20250811000100 +0800" stop="20250811012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250811012100 +0800" stop="20250811013000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39021,6 +39024,9 @@
 	<programme channel="纯享4K" start="20250811003600 +0800" stop="20250811010600 +0800">
 		<title lang="zh">记住乡愁4K第七季 第二集 兴化——妈祖故里 挑山担海（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250811010600 +0800" stop="20250811013600 +0800">
+		<title lang="zh">味道4K 原味乡间b7嘉荫篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47670,11 +47676,17 @@
 	<programme channel="newtv超级综艺" start="20250811002500 +0800" stop="20250811011100 +0800">
 		<title lang="zh">07_功勋</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250811011100 +0800" stop="20250811015600 +0800">
+		<title lang="zh">08_功勋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250811003000 +0800" stop="20250811011000 +0800">
 		<title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250811011000 +0800" stop="20250811023800 +0800">
+		<title lang="zh">实况录像-2025年长三角国际田径钻石赛(上海/绍兴柯桥)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47688,17 +47700,26 @@
 	<programme channel="newtv超级电视剧" start="20250811000600 +0800" stop="20250811005200 +0800">
 		<title lang="zh">16_山河锦绣</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250811005200 +0800" stop="20250811013700 +0800">
+		<title lang="zh">17_山河锦绣</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250811002500 +0800" stop="20250811010700 +0800">
 		<title lang="zh">31_老酒馆</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250811010700 +0800" stop="20250811021800 +0800">
+		<title lang="zh">32_老酒馆</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
 	<programme channel="newtv精品纪录" start="20250811000700 +0800" stop="20250811011600 +0800">
 		<title lang="zh">《嫦娥六号》 第1集 再出发</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250811011600 +0800" stop="20250811022500 +0800">
+		<title lang="zh">《嫦娥六号》 第2集 挖呀挖</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47745,6 +47766,9 @@
 	<programme channel="newtv怡伴健康" start="20250811001500 +0800" stop="20250811005500 +0800">
 		<title lang="zh">《超级美味》推荐第2期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250811005500 +0800" stop="20250811014100 +0800">
+		<title lang="zh">13_倚天屠龙记</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47756,6 +47780,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20250811002200 +0800" stop="20250811010800 +0800">
 		<title lang="zh">蛟龙出海 第3集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250811010800 +0800" stop="20250811020100 +0800">
+		<title lang="zh">甲午风云录 第1集 燃烧的黄海</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47774,6 +47801,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250811000400 +0800" stop="20250811005300 +0800">
 		<title lang="zh">帕米便携式氢氧一体机特价款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250811005300 +0800" stop="20250811022300 +0800">
+		<title lang="zh">蒸发太平洋</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
