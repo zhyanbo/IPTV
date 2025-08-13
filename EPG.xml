@@ -13902,19 +13902,19 @@
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
-	<programme channel="东方卫视" start="20250813000000 +0800" stop="20250813003700 +0800">
+	<programme channel="东方卫视" start="20250813000000 +0800" stop="20250813003800 +0800">
 		<title lang="zh">中国经济圆桌会（21）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813003700 +0800" stop="20250813012200 +0800">
+	<programme channel="东方卫视" start="20250813003800 +0800" stop="20250813012200 +0800">
 		<title lang="zh">三体（5）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813012200 +0800" stop="20250813020800 +0800">
+	<programme channel="东方卫视" start="20250813012200 +0800" stop="20250813020900 +0800">
 		<title lang="zh">三体（6）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813020800 +0800" stop="20250813021100 +0800">
+	<programme channel="东方卫视" start="20250813020900 +0800" stop="20250813021200 +0800">
 		<title lang="zh">＜雁回时＞明日精彩看点</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813021100 +0800" stop="20250813025700 +0800">
+	<programme channel="东方卫视" start="20250813021200 +0800" stop="20250813025700 +0800">
 		<title lang="zh">三体（7）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250813025700 +0800" stop="20250813034100 +0800">
@@ -13929,10 +13929,10 @@
 	<programme channel="东方卫视" start="20250813044200 +0800" stop="20250813052800 +0800">
 		<title lang="zh">三体（10）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813052800 +0800" stop="20250813061300 +0800">
+	<programme channel="东方卫视" start="20250813052800 +0800" stop="20250813061400 +0800">
 		<title lang="zh">三体（11）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813061300 +0800" stop="20250813070000 +0800">
+	<programme channel="东方卫视" start="20250813061400 +0800" stop="20250813070000 +0800">
 		<title lang="zh">三体（12）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250813070000 +0800" stop="20250813070100 +0800">
@@ -13941,10 +13941,10 @@
 	<programme channel="东方卫视" start="20250813070100 +0800" stop="20250813085900 +0800">
 		<title lang="zh">看东方</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813085900 +0800" stop="20250813090200 +0800">
+	<programme channel="东方卫视" start="20250813085900 +0800" stop="20250813090300 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813090200 +0800" stop="20250813094300 +0800">
+	<programme channel="东方卫视" start="20250813090300 +0800" stop="20250813094300 +0800">
 		<title lang="zh">乌云之上（1）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250813094300 +0800" stop="20250813102500 +0800">
@@ -13980,10 +13980,10 @@
 	<programme channel="东方卫视" start="20250813145000 +0800" stop="20250813153400 +0800">
 		<title lang="zh">菩提树下（53）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813153400 +0800" stop="20250813161500 +0800">
+	<programme channel="东方卫视" start="20250813153400 +0800" stop="20250813161600 +0800">
 		<title lang="zh">六姊妹（1）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250813161500 +0800" stop="20250813165700 +0800">
+	<programme channel="东方卫视" start="20250813161600 +0800" stop="20250813165700 +0800">
 		<title lang="zh">六姊妹（2）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250813165700 +0800" stop="20250813170600 +0800">
@@ -28408,6 +28408,9 @@
 	<programme channel="咪咕足球" start="20250813180500 +0800" stop="20250813183000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第五期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250813183500 +0800" stop="20250813192500 +0800">
+		<title lang="zh">一球一城 博洛尼亚</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40740,6 +40743,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250813162400 +0800" stop="20250813182200 +0800">
 		<title lang="zh">暮光之城4：破晓（上）（英文版）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250813182200 +0800" stop="20250813185200 +0800">
+		<title lang="zh">《八段锦》推荐第30期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66442,6 +66448,9 @@
 	<programme channel="纯享4K" start="20250813180600 +0800" stop="20250813184600 +0800">
 		<title lang="zh">探索b7发现4K 固原北周大墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20250813184600 +0800" stop="20250813193500 +0800">
+		<title lang="zh">大地之上4K 第2集 大漠回响</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -71463,6 +71472,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250813170300 +0800" stop="20250813182700 +0800">
 		<title lang="zh">电影《空中世界二战》</title>
+	</programme>
+	<programme channel="超级电影" start="20250813182700 +0800" stop="20250813200200 +0800">
+		<title lang="zh">电影《特殊身份》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83170,6 +83182,9 @@
 	<programme channel="newtv超级电影" start="20250813170300 +0800" stop="20250813182700 +0800">
 		<title lang="zh">电影《空中世界二战》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250813182700 +0800" stop="20250813200200 +0800">
+		<title lang="zh">电影《特殊身份》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83248,6 +83263,9 @@
 	<programme channel="newtv超级电视剧" start="20250813175900 +0800" stop="20250813184500 +0800">
 		<title lang="zh">24_欢乐颂4</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250813184500 +0800" stop="20250813193100 +0800">
+		<title lang="zh">25_欢乐颂4</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83307,6 +83325,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250813180100 +0800" stop="20250813183900 +0800">
 		<title lang="zh">39_鹊刀门传奇2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250813183900 +0800" stop="20250813190900 +0800">
+		<title lang="zh">《八段锦》推荐第30期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83383,6 +83404,9 @@
 	<programme channel="newtv精品纪录" start="20250813174300 +0800" stop="20250813181800 +0800">
 		<title lang="zh">第4集：苍茫天地间</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250813181800 +0800" stop="20250813185000 +0800">
+		<title lang="zh">第5集：凝聚的灵感</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83446,6 +83470,9 @@
 	<programme channel="newtv古装剧场" start="20250813175000 +0800" stop="20250813183300 +0800">
 		<title lang="zh">21_永夜星河</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250813183300 +0800" stop="20250813191300 +0800">
+		<title lang="zh">22_永夜星河</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83502,6 +83529,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250813175800 +0800" stop="20250813182800 +0800">
 		<title lang="zh">《八段锦》推荐第30期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250813182800 +0800" stop="20250813191300 +0800">
+		<title lang="zh">10_四十九日b7祭（DVD版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83812,6 +83842,9 @@
 	<programme channel="newtv怡伴健康" start="20250813175900 +0800" stop="20250813182900 +0800">
 		<title lang="zh">《八段锦》推荐第30期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250813182900 +0800" stop="20250813192200 +0800">
+		<title lang="zh">湖南星火燎原vs北京睿翼精英-第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83877,6 +83910,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250813163900 +0800" stop="20250813182900 +0800">
 		<title lang="zh">10_功勋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250813182900 +0800" stop="20250813191300 +0800">
+		<title lang="zh">11_功勋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84004,6 +84040,9 @@
 	<programme channel="newtv军事评论" start="20250813181100 +0800" stop="20250813183300 +0800">
 		<title lang="zh">两路上高原 八宿篇（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250813183300 +0800" stop="20250813185500 +0800">
+		<title lang="zh">两路上高原 八宿篇（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84078,6 +84117,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250813175800 +0800" stop="20250813183700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250813183700 +0800" stop="20250813195300 +0800">
+		<title lang="zh">初中辍学从服务员逆袭成博士 小小用十年时间改写人生（20250226）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84175,6 +84217,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250813162400 +0800" stop="20250813182200 +0800">
 		<title lang="zh">暮光之城4：破晓（上）（英文版）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250813182200 +0800" stop="20250813185200 +0800">
+		<title lang="zh">《八段锦》推荐第30期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -84258,6 +84303,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250813170900 +0800" stop="20250813183100 +0800">
 		<title lang="zh">2025年NBA夏季联赛 7月12日：开拓者VS勇士</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250813183100 +0800" stop="20250813202400 +0800">
+		<title lang="zh">NBA季后赛4月29日：火箭VS勇士</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -84357,6 +84405,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250813175600 +0800" stop="20250813182600 +0800">
 		<title lang="zh">《八段锦》推荐第30期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250813182600 +0800" stop="20250813190600 +0800">
+		<title lang="zh">23_且试天下</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
