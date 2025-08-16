@@ -41604,6 +41604,9 @@
 	<programme channel="纯享4K" start="20250817003700 +0800" stop="20250817010700 +0800">
 		<title lang="zh">记住乡愁4K第七季 第十五集 雷州——岭南古郡 敬贤如师</title>
 	</programme>
+	<programme channel="纯享4K" start="20250817010700 +0800" stop="20250817013600 +0800">
+		<title lang="zh">味道4K 山海拾味b7大连篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52416,41 +52419,8 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20250817000000 +0800" stop="20250817020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817020000 +0800" stop="20250817040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817060000 +0800" stop="20250817080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817080000 +0800" stop="20250817100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817100600 +0800" stop="20250817120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817120000 +0800" stop="20250817140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817140000 +0800" stop="20250817160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817160000 +0800" stop="20250817180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817180000 +0800" stop="20250817190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817190000 +0800" stop="20250817200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817200000 +0800" stop="20250817220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250817220000 +0800" stop="20250817235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20250817005500 +0800" stop="20250817031000 +0800">
+		<title lang="zh">搜索</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -52458,11 +52428,17 @@
 	<programme channel="newtv超级电视剧" start="20250817000100 +0800" stop="20250817005700 +0800">
 		<title lang="zh">13_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250817005700 +0800" stop="20250817014100 +0800">
+		<title lang="zh">14_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250817002900 +0800" stop="20250817011300 +0800">
 		<title lang="zh">09_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250817011300 +0800" stop="20250817022600 +0800">
+		<title lang="zh">10_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52487,6 +52463,9 @@
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250817001400 +0800" stop="20250817005900 +0800">
 		<title lang="zh">31_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250817005900 +0800" stop="20250817021500 +0800">
+		<title lang="zh">32_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52526,6 +52505,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20250817000700 +0800" stop="20250817005800 +0800">
 		<title lang="zh">军威赫赫 第1集 大国仪仗</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250817005800 +0800" stop="20250817015000 +0800">
+		<title lang="zh">军威赫赫 第2集 国旗卫士</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
