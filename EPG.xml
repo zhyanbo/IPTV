@@ -17271,6 +17271,9 @@
 	<programme channel="咪咕综合体育" start="20250817024500 +0800" stop="20250817031000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250817031000 +0800" stop="20250817061000 +0800">
+		<title lang="zh">一杆定音-2025斯诺克上海大师赛决赛 卡特-威尔逊 第二阶段</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17279,6 +17282,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250817013000 +0800" stop="20250817031000 +0800">
 		<title lang="zh">2024NBL 江西赣驰-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250817032000 +0800" stop="20250817042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -52572,6 +52578,9 @@
 	<programme channel="newtv超级电影" start="20250817005500 +0800" stop="20250817031000 +0800">
 		<title lang="zh">搜索</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250817031000 +0800" stop="20250817044900 +0800">
+		<title lang="zh">冯梦龙传奇</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52587,6 +52596,9 @@
 	<programme channel="newtv超级电视剧" start="20250817023100 +0800" stop="20250817031200 +0800">
 		<title lang="zh">16_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250817031200 +0800" stop="20250817035800 +0800">
+		<title lang="zh">17_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52598,6 +52610,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250817022600 +0800" stop="20250817031500 +0800">
 		<title lang="zh">11_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250817031500 +0800" stop="20250817043500 +0800">
+		<title lang="zh">12_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52629,6 +52644,9 @@
 	<programme channel="newtv军旅剧场" start="20250817012900 +0800" stop="20250817025400 +0800">
 		<title lang="zh">03_悬镜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250817025400 +0800" stop="20250817041400 +0800">
+		<title lang="zh">04_悬镜</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52640,6 +52658,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250817021500 +0800" stop="20250817030000 +0800">
 		<title lang="zh">33_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250817030000 +0800" stop="20250817041600 +0800">
+		<title lang="zh">34_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52695,6 +52716,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250817023600 +0800" stop="20250817030600 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250817030600 +0800" stop="20250817043200 +0800">
+		<title lang="zh">14_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52719,11 +52743,20 @@
 	<programme channel="newtv炫舞未来" start="20250817013200 +0800" stop="20250817024900 +0800">
 		<title lang="zh">有一种爱叫隔辈亲（20250414）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250817030000 +0800" stop="20250817030900 +0800">
+		<title lang="zh">彩虹节拍-璞玉</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250817030900 +0800" stop="20250817032200 +0800">
+		<title lang="zh">情深深雨蒙蒙-李萍</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250817002700 +0800" stop="20250817025300 +0800">
 		<title lang="zh">上海王</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250817025300 +0800" stop="20250817051200 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
