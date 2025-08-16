@@ -41745,6 +41745,12 @@
 	<programme channel="纯享4K" start="20250817041700 +0800" stop="20250817045900 +0800">
 		<title lang="zh">远方的家4K 我家那片海 南海明珠 创新琼海</title>
 	</programme>
+	<programme channel="纯享4K" start="20250817045900 +0800" stop="20250817050500 +0800">
+		<title lang="zh">美丽中国自然4K 高黎贡山系列 水中凤凰</title>
+	</programme>
+	<programme channel="纯享4K" start="20250817051000 +0800" stop="20250817052000 +0800">
+		<title lang="zh">秘境之眼4K 向海之约</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52383,6 +52389,9 @@
 	<programme channel="黑莓动画" start="20250817033000 +0800" stop="20250817050000 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250817050000 +0800" stop="20250817062800 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52394,6 +52403,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250817032900 +0800" stop="20250817050300 +0800">
 		<title lang="zh">天净沙</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250817050300 +0800" stop="20250817072000 +0800">
+		<title lang="zh">小森林</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -52764,6 +52776,9 @@
 	<programme channel="newtv精品纪录" start="20250817031800 +0800" stop="20250817044700 +0800">
 		<title lang="zh">03_慧 城市</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250817044700 +0800" stop="20250817061600 +0800">
+		<title lang="zh">04_绿 生态</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52812,6 +52827,9 @@
 	<programme channel="newtv家庭剧场" start="20250817041600 +0800" stop="20250817050100 +0800">
 		<title lang="zh">31_烟火人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250817050100 +0800" stop="20250817061600 +0800">
+		<title lang="zh">32_烟火人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52845,6 +52863,9 @@
 	<programme channel="newtv动作电影" start="20250817024600 +0800" stop="20250817050200 +0800">
 		<title lang="zh">幽灵毒枭</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250817050200 +0800" stop="20250817073600 +0800">
+		<title lang="zh">九纹龙史进之替天行道</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52865,6 +52886,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250817041900 +0800" stop="20250817050800 +0800">
 		<title lang="zh">13_骊歌行</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250817050800 +0800" stop="20250817055600 +0800">
+		<title lang="zh">14_骊歌行</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52905,6 +52929,9 @@
 	<programme channel="newtv军事评论" start="20250817042400 +0800" stop="20250817045000 +0800">
 		<title lang="zh">探访“云峰八寨”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250817045000 +0800" stop="20250817051700 +0800">
+		<title lang="zh">军迷越南游记（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52929,6 +52956,9 @@
 	<programme channel="newtv炫舞未来" start="20250817035600 +0800" stop="20250817051300 +0800">
 		<title lang="zh">纤夫远去号子悠 非遗川江号子唱响舞台（20250510）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250817051300 +0800" stop="20250817055100 +0800">
+		<title lang="zh">分秒必争的急救（20240707）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52937,6 +52967,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250817025300 +0800" stop="20250817051200 +0800">
 		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250817051200 +0800" stop="20250817062700 +0800">
+		<title lang="zh">11_女人的抗战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52952,6 +52985,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250817034500 +0800" stop="20250817050700 +0800">
 		<title lang="zh">九辫灵狐</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250817050700 +0800" stop="20250817062900 +0800">
+		<title lang="zh">天剑修仙传</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -53021,6 +53057,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250817022300 +0800" stop="20250817044600 +0800">
 		<title lang="zh">飞鱼服</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250817044600 +0800" stop="20250817070500 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
