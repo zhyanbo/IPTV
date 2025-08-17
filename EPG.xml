@@ -15408,6 +15408,9 @@
 	<programme channel="咪咕足球" start="20250818022500 +0800" stop="20250818030500 +0800">
 		<title lang="zh">西班牙黄金一代01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250818030500 +0800" stop="20250818032000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38910,6 +38913,9 @@
 	<programme channel="纯享4K" start="20250818020700 +0800" stop="20250818024700 +0800">
 		<title lang="zh">探索b7发现4K 匠人b7匠心（29）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250818024700 +0800" stop="20250818033700 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第1集 荒原新生</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47517,6 +47523,9 @@
 	<programme channel="newtv军旅剧场" start="20250818013800 +0800" stop="20250818030000 +0800">
 		<title lang="zh">06_悬镜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250818030000 +0800" stop="20250818041900 +0800">
+		<title lang="zh">07_悬镜</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47526,11 +47535,17 @@
 	<programme channel="newtv家庭剧场" start="20250818020400 +0800" stop="20250818024900 +0800">
 		<title lang="zh">37_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250818024900 +0800" stop="20250818040500 +0800">
+		<title lang="zh">38_兰桐花开</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20250818004100 +0800" stop="20250818025600 +0800">
 		<title lang="zh">六扇门之嫣州八艳</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250818025600 +0800" stop="20250818044000 +0800">
+		<title lang="zh">16_狮子山下的故事</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47538,11 +47553,17 @@
 	<programme channel="newtv爱情喜剧" start="20250818003200 +0800" stop="20250818025400 +0800">
 		<title lang="zh">大会师</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250818025400 +0800" stop="20250818041800 +0800">
+		<title lang="zh">10_承欢记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20250818002200 +0800" stop="20250818025700 +0800">
 		<title lang="zh">伏虎武松</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250818025700 +0800" stop="20250818052600 +0800">
+		<title lang="zh">坦克战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47570,6 +47591,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250818013100 +0800" stop="20250818025600 +0800">
 		<title lang="zh">17_三十而已</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250818025600 +0800" stop="20250818034000 +0800">
+		<title lang="zh">18_三十而已</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
