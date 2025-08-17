@@ -28291,6 +28291,9 @@
 	<programme channel="咪咕足球" start="20250817212000 +0800" stop="20250817222000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250817223000 +0800" stop="20250817232000 +0800">
+		<title lang="zh">一球一城 考纳斯</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -62023,6 +62026,9 @@
 	<programme channel="爱情喜剧" start="20250817213500 +0800" stop="20250817222000 +0800">
 		<title lang="zh">56_三生三世枕上书</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250817222000 +0800" stop="20250817230100 +0800">
+		<title lang="zh">01_春色寄情人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -86200,6 +86206,9 @@
 	<programme channel="newtv超级电视剧" start="20250817214600 +0800" stop="20250817223100 +0800">
 		<title lang="zh">26_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250817223100 +0800" stop="20250817231600 +0800">
+		<title lang="zh">27_大嫁风尚</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86277,6 +86286,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250817212600 +0800" stop="20250817224100 +0800">
 		<title lang="zh">14_好事成双</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250817224100 +0800" stop="20250817232700 +0800">
+		<title lang="zh">15_好事成双</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86368,6 +86380,9 @@
 	<programme channel="newtv精品纪录" start="20250817215100 +0800" stop="20250817222000 +0800">
 		<title lang="zh">我的家乡菜b7安岳篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250817222000 +0800" stop="20250817225000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86439,6 +86454,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250817210500 +0800" stop="20250817223100 +0800">
 		<title lang="zh">31_长相思</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250817223100 +0800" stop="20250817000000 +0800">
+		<title lang="zh">32_长相思</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -86665,6 +86683,9 @@
 	<programme channel="newtv热播精选" start="20250817212500 +0800" stop="20250817223100 +0800">
 		<title lang="zh">12_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250817223100 +0800" stop="20250817235200 +0800">
+		<title lang="zh">现在就出发</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86730,6 +86751,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250817213500 +0800" stop="20250817222000 +0800">
 		<title lang="zh">56_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250817222000 +0800" stop="20250817230100 +0800">
+		<title lang="zh">01_春色寄情人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -86872,6 +86896,9 @@
 	<programme channel="newtv怡伴健康" start="20250817215100 +0800" stop="20250817222100 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250817222100 +0800" stop="20250817233400 +0800">
+		<title lang="zh">天津狼图腾vs广东瑜满珠江-第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86949,6 +86976,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250817214200 +0800" stop="20250817223300 +0800">
 		<title lang="zh">10_大奉打更人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250817223300 +0800" stop="20250817230300 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87094,6 +87124,12 @@
 	<programme channel="newtv军事评论" start="20250817215400 +0800" stop="20250817222000 +0800">
 		<title lang="zh">“台独”翻不了天：赖清德后院起火</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250817222000 +0800" stop="20250817224600 +0800">
+		<title lang="zh">解放军捍卫主权：航母演训震慑外敌</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250817224600 +0800" stop="20250817231100 +0800">
+		<title lang="zh">我们的宝岛：家从大陆来 乡音诉乡情</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87183,6 +87219,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250817213700 +0800" stop="20250817222600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250817222600 +0800" stop="20250817224500 +0800">
+		<title lang="zh">烟雨人间-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250817224500 +0800" stop="20250817230700 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87369,6 +87411,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250817214500 +0800" stop="20250817223500 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250817223500 +0800" stop="20250817000500 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
