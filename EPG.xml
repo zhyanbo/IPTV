@@ -52305,6 +52305,9 @@
 	<programme channel="newtv超级体育" start="20250819010500 +0800" stop="20250819023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 多哈站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250819023600 +0800" stop="20250819040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52340,6 +52343,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250819020000 +0800" stop="20250819024300 +0800">
 		<title lang="zh">19_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250819024300 +0800" stop="20250819040000 +0800">
+		<title lang="zh">20_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52395,11 +52401,17 @@
 	<programme channel="newtv爱情喜剧" start="20250819003700 +0800" stop="20250819024200 +0800">
 		<title lang="zh">缘分天定</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250819024200 +0800" stop="20250819040600 +0800">
+		<title lang="zh">20_承欢记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20250819003600 +0800" stop="20250819023800 +0800">
 		<title lang="zh">烈火营救</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250819023800 +0800" stop="20250819050500 +0800">
+		<title lang="zh">圆环行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52412,6 +52424,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250819012500 +0800" stop="20250819024100 +0800">
 		<title lang="zh">30_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250819024100 +0800" stop="20250819032900 +0800">
+		<title lang="zh">花豹成长史</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52436,6 +52451,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250819014600 +0800" stop="20250819023200 +0800">
 		<title lang="zh">红色气质 第1集 开天辟地</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250819023200 +0800" stop="20250819031800 +0800">
+		<title lang="zh">红色气质 第2集 星火燎原</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
