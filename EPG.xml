@@ -26575,6 +26575,12 @@
 	<programme channel="咪咕综合体育" start="20250818213000 +0800" stop="20250818215500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第六期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250818220000 +0800" stop="20250818221500 +0800">
+		<title lang="zh">睛彩圈圈点第六期</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250818221500 +0800" stop="20250818000000 +0800">
+		<title lang="zh">网球世界-2025WTA500柏林站 决赛 王欣瑜-万卓索娃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -26661,6 +26667,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250818211500 +0800" stop="20250818221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250818221500 +0800" stop="20250818222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -64708,6 +64717,9 @@
 	<programme channel="纯享4K" start="20250818212500 +0800" stop="20250818215000 +0800">
 		<title lang="zh">青蘋之末4K 第5集 蛋白探秘</title>
 	</programme>
+	<programme channel="纯享4K" start="20250818215000 +0800" stop="20250818224000 +0800">
+		<title lang="zh">玩的是古 第二季4K 第1集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80452,6 +80464,9 @@
 	<programme channel="newtv超级综艺" start="20250818205300 +0800" stop="20250818215000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250818215000 +0800" stop="20250818223900 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80502,6 +80517,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250818210000 +0800" stop="20250818220000 +0800">
 		<title lang="zh">天下足球</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250818220000 +0800" stop="20250818230500 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -80637,6 +80655,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250818210000 +0800" stop="20250818214700 +0800">
 		<title lang="zh">15_树下有片红房子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250818214700 +0800" stop="20250818223200 +0800">
+		<title lang="zh">29_大嫁风尚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80797,6 +80818,9 @@
 	<programme channel="newtv精品纪录" start="20250818211400 +0800" stop="20250818220000 +0800">
 		<title lang="zh">第1集：李清照</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250818220000 +0800" stop="20250818224000 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80941,6 +80965,9 @@
 	<programme channel="newtv军旅剧场" start="20250818210200 +0800" stop="20250818214700 +0800">
 		<title lang="zh">45_十送红军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250818214700 +0800" stop="20250818221700 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81015,6 +81042,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250818211600 +0800" stop="20250818214600 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250818214600 +0800" stop="20250818223300 +0800">
+		<title lang="zh">09_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
