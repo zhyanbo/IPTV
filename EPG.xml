@@ -17523,6 +17523,9 @@
 	<programme channel="咪咕综合体育" start="20250820014000 +0800" stop="20250820024000 +0800">
 		<title lang="zh">纪录片曼联：为了荣誉</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250820024500 +0800" stop="20250820052500 +0800">
+		<title lang="zh">足球世界-25/26赛季西甲 第1轮 皇家马德里-奥萨苏纳 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42228,6 +42231,9 @@
 	<programme channel="纯享4K" start="20250820020600 +0800" stop="20250820024600 +0800">
 		<title lang="zh">探索b7发现4K 同德史前遗址发掘纪实</title>
 	</programme>
+	<programme channel="纯享4K" start="20250820024600 +0800" stop="20250820033600 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第3集 生命交响</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53211,6 +53217,9 @@
 	<programme channel="newtv超级体育" start="20250820010500 +0800" stop="20250820023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 拉巴特站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250820023600 +0800" stop="20250820040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -53235,6 +53244,9 @@
 	<programme channel="newtv超级电视剧" start="20250820015700 +0800" stop="20250820024500 +0800">
 		<title lang="zh">30_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250820024500 +0800" stop="20250820033000 +0800">
+		<title lang="zh">31_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -53243,6 +53255,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250820012500 +0800" stop="20250820023300 +0800">
 		<title lang="zh">22_黑白密码</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250820023300 +0800" stop="20250820031200 +0800">
+		<title lang="zh">23_黑白密码</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -53271,6 +53286,9 @@
 	<programme channel="newtv军旅剧场" start="20250820011600 +0800" stop="20250820023000 +0800">
 		<title lang="zh">12_悬镜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250820023000 +0800" stop="20250820034200 +0800">
+		<title lang="zh">13_悬镜</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -53295,11 +53313,17 @@
 	<programme channel="newtv爱情喜剧" start="20250820000700 +0800" stop="20250820024500 +0800">
 		<title lang="zh">来福大酒店</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250820024500 +0800" stop="20250820040900 +0800">
+		<title lang="zh">25_承欢记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
 	<programme channel="newtv动作电影" start="20250820001100 +0800" stop="20250820021600 +0800">
 		<title lang="zh">叱咤风云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250820021600 +0800" stop="20250820025600 +0800">
+		<title lang="zh">祛湿专题分享</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -53337,6 +53361,9 @@
 	<programme channel="newtv军事评论" start="20250820014000 +0800" stop="20250820022600 +0800">
 		<title lang="zh">胜利的回响 第3集 烽火童年</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250820022600 +0800" stop="20250820030900 +0800">
+		<title lang="zh">胜利的回响 第4集 家国密码</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53351,6 +53378,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250820000900 +0800" stop="20250820022000 +0800">
 		<title lang="zh">人口交易</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250820022000 +0800" stop="20250820050600 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -53423,6 +53453,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250820014300 +0800" stop="20250820022300 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250820022300 +0800" stop="20250820040400 +0800">
+		<title lang="zh">兰若行者</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
