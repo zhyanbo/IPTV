@@ -13737,10 +13737,10 @@
 	<channel id="东方卫视">
 		<display-name lang="zh">东方卫视</display-name>
 	</channel>
-	<programme channel="东方卫视" start="20250819000000 +0800" stop="20250819002000 +0800">
-		<title lang="zh">梦想改造家精编：花海上空的家</title>
+	<programme channel="东方卫视" start="20250819000000 +0800" stop="20250819002100 +0800">
+		<title lang="zh">去桃花盛开的地方（5）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250819002000 +0800" stop="20250819003300 +0800">
+	<programme channel="东方卫视" start="20250819002100 +0800" stop="20250819003300 +0800">
 		<title lang="zh">去桃花盛开的地方（5）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250819003300 +0800" stop="20250819004700 +0800">
@@ -13758,13 +13758,13 @@
 	<programme channel="东方卫视" start="20250819030500 +0800" stop="20250819035000 +0800">
 		<title lang="zh">我是刑警（12）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250819035000 +0800" stop="20250819043200 +0800">
+	<programme channel="东方卫视" start="20250819035000 +0800" stop="20250819043300 +0800">
 		<title lang="zh">我是刑警（13）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250819043200 +0800" stop="20250819051600 +0800">
+	<programme channel="东方卫视" start="20250819043300 +0800" stop="20250819051700 +0800">
 		<title lang="zh">我是刑警（14）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250819051600 +0800" stop="20250819055900 +0800">
+	<programme channel="东方卫视" start="20250819051700 +0800" stop="20250819055900 +0800">
 		<title lang="zh">我是刑警（15）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250819055900 +0800" stop="20250819064100 +0800">
@@ -28326,6 +28326,9 @@
 	<programme channel="咪咕综合体育" start="20250819181000 +0800" stop="20250819183500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250819183500 +0800" stop="20250819190000 +0800">
+		<title lang="zh">中超精华 第21轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28406,6 +28409,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250819180500 +0800" stop="20250819183000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250819183300 +0800" stop="20250819193000 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44348,6 +44354,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250819170400 +0800" stop="20250819181900 +0800">
 		<title lang="zh">27_西北岁月</title>
+	</programme>
+	<programme channel="明星大片" start="20250819181900 +0800" stop="20250819190200 +0800">
+		<title lang="zh">现在就告白 第四季</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61577,6 +61586,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250819170100 +0800" stop="20250819182900 +0800">
 		<title lang="zh">情比山高</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250819182900 +0800" stop="20250819190700 +0800">
+		<title lang="zh">13_春色寄情人</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -84867,6 +84879,9 @@
 	<programme channel="newtv超级电视剧" start="20250819174000 +0800" stop="20250819182700 +0800">
 		<title lang="zh">10_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250819182700 +0800" stop="20250819191200 +0800">
+		<title lang="zh">11_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85230,6 +85245,9 @@
 	<programme channel="newtv热播精选" start="20250819174800 +0800" stop="20250819181800 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250819181800 +0800" stop="20250819190300 +0800">
+		<title lang="zh">老广的味道 第二季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85283,6 +85301,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250819170100 +0800" stop="20250819182900 +0800">
 		<title lang="zh">情比山高</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250819182900 +0800" stop="20250819190700 +0800">
+		<title lang="zh">13_春色寄情人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85578,6 +85599,9 @@
 	<programme channel="newtv军事评论" start="20250819180700 +0800" stop="20250819182900 +0800">
 		<title lang="zh">深蓝使命 大驱雄风</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250819182900 +0800" stop="20250819185100 +0800">
+		<title lang="zh">深蓝使命 破浪先锋</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85704,6 +85728,9 @@
 	<programme channel="newtv精品综合" start="20250819170400 +0800" stop="20250819181900 +0800">
 		<title lang="zh">27_西北岁月</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250819181900 +0800" stop="20250819190200 +0800">
+		<title lang="zh">现在就告白 第四季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85796,6 +85823,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250819182100 +0800" stop="20250819183600 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊新版2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250819183600 +0800" stop="20250819205700 +0800">
+		<title lang="zh">开始推理吧第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -85919,6 +85949,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250819174700 +0800" stop="20250819181700 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250819181700 +0800" stop="20250819190500 +0800">
+		<title lang="zh">07_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
