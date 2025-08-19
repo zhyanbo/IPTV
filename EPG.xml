@@ -28347,6 +28347,12 @@
 	<programme channel="咪咕综合体育" start="20250819192000 +0800" stop="20250819215500 +0800">
 		<title lang="zh">足球世界-2025中国足协杯 半决赛 成都蓉城-河南俱乐部酒祖杜康 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250819220000 +0800" stop="20250819221500 +0800">
+		<title lang="zh">睛彩圈圈点第六期</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250819221500 +0800" stop="20250819000000 +0800">
+		<title lang="zh">网球世界-2025WTA华盛顿站女单半决赛 费尔南德斯-莱巴金娜</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28436,6 +28442,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250819211500 +0800" stop="20250819221500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250819221500 +0800" stop="20250819222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -40826,6 +40835,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250819203600 +0800" stop="20250819220400 +0800">
 		<title lang="zh">死亡斗士</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250819220400 +0800" stop="20250819223400 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -67629,6 +67641,9 @@
 	<programme channel="纯享4K" start="20250819212400 +0800" stop="20250819221300 +0800">
 		<title lang="zh">玩的是古 第二季4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250819221300 +0800" stop="20250819230300 +0800">
+		<title lang="zh">往事如歌4K 第1集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84807,6 +84822,9 @@
 	<programme channel="newtv超级综艺" start="20250819210300 +0800" stop="20250819220300 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250819220300 +0800" stop="20250819230700 +0800">
+		<title lang="zh">民歌b7中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85002,6 +85020,9 @@
 	<programme channel="newtv超级电视剧" start="20250819213000 +0800" stop="20250819221300 +0800">
 		<title lang="zh">18_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250819221300 +0800" stop="20250819225900 +0800">
+		<title lang="zh">32_大嫁风尚</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85167,6 +85188,9 @@
 	<programme channel="newtv精品纪录" start="20250819210700 +0800" stop="20250819215500 +0800">
 		<title lang="zh">第3集：解忧公主</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250819215500 +0800" stop="20250819223500 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85314,6 +85338,9 @@
 	<programme channel="newtv军旅剧场" start="20250819212700 +0800" stop="20250819215700 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250819215700 +0800" stop="20250819224100 +0800">
+		<title lang="zh">02_牧马人</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85391,6 +85418,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250819212600 +0800" stop="20250819221100 +0800">
 		<title lang="zh">13_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250819221100 +0800" stop="20250819225700 +0800">
+		<title lang="zh">14_梦中的那片海</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85749,6 +85779,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250819213700 +0800" stop="20250819220700 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250819220700 +0800" stop="20250819225300 +0800">
+		<title lang="zh">15_大奉打更人</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85893,6 +85926,9 @@
 	<programme channel="newtv军事评论" start="20250819213900 +0800" stop="20250819220500 +0800">
 		<title lang="zh">民调再创新低 赖清德耍横摆烂</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250819220500 +0800" stop="20250819223000 +0800">
+		<title lang="zh">存粮备战 赖清德孤注一掷</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85979,6 +86015,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250819210300 +0800" stop="20250819215000 +0800">
 		<title lang="zh">15_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250819215000 +0800" stop="20250819223900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -86090,6 +86129,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250819203600 +0800" stop="20250819220400 +0800">
 		<title lang="zh">死亡斗士</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250819220400 +0800" stop="20250819223400 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
