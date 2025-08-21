@@ -41742,6 +41742,9 @@
 	<programme channel="纯享4K" start="20250822000600 +0800" stop="20250822003600 +0800">
 		<title lang="zh">记住乡愁4K第七季 第二十四集 九江——九水汇一城（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250822003600 +0800" stop="20250822010600 +0800">
+		<title lang="zh">记住乡愁4K第七季 第二十五集 九江——九水汇一城（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52338,6 +52341,9 @@
 	<programme channel="newtv超级电视剧" start="20250822000200 +0800" stop="20250822005200 +0800">
 		<title lang="zh">38_利刃出击</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250822005200 +0800" stop="20250822013500 +0800">
+		<title lang="zh">39_利刃出击</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52353,41 +52359,8 @@
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
-	<programme channel="newtv古装剧场" start="20250822000000 +0800" stop="20250822020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822020000 +0800" stop="20250822040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822060000 +0800" stop="20250822080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822080000 +0800" stop="20250822100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822100600 +0800" stop="20250822120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822120000 +0800" stop="20250822140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822140000 +0800" stop="20250822160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822160000 +0800" stop="20250822180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822180000 +0800" stop="20250822190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822190000 +0800" stop="20250822200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822200000 +0800" stop="20250822220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv古装剧场" start="20250822220000 +0800" stop="20250822235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv古装剧场" start="20250822003200 +0800" stop="20250822015000 +0800">
+		<title lang="zh">25_庆余年第二季</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
