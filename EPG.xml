@@ -12765,9 +12765,6 @@
 	<channel id="上海第一财经">
 		<display-name lang="zh">上海第一财经</display-name>
 	</channel>
-	<programme channel="上海第一财经" start="20250821000000 +0800" stop="20250821004500 +0800">
-		<title lang="zh">财经夜行线</title>
-	</programme>
 	<programme channel="上海第一财经" start="20250821004500 +0800" stop="20250821011500 +0800">
 		<title lang="zh">＜中国经营者（246）恒源祥：海派美学　焕新出海＞</title>
 	</programme>
@@ -13599,13 +13596,13 @@
 	<programme channel="东方卫视" start="20250821135800 +0800" stop="20250821144100 +0800">
 		<title lang="zh">妻子的谎言（10）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250821144100 +0800" stop="20250821152500 +0800">
+	<programme channel="东方卫视" start="20250821144100 +0800" stop="20250821152600 +0800">
 		<title lang="zh">妻子的谎言（11）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250821152500 +0800" stop="20250821160700 +0800">
+	<programme channel="东方卫视" start="20250821152600 +0800" stop="20250821160800 +0800">
 		<title lang="zh">妻子的谎言（12）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250821160700 +0800" stop="20250821164900 +0800">
+	<programme channel="东方卫视" start="20250821160800 +0800" stop="20250821164900 +0800">
 		<title lang="zh">妻子的谎言（13）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250821164900 +0800" stop="20250821170400 +0800">
@@ -28407,6 +28404,9 @@
 	<programme channel="咪咕足球" start="20250821180500 +0800" stop="20250821183000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第六期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250821183500 +0800" stop="20250821193000 +0800">
+		<title lang="zh">中国榜样篮球季对话原帅</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40718,6 +40718,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250821165700 +0800" stop="20250821181900 +0800">
 		<title lang="zh">人类削减计划</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250821181900 +0800" stop="20250821195300 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -67740,6 +67743,9 @@
 	<programme channel="纯享4K" start="20250821180500 +0800" stop="20250821184500 +0800">
 		<title lang="zh">探索b7发现4K 岭南早期文化探源（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250821184500 +0800" stop="20250821193400 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83934,6 +83940,9 @@
 	<programme channel="黑莓动画" start="20250821170100 +0800" stop="20250821183500 +0800">
 		<title lang="zh">计时引爆摩天楼 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250821183500 +0800" stop="20250821195800 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83969,6 +83978,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250821162900 +0800" stop="20250821183700 +0800">
 		<title lang="zh">变形金刚：超能勇士崛起</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250821183700 +0800" stop="20250821201800 +0800">
+		<title lang="zh">忍者神龟：变种时代</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -85035,6 +85047,9 @@
 	<programme channel="newtv超级电视剧" start="20250821180100 +0800" stop="20250821184700 +0800">
 		<title lang="zh">19_梦华录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250821184700 +0800" stop="20250821193400 +0800">
+		<title lang="zh">20_梦华录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85173,6 +85188,9 @@
 	<programme channel="newtv精品纪录" start="20250821180300 +0800" stop="20250821183300 +0800">
 		<title lang="zh">舆载千年</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250821183300 +0800" stop="20250821190300 +0800">
+		<title lang="zh">百戏水禽</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85290,6 +85308,9 @@
 	<programme channel="newtv军旅剧场" start="20250821173400 +0800" stop="20250821181700 +0800">
 		<title lang="zh">41_四十九日b7祭（DVD版）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250821181700 +0800" stop="20250821190300 +0800">
+		<title lang="zh">42_四十九日b7祭（DVD版）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -85352,6 +85373,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250821174700 +0800" stop="20250821181700 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250821181700 +0800" stop="20250821185600 +0800">
+		<title lang="zh">26_闪耀的她</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85596,6 +85620,9 @@
 	<programme channel="newtv怡伴健康" start="20250821175000 +0800" stop="20250821182000 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250821182000 +0800" stop="20250821190200 +0800">
+		<title lang="zh">天津狼图腾vs四川天门淘一街-第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85655,6 +85682,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250821173600 +0800" stop="20250821182200 +0800">
 		<title lang="zh">43_功勋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250821182200 +0800" stop="20250821185200 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85775,6 +85805,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250821181100 +0800" stop="20250821183300 +0800">
 		<title lang="zh">营地炊烟（15）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250821183300 +0800" stop="20250821185500 +0800">
+		<title lang="zh">较量无声 芯算</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85944,6 +85977,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250821165700 +0800" stop="20250821181900 +0800">
 		<title lang="zh">人类削减计划</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250821181900 +0800" stop="20250821195300 +0800">
+		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85988,6 +86024,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250821174500 +0800" stop="20250821183500 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250821183500 +0800" stop="20250821190600 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -86132,6 +86171,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250821180400 +0800" stop="20250821183400 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250821183400 +0800" stop="20250821192200 +0800">
+		<title lang="zh">15_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
