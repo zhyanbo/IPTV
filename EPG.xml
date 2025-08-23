@@ -27603,6 +27603,12 @@
 	<programme channel="咪咕足球" start="20250823221500 +0800" stop="20250823223000 +0800">
 		<title lang="zh">睛彩圈圈点第七期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250823223000 +0800" stop="20250823223500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250823223500 +0800" stop="20250823230000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -71256,6 +71262,9 @@
 	<programme channel="超级电影" start="20250823210900 +0800" stop="20250823223800 +0800">
 		<title lang="zh">电影《天下无敌》</title>
 	</programme>
+	<programme channel="超级电影" start="20250823223800 +0800" stop="20250823000900 +0800">
+		<title lang="zh">电影《暗影2》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83628,6 +83637,9 @@
 	<programme channel="newtv超级电影" start="20250823210900 +0800" stop="20250823223800 +0800">
 		<title lang="zh">电影《天下无敌》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250823223800 +0800" stop="20250823000900 +0800">
+		<title lang="zh">电影《暗影2》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83718,6 +83730,9 @@
 	<programme channel="newtv超级电视剧" start="20250823215800 +0800" stop="20250823224300 +0800">
 		<title lang="zh">44_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250823224300 +0800" stop="20250823232900 +0800">
+		<title lang="zh">01_好事成双</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83801,6 +83816,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250823214200 +0800" stop="20250823223100 +0800">
 		<title lang="zh">03_骊歌行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250823223100 +0800" stop="20250823231600 +0800">
+		<title lang="zh">30_欢迎光临</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84210,6 +84228,9 @@
 	<programme channel="newtv热播精选" start="20250823211700 +0800" stop="20250823222300 +0800">
 		<title lang="zh">30_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250823222300 +0800" stop="20250823232400 +0800">
+		<title lang="zh">现在就出发</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84530,6 +84551,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250823215800 +0800" stop="20250823222800 +0800">
 		<title lang="zh">《八段锦》推荐第32期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250823222800 +0800" stop="20250823231400 +0800">
+		<title lang="zh">25_大奉打更人</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84938,6 +84962,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250823213900 +0800" stop="20250823222800 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250823222800 +0800" stop="20250823231800 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
