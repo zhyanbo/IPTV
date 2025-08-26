@@ -47133,6 +47133,9 @@
 	<programme channel="黑莓电影" start="20250827010200 +0800" stop="20250827024900 +0800">
 		<title lang="zh">兴安岭猎人传说2轮回森林</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250827024900 +0800" stop="20250827042000 +0800">
+		<title lang="zh">军情五处：利益之争</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47508,6 +47511,9 @@
 	<programme channel="newtv热播精选" start="20250827021500 +0800" stop="20250827030000 +0800">
 		<title lang="zh">20_三十而已</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250827030000 +0800" stop="20250827034700 +0800">
+		<title lang="zh">21_三十而已</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47517,6 +47523,9 @@
 	<programme channel="newtv爱情喜剧" start="20250827020600 +0800" stop="20250827025100 +0800">
 		<title lang="zh">23_蔷薇风暴</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250827025100 +0800" stop="20250827033600 +0800">
+		<title lang="zh">24_蔷薇风暴</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47525,6 +47534,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250827013600 +0800" stop="20250827025100 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250827025100 +0800" stop="20250827041800 +0800">
+		<title lang="zh">长安侠影之剑客风云</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47568,6 +47580,9 @@
 	<programme channel="newtv军事评论" start="20250827020700 +0800" stop="20250827025900 +0800">
 		<title lang="zh">画说长征 纪念红军长征出发90周年（20241208）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250827025900 +0800" stop="20250827035100 +0800">
+		<title lang="zh">行进在光荣的战旗下 走进陆军第77集团军某旅（20241215）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47579,6 +47594,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250827024500 +0800" stop="20250827025400 +0800">
 		<title lang="zh">最好的舞台-金洋</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250827025400 +0800" stop="20250827030200 +0800">
+		<title lang="zh">Panama-金洋</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
