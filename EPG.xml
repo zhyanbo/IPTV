@@ -43644,6 +43644,9 @@
 	<programme channel="明星大片" start="20250827221900 +0800" stop="20250827225200 +0800">
 		<title lang="zh">15_完美伴侣</title>
 	</programme>
+	<programme channel="明星大片" start="20250827225200 +0800" stop="20250827001400 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60162,6 +60165,9 @@
 	<programme channel="爱情喜剧" start="20250827211600 +0800" stop="20250827225100 +0800">
 		<title lang="zh">通往火星之路</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250827225100 +0800" stop="20250827232800 +0800">
+		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66174,6 +66180,12 @@
 	<programme channel="纯享4K" start="20250827220700 +0800" stop="20250827225600 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
 	</programme>
+	<programme channel="纯享4K" start="20250827230100 +0800" stop="20250827230600 +0800">
+		<title lang="zh">如果国宝会说话 第一季4K 何尊：这里有中国</title>
+	</programme>
+	<programme channel="纯享4K" start="20250827230600 +0800" stop="20250827232100 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 汉代帛画b7导引图</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -71078,6 +71090,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250827214800 +0800" stop="20250827230700 +0800">
 		<title lang="zh">电影《巫师猎人》</title>
+	</programme>
+	<programme channel="超级电影" start="20250827230700 +0800" stop="20250827002800 +0800">
+		<title lang="zh">电影《迷失太空》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82743,6 +82758,12 @@
 	<programme channel="黑莓动画" start="20250827223900 +0800" stop="20250827225400 +0800">
 		<title lang="zh">25_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250827225400 +0800" stop="20250827230900 +0800">
+		<title lang="zh">26_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250827230900 +0800" stop="20250827232400 +0800">
+		<title lang="zh">27_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83721,6 +83742,9 @@
 	<programme channel="newtv超级电影" start="20250827214800 +0800" stop="20250827230700 +0800">
 		<title lang="zh">电影《巫师猎人》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250827230700 +0800" stop="20250827002800 +0800">
+		<title lang="zh">电影《迷失太空》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84012,6 +84036,9 @@
 	<programme channel="newtv精品纪录" start="20250827220500 +0800" stop="20250827225300 +0800">
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250827225300 +0800" stop="20250827234100 +0800">
+		<title lang="zh">04_秘境</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84201,6 +84228,9 @@
 	<programme channel="newtv军旅剧场" start="20250827221100 +0800" stop="20250827225500 +0800">
 		<title lang="zh">03_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250827225500 +0800" stop="20250827233800 +0800">
+		<title lang="zh">04_北国英雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84297,6 +84327,9 @@
 	<programme channel="newtv家庭剧场" start="20250827220600 +0800" stop="20250827225100 +0800">
 		<title lang="zh">17_三十而已</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250827225100 +0800" stop="20250827233600 +0800">
+		<title lang="zh">18_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84384,6 +84417,9 @@
 	<programme channel="newtv热播精选" start="20250827220600 +0800" stop="20250827231300 +0800">
 		<title lang="zh">现在就出发</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250827231300 +0800" stop="20250827000200 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84461,6 +84497,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250827211600 +0800" stop="20250827225100 +0800">
 		<title lang="zh">通往火星之路</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250827225100 +0800" stop="20250827232800 +0800">
+		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84852,6 +84891,9 @@
 	<programme channel="newtv军事评论" start="20250827222500 +0800" stop="20250827225100 +0800">
 		<title lang="zh">拜登告别演讲 在台海留下什么？（20250116）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250827225100 +0800" stop="20250827231600 +0800">
+		<title lang="zh">美准国务卿妄称大陆“2030侵台”（20250117）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84960,6 +85002,12 @@
 	<programme channel="newtv炫舞未来" start="20250827220100 +0800" stop="20250827225100 +0800">
 		<title lang="zh">探访中国钱币博物馆 触摸方寸之间的货币文化（20250429）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250827225600 +0800" stop="20250827231000 +0800">
+		<title lang="zh">undress-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250827231000 +0800" stop="20250827002700 +0800">
+		<title lang="zh">喜剧人带着各地不同的习俗和美食共赴《开门大吉》（20250131）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85046,6 +85094,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250827221900 +0800" stop="20250827225200 +0800">
 		<title lang="zh">15_完美伴侣</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250827225200 +0800" stop="20250827001400 +0800">
+		<title lang="zh">民俗怪闻录之出马仙</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
