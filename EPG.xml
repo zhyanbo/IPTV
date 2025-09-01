@@ -36361,19 +36361,16 @@
 		<title lang="zh">早安剧场 电视剧</title>
 	</programme>
 	<programme channel="广西影视" start="20250901081000 +0800" stop="20250901090000 +0800">
-		<title lang="zh">电视剧</title>
+		<title lang="zh">专题</title>
 	</programme>
-	<programme channel="广西影视" start="20250901090000 +0800" stop="20250901093000 +0800">
+	<programme channel="广西影视" start="20250901090000 +0800" stop="20250901101500 +0800">
 		<title lang="zh">阳光剧场 43集 浴血青春(31)</title>
 	</programme>
-	<programme channel="广西影视" start="20250901093000 +0800" stop="20250901101500 +0800">
-		<title lang="zh">43集 浴血青春(32)</title>
-	</programme>
 	<programme channel="广西影视" start="20250901101500 +0800" stop="20250901112000 +0800">
-		<title lang="zh">阳光剧场 43集 浴血青春(33)</title>
+		<title lang="zh">阳光剧场 43集 浴血青春(32)</title>
 	</programme>
 	<programme channel="广西影视" start="20250901112000 +0800" stop="20250901122500 +0800">
-		<title lang="zh">阳光剧场 43集 浴血青春(34)</title>
+		<title lang="zh">阳光剧场 43集 浴血青春(33)</title>
 	</programme>
 	<programme channel="广西影视" start="20250901122500 +0800" stop="20250901131500 +0800">
 		<title lang="zh">轻松剧场 46集 大西北剿匪记(3)</title>
@@ -36553,7 +36550,7 @@
 		<title lang="zh">走读广西(8月31日)</title>
 	</programme>
 	<programme channel="广西综艺旅游" start="20250901074000 +0800" stop="20250901104000 +0800">
-		<title lang="zh">上午剧场:24集电视剧:英雄敢死连(14-17)</title>
+		<title lang="zh">上午剧场:24集电视剧:英雄敢死连(12-15)</title>
 	</programme>
 	<programme channel="广西综艺旅游" start="20250901104000 +0800" stop="20250901111000 +0800">
 		<title lang="zh">法治最前线(8月31日)</title>
@@ -36577,7 +36574,7 @@
 		<title lang="zh">魅力之旅—纪录广西(9月1日)</title>
 	</programme>
 	<programme channel="广西综艺旅游" start="20250901221000 +0800" stop="20250901235900 +0800">
-		<title lang="zh">经典剧场:39集电视剧:女狙击手野山鹰(37-39)</title>
+		<title lang="zh">经典剧场:39集电视剧:女狙击手野山鹰(36-38)</title>
 	</programme>
 	<channel id="广西都市">
 		<display-name lang="zh">广西都市</display-name>
@@ -40661,6 +40658,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250901171900 +0800" stop="20250901182600 +0800">
 		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="明星大片" start="20250901182600 +0800" stop="20250901190400 +0800">
+		<title lang="zh">29_完美伴侣</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -57527,6 +57527,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250901173400 +0800" stop="20250901182200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250901182200 +0800" stop="20250901190800 +0800">
+		<title lang="zh">29_独爱一生</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -78648,6 +78651,9 @@
 	<programme channel="黑莓动画" start="20250901173900 +0800" stop="20250901182900 +0800">
 		<title lang="zh">02_寒江雪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250901182900 +0800" stop="20250901191800 +0800">
+		<title lang="zh">03_出塞曲</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79653,6 +79659,9 @@
 	<programme channel="newtv超级电视剧" start="20250901175000 +0800" stop="20250901183600 +0800">
 		<title lang="zh">22_三十而已</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250901183600 +0800" stop="20250901192100 +0800">
+		<title lang="zh">23_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79812,6 +79821,9 @@
 	<programme channel="newtv精品纪录" start="20250901181400 +0800" stop="20250901184300 +0800">
 		<title lang="zh">第18集 王昌龄：一片冰心在玉壶</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250901184300 +0800" stop="20250901190600 +0800">
+		<title lang="zh">第19集 孟郊：渺渺入荒城</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79883,6 +79895,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250901175200 +0800" stop="20250901184000 +0800">
 		<title lang="zh">21_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250901184000 +0800" stop="20250901192400 +0800">
+		<title lang="zh">22_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79958,6 +79973,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250901180200 +0800" stop="20250901184600 +0800">
 		<title lang="zh">22_北国英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250901184600 +0800" stop="20250901192900 +0800">
+		<title lang="zh">23_北国英雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80159,6 +80177,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250901173400 +0800" stop="20250901182200 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250901182200 +0800" stop="20250901190800 +0800">
+		<title lang="zh">29_独爱一生</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80469,6 +80490,9 @@
 	<programme channel="newtv军事评论" start="20250901181600 +0800" stop="20250901183800 +0800">
 		<title lang="zh">隐蔽战线（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250901183800 +0800" stop="20250901190000 +0800">
+		<title lang="zh">“鲲鹏”进行时</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80547,6 +80571,9 @@
 	<programme channel="newtv炫舞未来" start="20250901174900 +0800" stop="20250901184500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250901184500 +0800" stop="20250901194500 +0800">
+		<title lang="zh">别谈钱，伤感情</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80618,6 +80645,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250901171900 +0800" stop="20250901182600 +0800">
 		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250901182600 +0800" stop="20250901190400 +0800">
+		<title lang="zh">29_完美伴侣</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -80702,6 +80732,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250901170800 +0800" stop="20250901184800 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250901184800 +0800" stop="20250901193600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -80837,6 +80870,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250901174700 +0800" stop="20250901183300 +0800">
 		<title lang="zh">21_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250901183300 +0800" stop="20250901191800 +0800">
+		<title lang="zh">22_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
