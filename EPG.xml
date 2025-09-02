@@ -15324,6 +15324,9 @@
 	<programme channel="咪咕足球" start="20250903031000 +0800" stop="20250903032000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250903032000 +0800" stop="20250903042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -37854,6 +37857,9 @@
 	<programme channel="纯享4K" start="20250903025400 +0800" stop="20250903034200 +0800">
 		<title lang="zh">传承 第二季4K 第五集 心传</title>
 	</programme>
+	<programme channel="纯享4K" start="20250903034200 +0800" stop="20250903042300 +0800">
+		<title lang="zh">远方的家4K 我家那片海 诗画乡村在“浙”里</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47043,6 +47049,9 @@
 	<programme channel="黑莓动画" start="20250903015600 +0800" stop="20250903032400 +0800">
 		<title lang="zh">星际大逃亡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250903032400 +0800" stop="20250903044200 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47343,6 +47352,9 @@
 	<programme channel="newtv超级综艺" start="20250903031400 +0800" stop="20250903033500 +0800">
 		<title lang="zh">国风超有戏</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250903033500 +0800" stop="20250903051800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47402,6 +47414,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250903030000 +0800" stop="20250903034600 +0800">
 		<title lang="zh">38_画眉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250903034600 +0800" stop="20250903043100 +0800">
+		<title lang="zh">01_天狼星行动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47496,6 +47511,9 @@
 	<programme channel="newtv爱情喜剧" start="20250903024900 +0800" stop="20250903033400 +0800">
 		<title lang="zh">19_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250903033400 +0800" stop="20250903042000 +0800">
+		<title lang="zh">20_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47535,6 +47553,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250903025200 +0800" stop="20250903033700 +0800">
 		<title lang="zh">24_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250903033700 +0800" stop="20250903042300 +0800">
+		<title lang="zh">25_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47558,6 +47579,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250903015200 +0800" stop="20250903032600 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季（20250718）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250903032600 +0800" stop="20250903034500 +0800">
+		<title lang="zh">烟雨人间-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250903034500 +0800" stop="20250903040500 +0800">
+		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47585,6 +47612,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250903004700 +0800" stop="20250903032100 +0800">
 		<title lang="zh">越战越勇（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250903032100 +0800" stop="20250903131600 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -47642,6 +47672,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250903020300 +0800" stop="20250903032800 +0800">
 		<title lang="zh">新方世玉前传侠者无畏</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250903032800 +0800" stop="20250903043600 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
