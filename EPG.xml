@@ -47586,6 +47586,9 @@
 	<programme channel="newtv超级综艺" start="20250906002000 +0800" stop="20250906010500 +0800">
 		<title lang="zh">23_绽放的许开心</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250906010500 +0800" stop="20250906015100 +0800">
+		<title lang="zh">24_绽放的许开心</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47598,17 +47601,26 @@
 	<programme channel="newtv超级电影" start="20250906003600 +0800" stop="20250906004900 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250906004900 +0800" stop="20250906022100 +0800">
+		<title lang="zh">即日启程</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250906001200 +0800" stop="20250906005700 +0800">
 		<title lang="zh">24_大潮如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250906005700 +0800" stop="20250906014200 +0800">
+		<title lang="zh">25_大潮如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20250906001300 +0800" stop="20250906005700 +0800">
 		<title lang="zh">22_警犬来啦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250906005700 +0800" stop="20250906021200 +0800">
+		<title lang="zh">23_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47697,47 +47709,17 @@
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
-	<programme channel="newtv潮妈辣婆" start="20250906000000 +0800" stop="20250906020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906020000 +0800" stop="20250906040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906060000 +0800" stop="20250906080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906080000 +0800" stop="20250906100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906100600 +0800" stop="20250906120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906120000 +0800" stop="20250906140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906140000 +0800" stop="20250906160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906160000 +0800" stop="20250906180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906180000 +0800" stop="20250906190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906190000 +0800" stop="20250906200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906200000 +0800" stop="20250906220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv潮妈辣婆" start="20250906220000 +0800" stop="20250906235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv潮妈辣婆" start="20250906005400 +0800" stop="20250906021900 +0800">
+		<title lang="zh">39_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20250906000100 +0800" stop="20250906005400 +0800">
 		<title lang="zh">烽火年代忆青春 《谁是终极英雄》走进辽宁朝阳（20240901）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250906005400 +0800" stop="20250906014600 +0800">
+		<title lang="zh">西藏高原的钢铁运输线《谁是终极英雄》走进西藏军区某汽车运输旅（20240908）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47756,6 +47738,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250906002000 +0800" stop="20250906005000 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250906005000 +0800" stop="20250906015800 +0800">
+		<title lang="zh">毒战生死线</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
