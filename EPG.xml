@@ -47424,6 +47424,9 @@
 	<programme channel="黑莓动画" start="20250906011200 +0800" stop="20250906024000 +0800">
 		<title lang="zh">星际大逃亡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250906024000 +0800" stop="20250906035800 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47739,6 +47742,9 @@
 	<programme channel="newtv超级电影" start="20250906004900 +0800" stop="20250906022100 +0800">
 		<title lang="zh">即日启程</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250906022100 +0800" stop="20250906034700 +0800">
+		<title lang="zh">一乡之长</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47750,6 +47756,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250906014200 +0800" stop="20250906022700 +0800">
 		<title lang="zh">26_大潮如歌</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250906022700 +0800" stop="20250906031200 +0800">
+		<title lang="zh">27_大潮如歌</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47799,6 +47808,9 @@
 	<programme channel="newtv家庭剧场" start="20250906012000 +0800" stop="20250906023300 +0800">
 		<title lang="zh">28_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250906023300 +0800" stop="20250906031900 +0800">
+		<title lang="zh">29_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -47832,11 +47844,17 @@
 	<programme channel="newtv怡伴健康" start="20250906012300 +0800" stop="20250906023900 +0800">
 		<title lang="zh">42_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250906023900 +0800" stop="20250906032700 +0800">
+		<title lang="zh">狂野搏击</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20250906005400 +0800" stop="20250906021900 +0800">
 		<title lang="zh">39_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250906021900 +0800" stop="20250906030500 +0800">
+		<title lang="zh">40_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47849,6 +47867,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250906014600 +0800" stop="20250906023800 +0800">
 		<title lang="zh">为新中国而战《谁是终极英雄》走进英雄城四平（20240915）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250906023800 +0800" stop="20250906033100 +0800">
+		<title lang="zh">讲好红色故事《谁是终极英雄》走进湖南省军区（20240922）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47864,6 +47885,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250906002200 +0800" stop="20250906022800 +0800">
 		<title lang="zh">边境威龙</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250906022800 +0800" stop="20250906043300 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
