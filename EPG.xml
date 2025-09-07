@@ -70621,6 +70621,9 @@
 	<programme channel="超级电影" start="20250907210200 +0800" stop="20250907225500 +0800">
 		<title lang="zh">电影《无人区》</title>
 	</programme>
+	<programme channel="超级电影" start="20250907225500 +0800" stop="20250907002600 +0800">
+		<title lang="zh">电影《独立日大电影》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82765,6 +82768,9 @@
 	<programme channel="newtv超级综艺" start="20250907212800 +0800" stop="20250907225200 +0800">
 		<title lang="zh">向幸福出发</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250907225200 +0800" stop="20250907233700 +0800">
+		<title lang="zh">29_绽放的许开心</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82870,6 +82876,9 @@
 	<programme channel="newtv超级电影" start="20250907210200 +0800" stop="20250907225500 +0800">
 		<title lang="zh">电影《无人区》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250907225500 +0800" stop="20250907002600 +0800">
+		<title lang="zh">电影《独立日大电影》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82962,6 +82971,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250907221200 +0800" stop="20250907225800 +0800">
 		<title lang="zh">09_功勋</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250907225800 +0800" stop="20250907234200 +0800">
+		<title lang="zh">10_功勋</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
