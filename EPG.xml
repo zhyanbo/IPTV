@@ -46575,6 +46575,9 @@
 	<programme channel="黑莓电影" start="20250909010400 +0800" stop="20250909024800 +0800">
 		<title lang="zh">深海越狱</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250909024800 +0800" stop="20250909040900 +0800">
+		<title lang="zh">入魂：津门玄案</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -46917,6 +46920,9 @@
 	<programme channel="newtv精品纪录" start="20250909014100 +0800" stop="20250909030000 +0800">
 		<title lang="zh">01_智造浪潮</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250909030000 +0800" stop="20250909041900 +0800">
+		<title lang="zh">02_慧眼识真</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -46934,6 +46940,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250909012500 +0800" stop="20250909025000 +0800">
 		<title lang="zh">08_小站风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250909025000 +0800" stop="20250909041500 +0800">
+		<title lang="zh">09_小站风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -46961,6 +46970,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250909003500 +0800" stop="20250909024700 +0800">
 		<title lang="zh">奇鞋妙旅</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250909024700 +0800" stop="20250909041100 +0800">
+		<title lang="zh">48_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -47018,6 +47030,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250909012900 +0800" stop="20250909030000 +0800">
 		<title lang="zh">经典咏流传b7正青春（20230528）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250909030000 +0800" stop="20250909032100 +0800">
+		<title lang="zh">民族健身舞《纳林湖等你》（20230403）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
