@@ -68139,6 +68139,9 @@
 	<programme channel="超级电影" start="20250915175500 +0800" stop="20250915190300 +0800">
 		<title lang="zh">电影《机械玩家》</title>
 	</programme>
+	<programme channel="超级电影" start="20250915190300 +0800" stop="20250915204400 +0800">
+		<title lang="zh">电影《画江湖之天罡》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79455,6 +79458,9 @@
 	<programme channel="newtv超级电影" start="20250915175500 +0800" stop="20250915190300 +0800">
 		<title lang="zh">电影《机械玩家》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250915190300 +0800" stop="20250915204400 +0800">
+		<title lang="zh">电影《画江湖之天罡》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79532,6 +79538,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250915181500 +0800" stop="20250915190200 +0800">
 		<title lang="zh">37_安家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250915190200 +0800" stop="20250915194700 +0800">
+		<title lang="zh">38_安家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79725,6 +79734,9 @@
 	<programme channel="newtv精品纪录" start="20250915183400 +0800" stop="20250915184900 +0800">
 		<title lang="zh">04_壁画焕颜技</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250915184900 +0800" stop="20250915190400 +0800">
+		<title lang="zh">05_以简御繁技</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79808,6 +79820,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250915181900 +0800" stop="20250915184900 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250915184900 +0800" stop="20250915193600 +0800">
+		<title lang="zh">08_折腰</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -80382,6 +80397,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250915182500 +0800" stop="20250915185500 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250915185500 +0800" stop="20250915193600 +0800">
+		<title lang="zh">16_双刺</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80912,6 +80930,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250915181000 +0800" stop="20250915185600 +0800">
 		<title lang="zh">27_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250915185600 +0800" stop="20250915192600 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
