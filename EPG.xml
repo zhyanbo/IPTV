@@ -50934,6 +50934,9 @@
 	<programme channel="newtv超级电影" start="20250918013000 +0800" stop="20250918030300 +0800">
 		<title lang="zh">红石敖包</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250918030300 +0800" stop="20250918055200 +0800">
+		<title lang="zh">小小飞虎队</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50948,6 +50951,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250918021000 +0800" stop="20250918025400 +0800">
 		<title lang="zh">01_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250918025400 +0800" stop="20250918033900 +0800">
+		<title lang="zh">02_大漠苍狼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51027,6 +51033,9 @@
 	<programme channel="newtv家庭剧场" start="20250918021100 +0800" stop="20250918025700 +0800">
 		<title lang="zh">04_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250918025700 +0800" stop="20250918034300 +0800">
+		<title lang="zh">05_大都市小爱情</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51090,6 +51099,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250918021600 +0800" stop="20250918030100 +0800">
 		<title lang="zh">我姥爷1945之绝命枪第37集</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250918030100 +0800" stop="20250918033900 +0800">
+		<title lang="zh">趣说生肖药（1）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51101,6 +51113,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250918015500 +0800" stop="20250918024700 +0800">
 		<title lang="zh">铁甲劲旅 王杰传人 陆军第71集团军某合成旅</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250918024700 +0800" stop="20250918033900 +0800">
+		<title lang="zh">学雷锋精神 当服务标兵——走进雷锋生前部队</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
