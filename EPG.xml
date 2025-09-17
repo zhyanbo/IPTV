@@ -51042,6 +51042,9 @@
 	<programme channel="newtv超级综艺" start="20250918024300 +0800" stop="20250918044700 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250918044700 +0800" stop="20250918050700 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51144,6 +51147,9 @@
 	<programme channel="newtv精品纪录" start="20250918041000 +0800" stop="20250918045500 +0800">
 		<title lang="zh">03_民生之基</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250918045500 +0800" stop="20250918051000 +0800">
+		<title lang="zh">01_布云朝克特 网球运动员</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -51165,6 +51171,9 @@
 	<programme channel="newtv古装剧场" start="20250918040800 +0800" stop="20250918045400 +0800">
 		<title lang="zh">13_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250918045400 +0800" stop="20250918054100 +0800">
+		<title lang="zh">14_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51185,6 +51194,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250918040600 +0800" stop="20250918045200 +0800">
 		<title lang="zh">05_大汉口</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250918045200 +0800" stop="20250918053700 +0800">
+		<title lang="zh">06_大汉口</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51330,6 +51342,9 @@
 	<programme channel="newtv军事评论" start="20250918043100 +0800" stop="20250918045000 +0800">
 		<title lang="zh">百炼成钢 中国共产党的100年 踏上征程/遵义会议/大会师</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250918045000 +0800" stop="20250918051000 +0800">
+		<title lang="zh">百炼成钢 中国共产党的100年 浴血坚持/西安事变/论持久战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51392,6 +51407,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250918031300 +0800" stop="20250918045600 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250918045600 +0800" stop="20250918062900 +0800">
+		<title lang="zh">三餐四季 第二季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
