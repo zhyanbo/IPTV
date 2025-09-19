@@ -52104,6 +52104,9 @@
 	<programme channel="newtv超级综艺" start="20250920035400 +0800" stop="20250920050700 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250920050700 +0800" stop="20250920063800 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52152,6 +52155,9 @@
 	<programme channel="newtv超级电视剧" start="20250920041100 +0800" stop="20250920045600 +0800">
 		<title lang="zh">21_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250920045600 +0800" stop="20250920054100 +0800">
+		<title lang="zh">22_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52196,6 +52202,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250920040800 +0800" stop="20250920045800 +0800">
 		<title lang="zh">04_绿 生态</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250920045800 +0800" stop="20250920052800 +0800">
+		<title lang="zh">05_粮安天下</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52281,6 +52290,9 @@
 	<programme channel="newtv热播精选" start="20250920040000 +0800" stop="20250920044600 +0800">
 		<title lang="zh">13_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250920044600 +0800" stop="20250920053100 +0800">
+		<title lang="zh">14_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52314,6 +52326,9 @@
 	<programme channel="newtv动作电影" start="20250920032300 +0800" stop="20250920044600 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250920044600 +0800" stop="20250920060800 +0800">
+		<title lang="zh">机器人战警</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52334,6 +52349,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250920040400 +0800" stop="20250920045000 +0800">
 		<title lang="zh">02_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250920045000 +0800" stop="20250920053500 +0800">
+		<title lang="zh">03_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52380,6 +52398,9 @@
 	<programme channel="newtv军事评论" start="20250920043100 +0800" stop="20250920045700 +0800">
 		<title lang="zh">守护生命</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250920045700 +0800" stop="20250920052400 +0800">
+		<title lang="zh">穿越打击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52419,6 +52440,9 @@
 	<programme channel="newtv精品综合" start="20250920041400 +0800" stop="20250920050000 +0800">
 		<title lang="zh">01_一代枭雄</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250920050000 +0800" stop="20250920055500 +0800">
+		<title lang="zh">02_一代枭雄</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52442,6 +52466,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250920032300 +0800" stop="20250920050300 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250920050300 +0800" stop="20250920063300 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52508,6 +52535,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250920033900 +0800" stop="20250920044700 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250920044700 +0800" stop="20250920052400 +0800">
+		<title lang="zh">拳王争霸赛：托尼-哈里森VS蒂姆-茨尤</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
