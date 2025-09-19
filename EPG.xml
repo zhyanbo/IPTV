@@ -51666,11 +51666,17 @@
 	<programme channel="黑莓动画" start="20250920012400 +0800" stop="20250920022800 +0800">
 		<title lang="zh">11_画江湖之不良人第七季：九幽玄天</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250920022800 +0800" stop="20250920062800 +0800">
+		<title lang="zh">01_樱桃小丸子 第二季普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250920010900 +0800" stop="20250920023300 +0800">
 		<title lang="zh">法医秦明之致命小说</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250920023300 +0800" stop="20250920035700 +0800">
+		<title lang="zh">雨曾下过</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -51966,6 +51972,9 @@
 	<programme channel="newtv超级体育" start="20250920003000 +0800" stop="20250920023100 +0800">
 		<title lang="zh">实况录像-2025年美国网球公开赛 男单半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250920023100 +0800" stop="20250920040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51989,6 +51998,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250920015400 +0800" stop="20250920024000 +0800">
 		<title lang="zh">10_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250920024000 +0800" stop="20250920032500 +0800">
+		<title lang="zh">11_大漠苍狼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52016,6 +52028,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250920013900 +0800" stop="20250920022900 +0800">
 		<title lang="zh">01_家 世界</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250920022900 +0800" stop="20250920031800 +0800">
+		<title lang="zh">02_医 健康</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52065,6 +52080,9 @@
 	<programme channel="newtv热播精选" start="20250920010000 +0800" stop="20250920022900 +0800">
 		<title lang="zh">战狼</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250920022900 +0800" stop="20250920031500 +0800">
+		<title lang="zh">11_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52098,6 +52116,9 @@
 	<programme channel="newtv怡伴健康" start="20250920014500 +0800" stop="20250920022900 +0800">
 		<title lang="zh">20_燕云台</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250920022900 +0800" stop="20250920031600 +0800">
+		<title lang="zh">天生狂野（4）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52110,6 +52131,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250920014500 +0800" stop="20250920022800 +0800">
 		<title lang="zh">04_北国英雄</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250920022800 +0800" stop="20250920031100 +0800">
+		<title lang="zh">05_北国英雄</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52121,6 +52145,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250920015100 +0800" stop="20250920024500 +0800">
 		<title lang="zh">春节特别节目“老兵的和美乡村年”（三）多彩的新春家宴</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250920024500 +0800" stop="20250920033700 +0800">
+		<title lang="zh">出发 向着南极的方向 中国首个南极科考站长城站建成40周年特别节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
