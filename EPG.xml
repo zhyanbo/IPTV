@@ -47370,47 +47370,17 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20250921000000 +0800" stop="20250921020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921020000 +0800" stop="20250921040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921060000 +0800" stop="20250921080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921080000 +0800" stop="20250921100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921100600 +0800" stop="20250921120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921120000 +0800" stop="20250921140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921140000 +0800" stop="20250921160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921160000 +0800" stop="20250921180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921180000 +0800" stop="20250921190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921190000 +0800" stop="20250921200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921200000 +0800" stop="20250921220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250921220000 +0800" stop="20250921235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20250921010700 +0800" stop="20250921024600 +0800">
+		<title lang="zh">天福山起义</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20250921001600 +0800" stop="20250921010100 +0800">
 		<title lang="zh">13_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250921010100 +0800" stop="20250921014700 +0800">
+		<title lang="zh">14_大漠苍狼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47426,6 +47396,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20250921001800 +0800" stop="20250921005800 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250921005800 +0800" stop="20250921014800 +0800">
+		<title lang="zh">05_深 赋能</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47454,6 +47427,9 @@
 	<programme channel="newtv热播精选" start="20250921001000 +0800" stop="20250921005000 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250921005000 +0800" stop="20250921021700 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47468,6 +47444,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250921003400 +0800" stop="20250921005400 +0800">
 		<title lang="zh">睡眠专题分享</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250921005400 +0800" stop="20250921022400 +0800">
+		<title lang="zh">斗战苍穹</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47501,6 +47480,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250921001100 +0800" stop="20250921005100 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250921005100 +0800" stop="20250921021800 +0800">
+		<title lang="zh">晨星</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -47597,6 +47579,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250921001600 +0800" stop="20250921005600 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250921005600 +0800" stop="20250921020700 +0800">
+		<title lang="zh">六扇门之血手奇谭</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
