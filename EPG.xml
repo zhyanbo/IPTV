@@ -73218,6 +73218,9 @@
 	<programme channel="超级电影" start="20250923211500 +0800" stop="20250923223800 +0800">
 		<title lang="zh">电影《独孤天下之异瞳》</title>
 	</programme>
+	<programme channel="超级电影" start="20250923223800 +0800" stop="20250923000800 +0800">
+		<title lang="zh">电影《鲨卷风2》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85719,6 +85722,9 @@
 	<programme channel="newtv超级电影" start="20250923211500 +0800" stop="20250923223800 +0800">
 		<title lang="zh">电影《独孤天下之异瞳》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250923223800 +0800" stop="20250923000800 +0800">
+		<title lang="zh">电影《鲨卷风2》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85814,6 +85820,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250923215100 +0800" stop="20250923223600 +0800">
 		<title lang="zh">10_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250923223600 +0800" stop="20250923232100 +0800">
+		<title lang="zh">11_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
