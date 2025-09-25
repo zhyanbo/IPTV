@@ -52461,6 +52461,9 @@
 	<programme channel="newtv超级电视剧" start="20250926041200 +0800" stop="20250926045500 +0800">
 		<title lang="zh">03_巾帼枭雄之悬崖</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250926045500 +0800" stop="20250926053900 +0800">
+		<title lang="zh">04_巾帼枭雄之悬崖</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52481,6 +52484,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250926041200 +0800" stop="20250926050000 +0800">
 		<title lang="zh">15_永安梦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250926050000 +0800" stop="20250926054700 +0800">
+		<title lang="zh">16_永安梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52521,6 +52527,9 @@
 	<programme channel="newtv精品纪录" start="20250926042600 +0800" stop="20250926050100 +0800">
 		<title lang="zh">05_鼎新未来</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250926050100 +0800" stop="20250926061800 +0800">
+		<title lang="zh">儿童村里的母亲节</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52544,6 +52553,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250926041400 +0800" stop="20250926050000 +0800">
 		<title lang="zh">38_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250926050000 +0800" stop="20250926054400 +0800">
+		<title lang="zh">39_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52698,6 +52710,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250926041100 +0800" stop="20250926045000 +0800">
 		<title lang="zh">05_初婚</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250926045000 +0800" stop="20250926052900 +0800">
+		<title lang="zh">06_初婚</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52736,6 +52751,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250926042000 +0800" stop="20250926045100 +0800">
 		<title lang="zh">第1集：天涯b7四海为家</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250926045100 +0800" stop="20250926060800 +0800">
+		<title lang="zh">平凡人在各自平凡岗位上的贡献（20250811）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52787,6 +52805,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250926031000 +0800" stop="20250926045200 +0800">
 		<title lang="zh">2024-25赛季英超联赛第17轮：西汉姆联VS布赖顿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250926045200 +0800" stop="20250926061200 +0800">
+		<title lang="zh">2024-25赛季英超联赛第17轮：曼联VS伯恩茅斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -52844,6 +52865,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250926042100 +0800" stop="20250926045700 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250926045700 +0800" stop="20250926052500 +0800">
+		<title lang="zh">女子拳王争霸赛：蒂娜b7鲁普雷希特VS松田惠里</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
