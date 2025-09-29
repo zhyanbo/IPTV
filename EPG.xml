@@ -69117,6 +69117,9 @@
 	<programme channel="超级电影" start="20250929213300 +0800" stop="20250929230200 +0800">
 		<title lang="zh">电影《天下无敌》</title>
 	</programme>
+	<programme channel="超级电影" start="20250929230200 +0800" stop="20250929003000 +0800">
+		<title lang="zh">电影《夺命三头鲨》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -80592,6 +80595,9 @@
 	<programme channel="newtv超级综艺" start="20250929221900 +0800" stop="20250929230000 +0800">
 		<title lang="zh">动物园里有什么</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250929230000 +0800" stop="20250929234400 +0800">
+		<title lang="zh">16_大武当</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80646,6 +80652,9 @@
 	<programme channel="newtv超级体育" start="20250929220000 +0800" stop="20250929230000 +0800">
 		<title lang="zh">天下足球</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250929230000 +0800" stop="20250929003000 +0800">
+		<title lang="zh">实况录像-2025年世界男排锦标赛 三四名决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -80690,6 +80699,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250929213300 +0800" stop="20250929230200 +0800">
 		<title lang="zh">电影《天下无敌》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250929230200 +0800" stop="20250929003000 +0800">
+		<title lang="zh">电影《夺命三头鲨》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
