@@ -40533,6 +40533,9 @@
 	<programme channel="惊悚悬疑" start="20250930214800 +0800" stop="20250930231100 +0800">
 		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250930231100 +0800" stop="20250930234100 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -73527,6 +73530,9 @@
 	<programme channel="超级电影" start="20250930210800 +0800" stop="20250930230600 +0800">
 		<title lang="zh">电影《侠探杰克：永不回头》</title>
 	</programme>
+	<programme channel="超级电影" start="20250930230600 +0800" stop="20250930003200 +0800">
+		<title lang="zh">电影《超能力》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -86157,6 +86163,9 @@
 	<programme channel="newtv超级综艺" start="20250930213800 +0800" stop="20250930230000 +0800">
 		<title lang="zh">中国乡村音乐大会-一乐千年篇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250930230000 +0800" stop="20250930234400 +0800">
+		<title lang="zh">20_大武当</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86214,6 +86223,9 @@
 	<programme channel="newtv超级体育" start="20250930213000 +0800" stop="20250930230500 +0800">
 		<title lang="zh">2025年中国网球公开赛-女单第4轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250930230500 +0800" stop="20250930003500 +0800">
+		<title lang="zh">实况录像-2025年世界男排锦标赛 决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86261,6 +86273,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250930210800 +0800" stop="20250930230600 +0800">
 		<title lang="zh">电影《侠探杰克：永不回头》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250930230600 +0800" stop="20250930003200 +0800">
+		<title lang="zh">电影《超能力》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -86466,6 +86481,9 @@
 	<programme channel="newtv精品大剧" start="20250930222100 +0800" stop="20250930225100 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250930225100 +0800" stop="20250930233600 +0800">
+		<title lang="zh">21_我们队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86601,6 +86619,12 @@
 	<programme channel="newtv精品纪录" start="20250930222100 +0800" stop="20250930225100 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250930225100 +0800" stop="20250930230300 +0800">
+		<title lang="zh">第6集：云南曼旦村 柠檬和傣历新年</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250930230300 +0800" stop="20250930231800 +0800">
+		<title lang="zh">05_赤水金沙</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86706,6 +86730,9 @@
 	<programme channel="newtv古装剧场" start="20250930222600 +0800" stop="20250930225600 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250930225600 +0800" stop="20250930233200 +0800">
+		<title lang="zh">01_锦月如歌</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -86805,6 +86832,9 @@
 	<programme channel="newtv军旅剧场" start="20250930220600 +0800" stop="20250930225100 +0800">
 		<title lang="zh">11_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250930225100 +0800" stop="20250930232100 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86903,6 +86933,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250930222100 +0800" stop="20250930225100 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250930225100 +0800" stop="20250930233700 +0800">
+		<title lang="zh">32_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87285,6 +87318,9 @@
 	<programme channel="newtv怡伴健康" start="20250930222400 +0800" stop="20250930225400 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250930225400 +0800" stop="20250930233600 +0800">
+		<title lang="zh">福建梦幻vs山东好哥哥-第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87383,6 +87419,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250930223500 +0800" stop="20250930230500 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250930230500 +0800" stop="20250930231900 +0800">
+		<title lang="zh">第14集：大碗谷物，包够吃的（下）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87533,6 +87572,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250930222800 +0800" stop="20250930225400 +0800">
 		<title lang="zh">特朗普三板斧 赖清德招架不住</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250930225400 +0800" stop="20250930231900 +0800">
+		<title lang="zh">特朗普玩变脸 岛内认清三件事</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -87792,6 +87834,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250930214800 +0800" stop="20250930231100 +0800">
 		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250930231100 +0800" stop="20250930234100 +0800">
+		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -87853,6 +87898,12 @@
 		<title lang="zh">《花样人生》推荐第63期</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250930214000 +0800" stop="20250930224800 +0800">
+		<title lang="zh">非日常恋爱</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250930224800 +0800" stop="20250930231800 +0800">
+		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250930231800 +0800" stop="20250930234900 +0800">
 		<title lang="zh">非日常恋爱</title>
 	</programme>
 	<channel id="newtv精品体育">
@@ -88031,6 +88082,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250930223800 +0800" stop="20250930230800 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250930230800 +0800" stop="20250930003400 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
