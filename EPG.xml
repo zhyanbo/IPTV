@@ -52506,6 +52506,9 @@
 	<programme channel="newtv精品纪录" start="20251001041700 +0800" stop="20251001050000 +0800">
 		<title lang="zh">01_机械故障</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251001050000 +0800" stop="20251001054300 +0800">
+		<title lang="zh">02_人为差错</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52575,6 +52578,9 @@
 	<programme channel="newtv家庭剧场" start="20251001041200 +0800" stop="20251001045600 +0800">
 		<title lang="zh">18_沃野飘香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251001045600 +0800" stop="20251001054100 +0800">
+		<title lang="zh">19_沃野飘香</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52613,6 +52619,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251001040600 +0800" stop="20251001045100 +0800">
 		<title lang="zh">34_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251001045100 +0800" stop="20251001053600 +0800">
+		<title lang="zh">35_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52680,6 +52689,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251001041100 +0800" stop="20251001045000 +0800">
 		<title lang="zh">25_初婚</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251001045000 +0800" stop="20251001052800 +0800">
+		<title lang="zh">26_初婚</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52716,6 +52728,9 @@
 	<programme channel="newtv炫舞未来" start="20251001033300 +0800" stop="20251001045000 +0800">
 		<title lang="zh">星光“肇”进未来（20250927）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251001045000 +0800" stop="20251001051100 +0800">
+		<title lang="zh">古典舞风格《月下待杜鹃不来》（20231219）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52742,6 +52757,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251001032600 +0800" stop="20251001045100 +0800">
 		<title lang="zh">南宋诡事之鬼樊楼</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251001045100 +0800" stop="20251001062600 +0800">
+		<title lang="zh">男狐聊斋3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
