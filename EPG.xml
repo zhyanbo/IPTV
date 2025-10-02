@@ -42447,6 +42447,9 @@
 	<programme channel="纯享4K" start="20251003042000 +0800" stop="20251003050100 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（5） 中运河风情</title>
 	</programme>
+	<programme channel="纯享4K" start="20251003050100 +0800" stop="20251003050600 +0800">
+		<title lang="zh">美丽中国自然4K 紫荆白莲系列 香港瘰螈</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53022,6 +53025,9 @@
 	<programme channel="newtv古装剧场" start="20251003040300 +0800" stop="20251003045000 +0800">
 		<title lang="zh">04_国子监来了个女弟子</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251003045000 +0800" stop="20251003053500 +0800">
+		<title lang="zh">05_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -53109,6 +53115,9 @@
 	<programme channel="newtv爱情喜剧" start="20251003041300 +0800" stop="20251003045800 +0800">
 		<title lang="zh">45_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251003045800 +0800" stop="20251003054400 +0800">
+		<title lang="zh">46_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -53172,6 +53181,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251003041500 +0800" stop="20251003045400 +0800">
 		<title lang="zh">33_初婚</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251003045400 +0800" stop="20251003053300 +0800">
+		<title lang="zh">34_初婚</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -53225,6 +53237,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251003041300 +0800" stop="20251003045800 +0800">
 		<title lang="zh">38_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251003045800 +0800" stop="20251003054300 +0800">
+		<title lang="zh">39_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
