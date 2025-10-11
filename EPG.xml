@@ -27723,6 +27723,9 @@
 	<programme channel="咪咕综合体育" start="20251011130000 +0800" stop="20251011144000 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第5轮 马赛-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251011144000 +0800" stop="20251011150000 +0800">
+		<title lang="zh">中超精华 第26轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44036,6 +44039,12 @@
 	</programme>
 	<programme channel="明星大片" start="20251011140900 +0800" stop="20251011142400 +0800">
 		<title lang="zh">08_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="明星大片" start="20251011142400 +0800" stop="20251011143900 +0800">
+		<title lang="zh">09_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="明星大片" start="20251011143900 +0800" stop="20251011151900 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -85770,6 +85779,9 @@
 	<programme channel="newtv超级体育" start="20251011132800 +0800" stop="20251011143000 +0800">
 		<title lang="zh">实况录像-2025年世界皮划艇激流回旋锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251011143000 +0800" stop="20251011160000 +0800">
+		<title lang="zh">实况录像-2025年世界田径锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85863,6 +85875,9 @@
 	<programme channel="newtv超级电视剧" start="20251011134400 +0800" stop="20251011142500 +0800">
 		<title lang="zh">05_闪耀的她</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251011142500 +0800" stop="20251011150300 +0800">
+		<title lang="zh">06_闪耀的她</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85925,6 +85940,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251011134200 +0800" stop="20251011142200 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251011142200 +0800" stop="20251011150700 +0800">
+		<title lang="zh">07_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86009,6 +86027,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251011133700 +0800" stop="20251011141700 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251011141700 +0800" stop="20251011150700 +0800">
+		<title lang="zh">01_斑头雁归来的季节</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86136,6 +86157,9 @@
 	<programme channel="newtv军旅剧场" start="20251011135100 +0800" stop="20251011143700 +0800">
 		<title lang="zh">30_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251011143700 +0800" stop="20251011150600 +0800">
+		<title lang="zh">书法视频</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86256,6 +86280,9 @@
 	<programme channel="newtv热播精选" start="20251011134000 +0800" stop="20251011142000 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251011142000 +0800" stop="20251011150500 +0800">
+		<title lang="zh">37_风声</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86357,6 +86384,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251011140100 +0800" stop="20251011144100 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251011144100 +0800" stop="20251011155500 +0800">
+		<title lang="zh">维和女警：暴力安全区</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86586,6 +86616,9 @@
 	<programme channel="newtv军事评论" start="20251011140300 +0800" stop="20251011142500 +0800">
 		<title lang="zh">俄乌双方发动大规模无人机互袭</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251011142500 +0800" stop="20251011144700 +0800">
+		<title lang="zh">俄乌冲突下的核阴影</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86702,6 +86735,12 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251011140900 +0800" stop="20251011142400 +0800">
 		<title lang="zh">08_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251011142400 +0800" stop="20251011143900 +0800">
+		<title lang="zh">09_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251011143900 +0800" stop="20251011151900 +0800">
+		<title lang="zh">黑芝麻丸</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -86823,6 +86862,9 @@
 	<programme channel="newtv精品体育" start="20251011131400 +0800" stop="20251011142200 +0800">
 		<title lang="zh">2025WTT欧洲大满贯男单决赛：林诗栋VS莫雷加德</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20251011142200 +0800" stop="20251011163200 +0800">
+		<title lang="zh">CBA季后赛4月13日：辽宁VS新疆</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -86918,6 +86960,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251011135900 +0800" stop="20251011142800 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251011142800 +0800" stop="20251011151700 +0800">
+		<title lang="zh">24_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
