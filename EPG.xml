@@ -27744,6 +27744,9 @@
 	<programme channel="咪咕综合体育" start="20251011163000 +0800" stop="20251011165500 +0800">
 		<title lang="zh">中超精华 第26轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251011170000 +0800" stop="20251011180000 +0800">
+		<title lang="zh">国球荣耀-2025WTT中国大满贯 每日精彩回顾6</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -73458,6 +73461,9 @@
 	<programme channel="超级电影" start="20251011151700 +0800" stop="20251011165300 +0800">
 		<title lang="zh">电影《移城别恋》</title>
 	</programme>
+	<programme channel="超级电影" start="20251011165300 +0800" stop="20251011182000 +0800">
+		<title lang="zh">电影《混世四猴：神猴归来》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85895,6 +85901,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251011151700 +0800" stop="20251011165300 +0800">
 		<title lang="zh">电影《移城别恋》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251011165300 +0800" stop="20251011182000 +0800">
+		<title lang="zh">电影《混世四猴：神猴归来》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
