@@ -41517,6 +41517,9 @@
 	<programme channel="纯享4K" start="20251012003100 +0800" stop="20251012005900 +0800">
 		<title lang="zh">记住乡愁 第八季4K 代村——我家住在公园里</title>
 	</programme>
+	<programme channel="纯享4K" start="20251012005900 +0800" stop="20251012012800 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7盱眙篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51759,6 +51762,12 @@
 	<programme channel="黑莓动画" start="20251012000200 +0800" stop="20251012040200 +0800">
 		<title lang="zh">21_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20251012005600 +0800" stop="20251012022300 +0800">
+		<title lang="zh">绝命狙击</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52038,6 +52047,9 @@
 	<programme channel="newtv超级综艺" start="20251012001100 +0800" stop="20251012005700 +0800">
 		<title lang="zh">15_锦心似玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251012005700 +0800" stop="20251012014200 +0800">
+		<title lang="zh">16_锦心似玉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52116,6 +52128,9 @@
 	<programme channel="newtv怡伴健康" start="20251012001300 +0800" stop="20251012005300 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251012005300 +0800" stop="20251012013800 +0800">
+		<title lang="zh">15_天下同心</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52142,6 +52157,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20251012000600 +0800" stop="20251012004600 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251012004600 +0800" stop="20251012023200 +0800">
+		<title lang="zh">非法制裁</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52238,6 +52256,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20251012002300 +0800" stop="20251012005200 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251012005200 +0800" stop="20251012021300 +0800">
+		<title lang="zh">魁拔之幽弥狂</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
