@@ -16758,6 +16758,9 @@
 	<programme channel="咪咕综合体育" start="20251015000000 +0800" stop="20251015005000 +0800">
 		<title lang="zh">网球世界-2025美国网球公开赛 男单决赛 辛纳-阿尔卡拉斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251015010000 +0800" stop="20251015020000 +0800">
+		<title lang="zh">纪录片AC米兰的缔造者</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52320,41 +52323,8 @@
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20251015000000 +0800" stop="20251015020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015020000 +0800" stop="20251015040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015060000 +0800" stop="20251015080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015080000 +0800" stop="20251015100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015100600 +0800" stop="20251015120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015120000 +0800" stop="20251015140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015140000 +0800" stop="20251015160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015160000 +0800" stop="20251015180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015180000 +0800" stop="20251015190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015190000 +0800" stop="20251015200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015200000 +0800" stop="20251015220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20251015220000 +0800" stop="20251015235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20251015005000 +0800" stop="20251015015000 +0800">
+		<title lang="zh">顶级赛事-围棋</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52367,6 +52337,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20251015000300 +0800" stop="20251015004700 +0800">
 		<title lang="zh">26_黑白森林</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251015004700 +0800" stop="20251015013000 +0800">
+		<title lang="zh">27_黑白森林</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52425,6 +52398,9 @@
 	<programme channel="newtv动作电影" start="20251015001500 +0800" stop="20251015005500 +0800">
 		<title lang="zh">太空骨王骨胶原新版</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251015005500 +0800" stop="20251015020800 +0800">
+		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52440,11 +52416,17 @@
 	<programme channel="newtv潮妈辣婆" start="20251015000500 +0800" stop="20251015004800 +0800">
 		<title lang="zh">09_狐影</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251015004800 +0800" stop="20251015013200 +0800">
+		<title lang="zh">10_狐影</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
 	<programme channel="newtv军事评论" start="20251015000600 +0800" stop="20251015005900 +0800">
 		<title lang="zh">王振宇：蓝天下的“电力哨兵”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251015005900 +0800" stop="20251015015100 +0800">
+		<title lang="zh">“生命禁区”的天路 永不褪色的铁道英雄传（上）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52472,6 +52454,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20251015001600 +0800" stop="20251015005500 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251015005500 +0800" stop="20251015032900 +0800">
+		<title lang="zh">开门大吉（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52556,6 +52541,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20251015002000 +0800" stop="20251015004900 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251015004900 +0800" stop="20251015020400 +0800">
+		<title lang="zh">六扇门之嫣州八艳</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
