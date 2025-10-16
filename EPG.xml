@@ -52146,6 +52146,9 @@
 	<programme channel="newtv超级体育" start="20251017000500 +0800" stop="20251017023600 +0800">
 		<title lang="zh">实况录像-2025/2026赛季斯诺克武汉公开赛 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251017023600 +0800" stop="20251017040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52182,6 +52185,9 @@
 	<programme channel="newtv精品大剧" start="20251017013900 +0800" stop="20251017022300 +0800">
 		<title lang="zh">31_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251017022300 +0800" stop="20251017030500 +0800">
+		<title lang="zh">32_岁岁青莲</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52199,6 +52205,12 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251017020400 +0800" stop="20251017021900 +0800">
 		<title lang="zh">03_如火如歌</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251017021900 +0800" stop="20251017023300 +0800">
+		<title lang="zh">04_智教序章</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251017023300 +0800" stop="20251017024800 +0800">
+		<title lang="zh">05_解码之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52239,6 +52251,9 @@
 	<programme channel="newtv家庭剧场" start="20251017015000 +0800" stop="20251017023600 +0800">
 		<title lang="zh">31_我的后半生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251017023600 +0800" stop="20251017032100 +0800">
+		<title lang="zh">32_我的后半生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52247,6 +52262,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251017004200 +0800" stop="20251017022500 +0800">
 		<title lang="zh">终极胜利</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251017022500 +0800" stop="20251017031000 +0800">
+		<title lang="zh">24_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52284,6 +52302,9 @@
 	<programme channel="newtv怡伴健康" start="20251017014500 +0800" stop="20251017023000 +0800">
 		<title lang="zh">05_香水佳人</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251017023000 +0800" stop="20251017031800 +0800">
+		<title lang="zh">欢乐时光（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52295,6 +52316,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251017013900 +0800" stop="20251017022300 +0800">
 		<title lang="zh">19_狐影</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251017022300 +0800" stop="20251017030600 +0800">
+		<title lang="zh">20_狐影</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -52326,11 +52350,17 @@
 	<programme channel="newtv精品综合" start="20251017005400 +0800" stop="20251017021800 +0800">
 		<title lang="zh">纵横千里之一发千钧</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251017021800 +0800" stop="20251017034100 +0800">
+		<title lang="zh">脱口秀和Ta的朋友们第2季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20251017002600 +0800" stop="20251017021800 +0800">
 		<title lang="zh">长安伏妖（4K）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251017021800 +0800" stop="20251017041700 +0800">
+		<title lang="zh">幸存者1937</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -52394,6 +52424,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251017004500 +0800" stop="20251017021600 +0800">
 		<title lang="zh">绝世古镇之九宫八卦门</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251017021600 +0800" stop="20251017034800 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
