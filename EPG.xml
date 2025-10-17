@@ -86913,6 +86913,9 @@
 	<programme channel="newtv超级电视剧" start="20251017193200 +0800" stop="20251017200700 +0800">
 		<title lang="zh">05_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251017200700 +0800" stop="20251017204200 +0800">
+		<title lang="zh">06_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86999,6 +87002,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251017194000 +0800" stop="20251017201000 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251017201000 +0800" stop="20251017205500 +0800">
+		<title lang="zh">07_星汉灿烂</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -87402,6 +87408,9 @@
 	<programme channel="newtv家庭剧场" start="20251017193600 +0800" stop="20251017200600 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251017200600 +0800" stop="20251017205200 +0800">
+		<title lang="zh">31_失笑</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87485,6 +87494,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251017192400 +0800" stop="20251017201000 +0800">
 		<title lang="zh">23_藏海花</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251017201000 +0800" stop="20251017205500 +0800">
+		<title lang="zh">24_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
