@@ -52098,6 +52098,9 @@
 	<programme channel="newtv超级体育" start="20251023000500 +0800" stop="20251023010500 +0800">
 		<title lang="zh">实况录像-2025年世界赛艇锦标赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251023010500 +0800" stop="20251023023600 +0800">
+		<title lang="zh">实况录像-2025年世乒联大满贯赛 中国站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52163,6 +52166,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20251023002200 +0800" stop="20251023005100 +0800">
 		<title lang="zh">武夷山康养</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251023005100 +0800" stop="20251023020900 +0800">
+		<title lang="zh">兵临城下-虎贲</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52254,41 +52260,8 @@
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
-	<programme channel="newtv精品体育" start="20251023000000 +0800" stop="20251023020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023020000 +0800" stop="20251023040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023060000 +0800" stop="20251023080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023080000 +0800" stop="20251023100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023100600 +0800" stop="20251023120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023120000 +0800" stop="20251023140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023140000 +0800" stop="20251023160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023160000 +0800" stop="20251023180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023180000 +0800" stop="20251023190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023190000 +0800" stop="20251023200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023200000 +0800" stop="20251023220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv精品体育" start="20251023220000 +0800" stop="20251023235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv精品体育" start="20251023005500 +0800" stop="20251023023000 +0800">
+		<title lang="zh">2025-26赛季英超联赛第5轮：布赖顿VS托特纳姆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
