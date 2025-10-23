@@ -16719,6 +16719,9 @@
 	<programme channel="咪咕足球" start="20251024000100 +0800" stop="20251024012100 +0800">
 		<title lang="zh">村BA</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251024012100 +0800" stop="20251024013000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41337,6 +41340,9 @@
 	<programme channel="纯享4K" start="20251024003300 +0800" stop="20251024010100 +0800">
 		<title lang="zh">记住乡愁 第八季4K 钱冲村——一棵黄金树 铺就黄金路</title>
 	</programme>
+	<programme channel="纯享4K" start="20251024010100 +0800" stop="20251024013100 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7泰州篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51594,6 +51600,12 @@
 	<programme channel="黑莓动画" start="20251024000000 +0800" stop="20251024040100 +0800">
 		<title lang="zh">11_间谍过家家全集中文版</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20251024005900 +0800" stop="20251024024300 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51861,6 +51873,9 @@
 	<programme channel="newtv超级综艺" start="20251024002700 +0800" stop="20251024011400 +0800">
 		<title lang="zh">19_折腰</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251024011400 +0800" stop="20251024020100 +0800">
+		<title lang="zh">20_折腰</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51879,11 +51894,17 @@
 	<programme channel="newtv超级电视剧" start="20251024002300 +0800" stop="20251024010900 +0800">
 		<title lang="zh">43_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251024010900 +0800" stop="20251024015400 +0800">
+		<title lang="zh">44_一代枭雄</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20251024000500 +0800" stop="20251024004800 +0800">
 		<title lang="zh">21_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251024004800 +0800" stop="20251024013200 +0800">
+		<title lang="zh">22_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51930,6 +51951,9 @@
 	<programme channel="newtv动作电影" start="20251024002900 +0800" stop="20251024005800 +0800">
 		<title lang="zh">武夷山康养</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251024005800 +0800" stop="20251024020100 +0800">
+		<title lang="zh">蛇形行动</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -51965,6 +51989,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20251024000900 +0800" stop="20251024005900 +0800">
 		<title lang="zh">滋得洛夫俄罗斯白桦茸小分子精片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251024005900 +0800" stop="20251024023600 +0800">
+		<title lang="zh">津门奇案之元凶</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52010,6 +52037,15 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20251024002200 +0800" stop="20251024010200 +0800">
 		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251024010200 +0800" stop="20251024060900 +0800">
+		<title lang="zh">星光大道（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251024002200 +0800" stop="20251024010200 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251024010200 +0800" stop="20251024060900 +0800">
+		<title lang="zh">星光大道（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
