@@ -15816,6 +15816,9 @@
 	<programme channel="咪咕综合体育" start="20251026024000 +0800" stop="20251026030000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251026030000 +0800" stop="20251026051000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第9轮 布伦特福德-利物浦 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48114,6 +48117,9 @@
 	<programme channel="newtv超级电视剧" start="20251026021600 +0800" stop="20251026030100 +0800">
 		<title lang="zh">12_中国骑兵</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251026030100 +0800" stop="20251026034600 +0800">
+		<title lang="zh">13_中国骑兵</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48125,6 +48131,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251026020800 +0800" stop="20251026025200 +0800">
 		<title lang="zh">30_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251026025200 +0800" stop="20251026033500 +0800">
+		<title lang="zh">31_北国英雄</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48140,6 +48149,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251026021100 +0800" stop="20251026030100 +0800">
 		<title lang="zh">04_大太平洋：饕餮</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251026030100 +0800" stop="20251026035000 +0800">
+		<title lang="zh">05_大太平洋：拍摄花絮</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48171,6 +48183,9 @@
 	<programme channel="newtv军旅剧场" start="20251026021100 +0800" stop="20251026025500 +0800">
 		<title lang="zh">01_狐影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251026025500 +0800" stop="20251026033800 +0800">
+		<title lang="zh">02_狐影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48183,6 +48198,9 @@
 	<programme channel="newtv家庭剧场" start="20251026021000 +0800" stop="20251026025600 +0800">
 		<title lang="zh">31_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251026025600 +0800" stop="20251026034100 +0800">
+		<title lang="zh">32_珠江人家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48194,6 +48212,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251026021400 +0800" stop="20251026025500 +0800">
 		<title lang="zh">01_你是我的荣耀</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251026025500 +0800" stop="20251026032800 +0800">
+		<title lang="zh">02_你是我的荣耀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48234,6 +48255,9 @@
 	<programme channel="newtv怡伴健康" start="20251026020900 +0800" stop="20251026025500 +0800">
 		<title lang="zh">23_香水佳人</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251026025500 +0800" stop="20251026034100 +0800">
+		<title lang="zh">大猫领地（5）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48248,6 +48272,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251026020500 +0800" stop="20251026025000 +0800">
 		<title lang="zh">09_我们队伍向太阳</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251026025000 +0800" stop="20251026033500 +0800">
+		<title lang="zh">10_我们队伍向太阳</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48269,6 +48296,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251026022300 +0800" stop="20251026024900 +0800">
 		<title lang="zh">以色列袭击国际援助船队 美以陷孤立窘境 特朗普抛出所谓中东和平计划</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251026024900 +0800" stop="20251026031400 +0800">
+		<title lang="zh">俄情报显示欧洲军队正向摩尔多瓦集结 多国呼吁落实“两国方案”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
