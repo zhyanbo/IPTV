@@ -51873,6 +51873,9 @@
 	<programme channel="黑莓电影" start="20251029022200 +0800" stop="20251029041900 +0800">
 		<title lang="zh">他和她的故事</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251029041900 +0800" stop="20251029055100 +0800">
+		<title lang="zh">SPEC完结篇：爻之篇</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52215,6 +52218,9 @@
 	<programme channel="newtv超级电视剧" start="20251029035200 +0800" stop="20251029043700 +0800">
 		<title lang="zh">27_亮剑</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251029043700 +0800" stop="20251029052300 +0800">
+		<title lang="zh">28_亮剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52235,6 +52241,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251029035300 +0800" stop="20251029044400 +0800">
 		<title lang="zh">09_雁回时</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251029044400 +0800" stop="20251029053700 +0800">
+		<title lang="zh">10_雁回时</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52269,6 +52278,12 @@
 	<programme channel="newtv精品纪录" start="20251029035700 +0800" stop="20251029042200 +0800">
 		<title lang="zh">第13集：柳暗花明</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251029042200 +0800" stop="20251029043700 +0800">
+		<title lang="zh">第1集：饺子里的隐情</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251029043700 +0800" stop="20251029045500 +0800">
+		<title lang="zh">第2集：难以置信的凶手</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52286,6 +52301,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251029033600 +0800" stop="20251029042100 +0800">
 		<title lang="zh">09_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251029042100 +0800" stop="20251029050600 +0800">
+		<title lang="zh">16_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52413,6 +52431,9 @@
 	<programme channel="newtv怡伴健康" start="20251029041000 +0800" stop="20251029042100 +0800">
 		<title lang="zh">小品《创业家族》 表演：郭子歆 李丁 等</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251029042100 +0800" stop="20251029045100 +0800">
+		<title lang="zh">09_鹊刀门传奇</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52434,6 +52455,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251029034000 +0800" stop="20251029042500 +0800">
 		<title lang="zh">03_再造之恩</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251029042500 +0800" stop="20251029051100 +0800">
+		<title lang="zh">04_再造之恩</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52451,6 +52475,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251029033700 +0800" stop="20251029043000 +0800">
 		<title lang="zh">二〇二五“军校招考季”特别节目 军校 我来了</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251029043000 +0800" stop="20251029045700 +0800">
+		<title lang="zh">长空铁翼</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52472,6 +52499,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251029040900 +0800" stop="20251029043000 +0800">
 		<title lang="zh">古典舞风格《月下待杜鹃不来》（20231219）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251029043000 +0800" stop="20251029062700 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季（20250914）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52508,6 +52538,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251029003000 +0800" stop="20251029043400 +0800">
 		<title lang="zh">星光大道（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251029043400 +0800" stop="20251029051400 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52574,6 +52607,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251029031300 +0800" stop="20251029042100 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251029042100 +0800" stop="20251029045800 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
