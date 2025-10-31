@@ -16434,6 +16434,9 @@
 	<programme channel="咪咕足球" start="20251101041500 +0800" stop="20251101051500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251101052000 +0800" stop="20251101070000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第7轮 北京首钢园-新疆天山</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41310,6 +41313,9 @@
 	<programme channel="纯享4K" start="20251101044100 +0800" stop="20251101044700 +0800">
 		<title lang="zh">美丽中国自然4K 巫山系列 鸟雀育雏记</title>
 	</programme>
+	<programme channel="纯享4K" start="20251101045200 +0800" stop="20251101054100 +0800">
+		<title lang="zh">大数据时代4K 第4集 商业之变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51606,6 +51612,9 @@
 	<programme channel="黑莓动画" start="20251101005200 +0800" stop="20251101045300 +0800">
 		<title lang="zh">11_间谍过家家全集中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251101045300 +0800" stop="20251101085300 +0800">
+		<title lang="zh">21_樱桃小丸子 第二季普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51939,6 +51948,12 @@
 	<programme channel="newtv超级电影" start="20251101032200 +0800" stop="20251101045700 +0800">
 		<title lang="zh">舞狮人传奇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251101045700 +0800" stop="20251101051500 +0800">
+		<title lang="zh">我和我的祖国-夺冠</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251101051500 +0800" stop="20251101053600 +0800">
+		<title lang="zh">我和我的祖国-白昼流星</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51959,6 +51974,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251101040000 +0800" stop="20251101044600 +0800">
 		<title lang="zh">09_淬火年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251101044600 +0800" stop="20251101053200 +0800">
+		<title lang="zh">10_淬火年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52014,6 +52032,9 @@
 	<programme channel="newtv精品纪录" start="20251101042600 +0800" stop="20251101051500 +0800">
 		<title lang="zh">01_黄河西来</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251101051500 +0800" stop="20251101060400 +0800">
+		<title lang="zh">02_大河滔滔</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52034,6 +52055,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251101040300 +0800" stop="20251101044800 +0800">
 		<title lang="zh">21_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251101044800 +0800" stop="20251101053300 +0800">
+		<title lang="zh">25_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52086,6 +52110,9 @@
 	<programme channel="newtv家庭剧场" start="20251101043900 +0800" stop="20251101051400 +0800">
 		<title lang="zh">23_锦月如歌</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251101051400 +0800" stop="20251101055800 +0800">
+		<title lang="zh">24_锦月如歌</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52110,6 +52137,9 @@
 	<programme channel="newtv热播精选" start="20251101044100 +0800" stop="20251101051200 +0800">
 		<title lang="zh">01_南海归墟</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251101051200 +0800" stop="20251101054100 +0800">
+		<title lang="zh">02_南海归墟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52127,6 +52157,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251101040500 +0800" stop="20251101045000 +0800">
 		<title lang="zh">08_穆桂英挂帅</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251101045000 +0800" stop="20251101053500 +0800">
+		<title lang="zh">09_穆桂英挂帅</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52169,6 +52202,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251101042600 +0800" stop="20251101051400 +0800">
 		<title lang="zh">超级动物家庭（6）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251101051400 +0800" stop="20251101052900 +0800">
+		<title lang="zh">小品《扶不扶》 沈腾、马丽 杜晓宇</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52227,6 +52263,12 @@
 	<programme channel="newtv军事评论" start="20251101042700 +0800" stop="20251101045300 +0800">
 		<title lang="zh">【海峡两岸】国民党主席选举 为何引人关注？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251101045300 +0800" stop="20251101051500 +0800">
+		<title lang="zh">共和国阅兵装备大观 1</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251101051500 +0800" stop="20251101053700 +0800">
+		<title lang="zh">共和国阅兵装备大观 2</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52250,6 +52292,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251101042800 +0800" stop="20251101044900 +0800">
 		<title lang="zh">广场舞—绽放（20220126）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251101044900 +0800" stop="20251101052700 +0800">
+		<title lang="zh">亦食亦药巧养生（5）（20240917）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
