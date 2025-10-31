@@ -28468,6 +28468,9 @@
 	<programme channel="咪咕综合体育" start="20251031202000 +0800" stop="20251031220000 +0800">
 		<title lang="zh">足球世界-25/26赛季西甲 第10轮 皇家马德里-巴塞罗那</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251031220500 +0800" stop="20251031000000 +0800">
+		<title lang="zh">网球世界-2025WTA1000罗马站 决赛 高芙-保利尼</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28581,6 +28584,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251031211500 +0800" stop="20251031221500 +0800">
 		<title lang="zh">最后之舞05</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251031222000 +0800" stop="20251031000000 +0800">
+		<title lang="zh">当燃CBA-24/25赛季总决赛G3 北京北汽-浙江方兴渡</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41706,6 +41712,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251031201900 +0800" stop="20251031215100 +0800">
 		<title lang="zh">昆仑神宫</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251031215100 +0800" stop="20251031222100 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -63046,6 +63055,9 @@
 	<programme channel="爱情喜剧" start="20251031210600 +0800" stop="20251031215300 +0800">
 		<title lang="zh">04_三生三世枕上书</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251031215300 +0800" stop="20251031222300 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69243,6 +69255,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251031210100 +0800" stop="20251031215000 +0800">
 		<title lang="zh">大数据时代4K 第3集 决策之智</title>
+	</programme>
+	<programme channel="纯享4K" start="20251031215000 +0800" stop="20251031222000 +0800">
+		<title lang="zh">传承 第三季4K 第三集 生技</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86782,6 +86797,9 @@
 	<programme channel="newtv超级体育" start="20251031200000 +0800" stop="20251031220000 +0800">
 		<title lang="zh">2025年WTT蒙彼利埃冠军赛-1/8决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251031220000 +0800" stop="20251031230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87331,6 +87349,9 @@
 	<programme channel="newtv军旅剧场" start="20251031213200 +0800" stop="20251031221200 +0800">
 		<title lang="zh">05_台湾往事</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251031221200 +0800" stop="20251031224200 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87426,6 +87447,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251031210800 +0800" stop="20251031215400 +0800">
 		<title lang="zh">06_绽放的许开心</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251031215400 +0800" stop="20251031223500 +0800">
+		<title lang="zh">24_索玛花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -87609,6 +87633,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251031210600 +0800" stop="20251031215300 +0800">
 		<title lang="zh">04_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251031215300 +0800" stop="20251031222300 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87868,6 +87895,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251031213600 +0800" stop="20251031220600 +0800">
 		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251031220600 +0800" stop="20251031225400 +0800">
+		<title lang="zh">11_有翡</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87997,6 +88027,9 @@
 	<programme channel="newtv军事评论" start="20251031212500 +0800" stop="20251031215200 +0800">
 		<title lang="zh">甲午沉舰的新发现</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251031215200 +0800" stop="20251031221800 +0800">
+		<title lang="zh">嘉陵江畔的长征记忆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88086,6 +88119,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251031212000 +0800" stop="20251031215900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251031215900 +0800" stop="20251031222000 +0800">
+		<title lang="zh">民族健身舞《我是你的格桑花》（20231225）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88233,6 +88269,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251031201900 +0800" stop="20251031215100 +0800">
 		<title lang="zh">昆仑神宫</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251031215100 +0800" stop="20251031222100 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
