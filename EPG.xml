@@ -16422,11 +16422,20 @@
 	<programme channel="咪咕综合体育" start="20251104000000 +0800" stop="20251104012000 +0800">
 		<title lang="zh">网球世界-2025WTA1000罗马站 半决赛 郑钦文-高芙</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251104013000 +0800" stop="20251104022000 +0800">
+		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第三集</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20251104000100 +0800" stop="20251104013100 +0800">
 		<title lang="zh">2025国际篮联U19世界杯 小组赛第2轮 德国男篮-中国男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251104013100 +0800" stop="20251104014000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251104014000 +0800" stop="20251104020000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -51561,6 +51570,9 @@
 	<programme channel="newtv超级综艺" start="20251104003100 +0800" stop="20251104011800 +0800">
 		<title lang="zh">27_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251104011800 +0800" stop="20251104020300 +0800">
+		<title lang="zh">28_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51588,6 +51600,9 @@
 	<programme channel="newtv超级电视剧" start="20251104004900 +0800" stop="20251104013400 +0800">
 		<title lang="zh">25_地雷战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251104013400 +0800" stop="20251104021900 +0800">
+		<title lang="zh">26_地雷战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51605,6 +51620,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251104003600 +0800" stop="20251104012300 +0800">
 		<title lang="zh">01_母爱无疆/狗狗情缘</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251104012300 +0800" stop="20251104020700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51630,6 +51648,9 @@
 	<programme channel="newtv军旅剧场" start="20251104004000 +0800" stop="20251104012300 +0800">
 		<title lang="zh">35_狐影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251104012300 +0800" stop="20251104020700 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51641,6 +51662,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251104004000 +0800" stop="20251104012300 +0800">
 		<title lang="zh">31_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251104012300 +0800" stop="20251104020700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51692,6 +51716,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251104003200 +0800" stop="20251104011800 +0800">
 		<title lang="zh">13_大奉打更人</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251104011800 +0800" stop="20251104020200 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
