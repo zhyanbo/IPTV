@@ -26138,6 +26138,12 @@
 	<programme channel="咪咕足球" start="20251103180000 +0800" stop="20251103183000 +0800">
 		<title lang="zh">NBA周刊</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251103183000 +0800" stop="20251103183500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251103183500 +0800" stop="20251103185000 +0800">
+		<title lang="zh">睛彩圈圈点第十五期</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -37583,8 +37589,11 @@
 	<programme channel="广西卫视" start="20251103162000 +0800" stop="20251103171000 +0800">
 		<title lang="zh">经典剧场41集：伪装者(39)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251103171000 +0800" stop="20251103180000 +0800">
+	<programme channel="广西卫视" start="20251103171000 +0800" stop="20251103175000 +0800">
 		<title lang="zh">经典剧场41集：伪装者(40)</title>
+	</programme>
+	<programme channel="广西卫视" start="20251103175000 +0800" stop="20251103180000 +0800">
+		<title lang="zh">重播：国宝时刻（2）</title>
 	</programme>
 	<programme channel="广西卫视" start="20251103180000 +0800" stop="20251103183000 +0800">
 		<title lang="zh">首播：海丝路</title>
@@ -37604,10 +37613,13 @@
 	<programme channel="广西卫视" start="20251103201500 +0800" stop="20251103205000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
 	</programme>
-	<programme channel="广西卫视" start="20251103205000 +0800" stop="20251103214000 +0800">
+	<programme channel="广西卫视" start="20251103205000 +0800" stop="20251103213500 +0800">
 		<title lang="zh">美丽剧场38集：暗夜与黎明(32)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251103214000 +0800" stop="20251103230000 +0800">
+	<programme channel="广西卫视" start="20251103213500 +0800" stop="20251103214500 +0800">
+		<title lang="zh">首播：国宝时刻(3)</title>
+	</programme>
+	<programme channel="广西卫视" start="20251103214500 +0800" stop="20251103230000 +0800">
 		<title lang="zh">首播：2025桂林艺术节开幕式</title>
 	</programme>
 	<programme channel="广西卫视" start="20251103230000 +0800" stop="20251103235900 +0800">
@@ -37997,17 +38009,14 @@
 	<programme channel="广西都市" start="20251103192500 +0800" stop="20251103220500 +0800">
 		<title lang="zh">情感剧场:32集电视剧:螳螂之影(19-21)</title>
 	</programme>
-	<programme channel="广西都市" start="20251103220500 +0800" stop="20251103221000 +0800">
+	<programme channel="广西都市" start="20251103220500 +0800" stop="20251103222000 +0800">
 		<title lang="zh">重播：天气，点点看</title>
 	</programme>
-	<programme channel="广西都市" start="20251103221000 +0800" stop="20251103230000 +0800">
-		<title lang="zh">幸福剧场:70集电视剧:铁棍镇山河(28)</title>
-	</programme>
-	<programme channel="广西都市" start="20251103230000 +0800" stop="20251103235000 +0800">
-		<title lang="zh">幸福剧场:70集电视剧:铁棍镇山河(29)</title>
+	<programme channel="广西都市" start="20251103222000 +0800" stop="20251103235000 +0800">
+		<title lang="zh">2025年桂林艺术节开幕式</title>
 	</programme>
 	<programme channel="广西都市" start="20251103235000 +0800" stop="20251103235900 +0800">
-		<title lang="zh">幸福剧场:70集电视剧:铁棍镇山河(30)</title>
+		<title lang="zh">幸福剧场:70集电视剧:铁棍镇山河(28)</title>
 	</programme>
 	<channel id="康巴卫视">
 		<display-name lang="zh">康巴卫视</display-name>
@@ -38923,6 +38932,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251103174300 +0800" stop="20251103182700 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251103182700 +0800" stop="20251103194900 +0800">
+		<title lang="zh">特工使命</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65183,6 +65195,9 @@
 	<programme channel="纯享4K" start="20251103174900 +0800" stop="20251103182900 +0800">
 		<title lang="zh">探索b7发现4K 神秘的墓主（3）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251103182900 +0800" stop="20251103190900 +0800">
+		<title lang="zh">荣宝斋4K 第5集 脉动新声</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -81029,6 +81044,9 @@
 	<programme channel="newtv超级电视剧" start="20251103175900 +0800" stop="20251103184500 +0800">
 		<title lang="zh">10_女特警</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251103184500 +0800" stop="20251103193100 +0800">
+		<title lang="zh">11_女特警</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81368,6 +81386,9 @@
 	<programme channel="newtv军旅剧场" start="20251103173900 +0800" stop="20251103182400 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251103182400 +0800" stop="20251103185500 +0800">
+		<title lang="zh">34_利刃出击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81535,6 +81556,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251103174400 +0800" stop="20251103182000 +0800">
 		<title lang="zh">老广的味道 第三季</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251103182000 +0800" stop="20251103185000 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82189,6 +82213,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251103174300 +0800" stop="20251103182700 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251103182700 +0800" stop="20251103194900 +0800">
+		<title lang="zh">特工使命</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
