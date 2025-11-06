@@ -16650,6 +16650,9 @@
 	<programme channel="咪咕综合体育" start="20251107013000 +0800" stop="20251107035000 +0800">
 		<title lang="zh">UFC第317期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251107035000 +0800" stop="20251107040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16664,6 +16667,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251107021000 +0800" stop="20251107035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第18轮 合肥狂风峻茂-江西鲸裕清酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251107035000 +0800" stop="20251107040000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41328,6 +41334,9 @@
 	<programme channel="纯享4K" start="20251107030900 +0800" stop="20251107033700 +0800">
 		<title lang="zh">好吃客4K 大同</title>
 	</programme>
+	<programme channel="纯享4K" start="20251107033700 +0800" stop="20251107041800 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（5） 中运河风情</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52113,6 +52122,9 @@
 	<programme channel="newtv超级电视剧" start="20251107030400 +0800" stop="20251107034900 +0800">
 		<title lang="zh">43_地雷战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251107034900 +0800" stop="20251107043500 +0800">
+		<title lang="zh">33_淬火年代</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52130,6 +52142,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251107025200 +0800" stop="20251107033700 +0800">
 		<title lang="zh">31_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251107033700 +0800" stop="20251107042200 +0800">
+		<title lang="zh">32_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52200,6 +52215,9 @@
 	<programme channel="newtv家庭剧场" start="20251107023800 +0800" stop="20251107032100 +0800">
 		<title lang="zh">44_欢乐颂2</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251107032100 +0800" stop="20251107040400 +0800">
+		<title lang="zh">45_欢乐颂2</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52215,6 +52233,9 @@
 	<programme channel="newtv热播精选" start="20251107025700 +0800" stop="20251107034200 +0800">
 		<title lang="zh">08_平凡之路</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251107034200 +0800" stop="20251107042800 +0800">
+		<title lang="zh">09_平凡之路</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52226,6 +52247,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251107014700 +0800" stop="20251107032400 +0800">
 		<title lang="zh">芳草满天涯</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251107032400 +0800" stop="20251107040900 +0800">
+		<title lang="zh">37_穆桂英挂帅</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52259,6 +52283,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251107024700 +0800" stop="20251107033200 +0800">
 		<title lang="zh">20_女特警</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251107033200 +0800" stop="20251107042000 +0800">
+		<title lang="zh">探秘太平洋水下生命（1）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52305,6 +52332,9 @@
 	<programme channel="newtv军事评论" start="20251107031500 +0800" stop="20251107034000 +0800">
 		<title lang="zh">美军紧急召回全球数百名高层开会 特朗普或对乌提供远程武器？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251107034000 +0800" stop="20251107040500 +0800">
+		<title lang="zh">乌克兰欲“下血本”买美制武器 日本在海上咽喉要道“投棋布子”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52331,6 +52361,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251107013600 +0800" stop="20251107032700 +0800">
 		<title lang="zh">电光火石</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251107032700 +0800" stop="20251107044900 +0800">
+		<title lang="zh">喜人奇妙夜</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
