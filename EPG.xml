@@ -59850,6 +59850,9 @@
 	<programme channel="newtv超级综艺" start="20251109151000 +0800" stop="20251109162700 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251109162700 +0800" stop="20251109175700 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59990,6 +59993,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251109154600 +0800" stop="20251109163300 +0800">
 		<title lang="zh">10_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251109163300 +0800" stop="20251109171800 +0800">
+		<title lang="zh">08_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60134,6 +60140,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251109160000 +0800" stop="20251109163000 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251109163000 +0800" stop="20251109171900 +0800">
+		<title lang="zh">第7集：云之南</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60419,6 +60428,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251109154500 +0800" stop="20251109163000 +0800">
 		<title lang="zh">05_潜行者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251109163000 +0800" stop="20251109170000 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61035,6 +61047,15 @@
 	<programme channel="newtv金牌综艺" start="20251109160600 +0800" stop="20251109163600 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251109163600 +0800" stop="20251109175300 +0800">
+		<title lang="zh">开门大吉（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251109160600 +0800" stop="20251109163600 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251109163600 +0800" stop="20251109175300 +0800">
+		<title lang="zh">开门大吉（2025）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -61169,6 +61190,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251109152900 +0800" stop="20251109161600 +0800">
 		<title lang="zh">16_燕云台</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251109161600 +0800" stop="20251109164600 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
