@@ -15678,6 +15678,9 @@
 	<programme channel="咪咕综合体育" start="20251110213500 +0800" stop="20251110231500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第10轮 托特纳姆热刺-切尔西</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251110231500 +0800" stop="20251110232500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -54174,6 +54177,9 @@
 	<programme channel="newtv超级综艺" start="20251110222400 +0800" stop="20251110225400 +0800">
 		<title lang="zh">慕名而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251110225400 +0800" stop="20251110234000 +0800">
+		<title lang="zh">17_值得爱</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -54362,6 +54368,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251110223000 +0800" stop="20251110231600 +0800">
 		<title lang="zh">29_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251110231600 +0800" stop="20251110000200 +0800">
+		<title lang="zh">30_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -54603,6 +54612,9 @@
 	<programme channel="newtv精品纪录" start="20251110224600 +0800" stop="20251110231200 +0800">
 		<title lang="zh">第20集 孟郊：空林坐自清</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251110231200 +0800" stop="20251110232500 +0800">
+		<title lang="zh">第1集：伍子胥 疲楚之计</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -54705,6 +54717,9 @@
 	<programme channel="newtv古装剧场" start="20251110221900 +0800" stop="20251110224900 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251110224900 +0800" stop="20251110233000 +0800">
+		<title lang="zh">29_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -54806,6 +54821,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251110223200 +0800" stop="20251110231400 +0800">
 		<title lang="zh">39_台湾往事</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251110231400 +0800" stop="20251110234900 +0800">
+		<title lang="zh">40_台湾往事</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54912,6 +54930,9 @@
 	<programme channel="newtv家庭剧场" start="20251110222600 +0800" stop="20251110231000 +0800">
 		<title lang="zh">15_亲爱的你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251110231000 +0800" stop="20251110235600 +0800">
+		<title lang="zh">16_亲爱的你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -55008,6 +55029,9 @@
 	<programme channel="newtv热播精选" start="20251110224100 +0800" stop="20251110231100 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251110231100 +0800" stop="20251110002400 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -55097,6 +55121,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251110222700 +0800" stop="20251110225700 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251110225700 +0800" stop="20251110234200 +0800">
+		<title lang="zh">54_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -55284,6 +55311,9 @@
 	<programme channel="newtv怡伴健康" start="20251110222700 +0800" stop="20251110225700 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251110225700 +0800" stop="20251110234100 +0800">
+		<title lang="zh">北京睿翼精英vs湖南名将-第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -55382,6 +55412,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251110222800 +0800" stop="20251110225800 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251110225800 +0800" stop="20251110231700 +0800">
+		<title lang="zh">第2集：窑洞藏尸！5岁女童离奇失踪</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -55533,6 +55566,9 @@
 	<programme channel="newtv军事评论" start="20251110222300 +0800" stop="20251110231300 +0800">
 		<title lang="zh">军威赫赫 第1集 大国仪仗</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251110231300 +0800" stop="20251110000600 +0800">
+		<title lang="zh">军威赫赫 第2集 国旗卫士</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -55628,6 +55664,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251110223800 +0800" stop="20251110225900 +0800">
 		<title lang="zh">健身舞《小城谣》（20240129）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251110225900 +0800" stop="20251110232000 +0800">
+		<title lang="zh">民族健身舞《纳林湖等你》（20240205）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -55727,6 +55766,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251110222400 +0800" stop="20251110225400 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251110225400 +0800" stop="20251110001900 +0800">
+		<title lang="zh">史前怪兽</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
