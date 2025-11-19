@@ -41973,6 +41973,9 @@
 	<programme channel="纯享4K" start="20251120035100 +0800" stop="20251120043200 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（13） 南海明珠 琼海潭门</title>
 	</programme>
+	<programme channel="纯享4K" start="20251120043200 +0800" stop="20251120051300 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（14） 创新传承看琼海</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52290,6 +52293,9 @@
 	<programme channel="黑莓电影" start="20251120030600 +0800" stop="20251120044500 +0800">
 		<title lang="zh">燃冬</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251120044500 +0800" stop="20251120063600 +0800">
+		<title lang="zh">大突围</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52674,6 +52680,9 @@
 	<programme channel="newtv精品纪录" start="20251120033100 +0800" stop="20251120042100 +0800">
 		<title lang="zh">04_湖北</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251120042100 +0800" stop="20251120051100 +0800">
+		<title lang="zh">05_香港</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52716,6 +52725,9 @@
 	<programme channel="newtv军旅剧场" start="20251120035200 +0800" stop="20251120043700 +0800">
 		<title lang="zh">21_雪狼谷</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251120043700 +0800" stop="20251120051900 +0800">
+		<title lang="zh">23_和平之舟</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52733,6 +52745,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251120033700 +0800" stop="20251120042300 +0800">
 		<title lang="zh">38_三十而已</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251120042300 +0800" stop="20251120051000 +0800">
+		<title lang="zh">36_安家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52809,6 +52824,9 @@
 	<programme channel="newtv怡伴健康" start="20251120033700 +0800" stop="20251120042500 +0800">
 		<title lang="zh">狒狒家族</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251120042500 +0800" stop="20251120051300 +0800">
+		<title lang="zh">大自然的一天</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52866,6 +52884,9 @@
 	<programme channel="newtv军事评论" start="20251120041400 +0800" stop="20251120044100 +0800">
 		<title lang="zh">背水一战 绝地反击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251120044100 +0800" stop="20251120050700 +0800">
+		<title lang="zh">重器护河山</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52889,6 +52910,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251120034800 +0800" stop="20251120042000 +0800">
 		<title lang="zh">第11集：养老</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251120042000 +0800" stop="20251120044200 +0800">
+		<title lang="zh">健身舞—再唱山歌给党听（20211016）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251120044200 +0800" stop="20251120050300 +0800">
+		<title lang="zh">健身舞—天南地北唱中华（20211003）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52950,6 +52977,9 @@
 	<programme channel="newtv精品体育" start="20251120030700 +0800" stop="20251120044100 +0800">
 		<title lang="zh">2025-26赛季英超联赛第5轮：布赖顿VS热刺</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20251120044100 +0800" stop="20251120062100 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第5轮：皇家马德里VS西班牙人</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -53003,6 +53033,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251120030300 +0800" stop="20251120043400 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251120043400 +0800" stop="20251120053500 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
