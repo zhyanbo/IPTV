@@ -28296,6 +28296,9 @@
 	<programme channel="咪咕综合体育" start="20251123180500 +0800" stop="20251123190000 +0800">
 		<title lang="zh">全运时刻-第十五届全运会 跳水 女子团体双人10米跳台 决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251123190500 +0800" stop="20251123204500 +0800">
+		<title lang="zh">足球世界-25/26赛季意甲 第11轮 国际米兰-拉齐奥</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28379,6 +28382,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251123183500 +0800" stop="20251123185000 +0800">
 		<title lang="zh">睛彩圈圈点第十八期-全运特辑</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251123190000 +0800" stop="20251123192000 +0800">
+		<title lang="zh">全运金牌时刻第一期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -69651,6 +69657,9 @@
 	<programme channel="纯享4K" start="20251123183700 +0800" stop="20251123190200 +0800">
 		<title lang="zh">辣椒的征途4K 第2集 谁是辣中霸主</title>
 	</programme>
+	<programme channel="纯享4K" start="20251123190200 +0800" stop="20251123193200 +0800">
+		<title lang="zh">传承 第三季4K 第十集 礼成</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -74768,6 +74777,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251123171000 +0800" stop="20251123185200 +0800">
 		<title lang="zh">电影《足球少年》</title>
+	</programme>
+	<programme channel="超级电影" start="20251123185200 +0800" stop="20251123200800 +0800">
+		<title lang="zh">电影《六扇门之嫣州八艳》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -87657,6 +87669,9 @@
 	<programme channel="newtv超级体育" start="20251123180000 +0800" stop="20251123190500 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251123190500 +0800" stop="20251123200500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-全运全记录 2(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87695,6 +87710,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251123171000 +0800" stop="20251123185200 +0800">
 		<title lang="zh">电影《足球少年》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251123185200 +0800" stop="20251123200800 +0800">
+		<title lang="zh">电影《六扇门之嫣州八艳》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -87774,6 +87792,9 @@
 	<programme channel="newtv超级电视剧" start="20251123181100 +0800" stop="20251123185800 +0800">
 		<title lang="zh">67_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251123185800 +0800" stop="20251123194300 +0800">
+		<title lang="zh">33_警犬来啦</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87851,6 +87872,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251123180500 +0800" stop="20251123185000 +0800">
 		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251123185000 +0800" stop="20251123193700 +0800">
+		<title lang="zh">27_嫣语赋</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -88004,6 +88028,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251123180700 +0800" stop="20251123185200 +0800">
 		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251123185200 +0800" stop="20251123193800 +0800">
+		<title lang="zh">26_似锦</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -88161,6 +88188,9 @@
 	<programme channel="newtv家庭剧场" start="20251123182600 +0800" stop="20251123190700 +0800">
 		<title lang="zh">27_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251123190700 +0800" stop="20251123194800 +0800">
+		<title lang="zh">28_娘亲舅大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -88238,6 +88268,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251123175900 +0800" stop="20251123184900 +0800">
 		<title lang="zh">我的美食向导</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251123184900 +0800" stop="20251123191900 +0800">
+		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88440,6 +88473,9 @@
 	<programme channel="newtv怡伴健康" start="20251123183700 +0800" stop="20251123191600 +0800">
 		<title lang="zh">山东好哥哥vs山西清徐学栋-第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251123191600 +0800" stop="20251123195000 +0800">
+		<title lang="zh">山东好哥哥vs山西清徐学栋-第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -88641,6 +88677,9 @@
 	<programme channel="newtv军事评论" start="20251123183100 +0800" stop="20251123185700 +0800">
 		<title lang="zh">【海峡两岸】党主席改选倒计时 国民党有哪些变化？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251123185700 +0800" stop="20251123192200 +0800">
+		<title lang="zh">【海峡两岸】自夸在台海拼消耗 美军有什么资本？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88736,6 +88775,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251123182600 +0800" stop="20251123191500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251123191500 +0800" stop="20251123203200 +0800">
+		<title lang="zh">各行各业组合上星光 起因竟是一条“求搭子”发帖（20241123）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -89087,6 +89129,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251123181600 +0800" stop="20251123185000 +0800">
 		<title lang="zh">告别煮妇手</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251123185000 +0800" stop="20251123193800 +0800">
+		<title lang="zh">26_庆余年第二季</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
