@@ -52392,6 +52392,9 @@
 	<programme channel="newtv超级综艺" start="20251206032500 +0800" stop="20251206051800 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251206051800 +0800" stop="20251206063500 +0800">
+		<title lang="zh">向幸福出发</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52407,6 +52410,9 @@
 	<programme channel="newtv超级体育" start="20251206040000 +0800" stop="20251206053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第7轮 阿森纳-西汉姆联</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251206053000 +0800" stop="20251206060000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52421,6 +52427,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251206033400 +0800" stop="20251206052900 +0800">
 		<title lang="zh">发财日记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251206052900 +0800" stop="20251206065400 +0800">
+		<title lang="zh">战斧行动</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -52472,6 +52481,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251206043300 +0800" stop="20251206051900 +0800">
 		<title lang="zh">18_钢的琴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251206051900 +0800" stop="20251206060400 +0800">
+		<title lang="zh">19_钢的琴</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52578,6 +52590,9 @@
 	<programme channel="newtv家庭剧场" start="20251206044500 +0800" stop="20251206052900 +0800">
 		<title lang="zh">02_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251206052900 +0800" stop="20251206061400 +0800">
+		<title lang="zh">04_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52601,6 +52616,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251206045800 +0800" stop="20251206054400 +0800">
 		<title lang="zh">05_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251206054400 +0800" stop="20251206062900 +0800">
+		<title lang="zh">21_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52644,6 +52662,9 @@
 	<programme channel="newtv动作电影" start="20251206041100 +0800" stop="20251206054500 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251206054500 +0800" stop="20251206061500 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52670,6 +52691,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251206045700 +0800" stop="20251206054500 +0800">
 		<title lang="zh">激战好望角</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251206054500 +0800" stop="20251206061500 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52734,6 +52758,12 @@
 	<programme channel="newtv军事评论" start="20251206045500 +0800" stop="20251206051700 +0800">
 		<title lang="zh">共和国阅兵装备大观 1</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251206051700 +0800" stop="20251206053800 +0800">
+		<title lang="zh">共和国阅兵装备大观 2</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251206053800 +0800" stop="20251206060000 +0800">
+		<title lang="zh">共和国阅兵装备大观 3</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52769,6 +52799,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251206045600 +0800" stop="20251206051800 +0800">
 		<title lang="zh">健身舞—书房门前一枝梅（20210223）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251206051800 +0800" stop="20251206060700 +0800">
+		<title lang="zh">第七集：吉林</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52845,6 +52878,9 @@
 	<programme channel="newtv金牌综艺" start="20251206044400 +0800" stop="20251206053000 +0800">
 		<title lang="zh">13_风声</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251206053000 +0800" stop="20251206061400 +0800">
+		<title lang="zh">14_风声</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -52916,6 +52952,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251206045600 +0800" stop="20251206054200 +0800">
 		<title lang="zh">拳王争霸赛：塞佩达VS法默</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251206054200 +0800" stop="20251206061200 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
