@@ -51315,6 +51315,9 @@
 	<programme channel="newtv超级电视剧" start="20251210000000 +0800" stop="20251210004200 +0800">
 		<title lang="zh">22_热血青春</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251210004200 +0800" stop="20251210012300 +0800">
+		<title lang="zh">23_热血青春</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51404,6 +51407,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20251210000600 +0800" stop="20251210005000 +0800">
 		<title lang="zh">39_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251210005000 +0800" stop="20251210013300 +0800">
+		<title lang="zh">40_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
