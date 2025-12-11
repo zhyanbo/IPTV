@@ -16713,6 +16713,12 @@
 	<programme channel="咪咕足球" start="20251212040000 +0800" stop="20251212050000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251212050000 +0800" stop="20251212051000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251212051000 +0800" stop="20251212065000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛16进8第1轮 陕西天泽-内蒙古农信</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41091,6 +41097,9 @@
 	<programme channel="纯享4K" start="20251212042100 +0800" stop="20251212050200 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（58） 海洋牧场：蔚蓝色的“粮仓”</title>
 	</programme>
+	<programme channel="纯享4K" start="20251212051300 +0800" stop="20251212051800 +0800">
+		<title lang="zh">听起来很好吃 第二季4K 均安烧猪</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52236,6 +52245,9 @@
 	<programme channel="newtv超级电影" start="20251212042600 +0800" stop="20251212050000 +0800">
 		<title lang="zh">乌伯林根之殇(上)</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251212050000 +0800" stop="20251212061300 +0800">
+		<title lang="zh">乌伯林根之殇(下)</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52259,6 +52271,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251212041900 +0800" stop="20251212050500 +0800">
 		<title lang="zh">25_生活就是家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251212050500 +0800" stop="20251212055100 +0800">
+		<title lang="zh">26_生活就是家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52284,6 +52299,9 @@
 	<programme channel="newtv精品大剧" start="20251212042700 +0800" stop="20251212051300 +0800">
 		<title lang="zh">06_致1999年的自己</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251212051300 +0800" stop="20251212055900 +0800">
+		<title lang="zh">07_致1999年的自己</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52308,6 +52326,9 @@
 	<programme channel="newtv精品纪录" start="20251212041300 +0800" stop="20251212045900 +0800">
 		<title lang="zh">12_地雷战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251212045900 +0800" stop="20251212054200 +0800">
+		<title lang="zh">20_北国英雄</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52331,6 +52352,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251212041000 +0800" stop="20251212045600 +0800">
 		<title lang="zh">19_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251212045600 +0800" stop="20251212054100 +0800">
+		<title lang="zh">20_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52401,6 +52425,9 @@
 	<programme channel="newtv热播精选" start="20251212042800 +0800" stop="20251212051500 +0800">
 		<title lang="zh">28_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251212051500 +0800" stop="20251212060100 +0800">
+		<title lang="zh">29_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52464,6 +52491,9 @@
 	<programme channel="newtv怡伴健康" start="20251212040900 +0800" stop="20251212045700 +0800">
 		<title lang="zh">爬行动物追踪者（1）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251212045700 +0800" stop="20251212054500 +0800">
+		<title lang="zh">爬行动物追踪者（2）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52487,6 +52517,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251212040900 +0800" stop="20251212045300 +0800">
 		<title lang="zh">07_新白蛇传</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251212045300 +0800" stop="20251212053500 +0800">
+		<title lang="zh">08_新白蛇传</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -52520,6 +52553,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251212040300 +0800" stop="20251212045700 +0800">
 		<title lang="zh">功臣夫妻：一起发光的人生伴侣</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251212045700 +0800" stop="20251212055000 +0800">
+		<title lang="zh">何继荣：老兵的“焰火”人生</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
