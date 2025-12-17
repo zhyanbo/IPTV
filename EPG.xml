@@ -40821,6 +40821,9 @@
 	<programme channel="newtv超级电影" start="20251218014100 +0800" stop="20251218031000 +0800">
 		<title lang="zh">一号档案守护者</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251218031000 +0800" stop="20251218052100 +0800">
+		<title lang="zh">夜去晨来</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40836,6 +40839,9 @@
 	<programme channel="newtv超级电视剧" start="20251218021800 +0800" stop="20251218030500 +0800">
 		<title lang="zh">24_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251218030500 +0800" stop="20251218035100 +0800">
+		<title lang="zh">25_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40850,6 +40856,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251218022900 +0800" stop="20251218031400 +0800">
 		<title lang="zh">16_危机迷雾</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251218031400 +0800" stop="20251218035900 +0800">
+		<title lang="zh">17_危机迷雾</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -40884,6 +40893,9 @@
 	<programme channel="newtv古装剧场" start="20251218020500 +0800" stop="20251218024700 +0800">
 		<title lang="zh">20_国子监来了个女弟子</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251218024700 +0800" stop="20251218032900 +0800">
+		<title lang="zh">21_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -40899,6 +40911,9 @@
 	<programme channel="newtv军旅剧场" start="20251218021000 +0800" stop="20251218025500 +0800">
 		<title lang="zh">34_东江英雄刘黑仔</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251218025500 +0800" stop="20251218034200 +0800">
+		<title lang="zh">35_东江英雄刘黑仔</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -40910,6 +40925,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251218020400 +0800" stop="20251218024700 +0800">
 		<title lang="zh">06_亲爱的仇敌</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251218024700 +0800" stop="20251218034300 +0800">
+		<title lang="zh">07_亲爱的仇敌</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -40934,6 +40952,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251218013400 +0800" stop="20251218030300 +0800">
 		<title lang="zh">驱魔龙族马小玲（普通话版）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251218030300 +0800" stop="20251218033300 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -41010,6 +41031,12 @@
 	<programme channel="newtv军事评论" start="20251218022500 +0800" stop="20251218024700 +0800">
 		<title lang="zh">中国力量 空中雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251218024700 +0800" stop="20251218030900 +0800">
+		<title lang="zh">中国力量 天空利剑</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251218030900 +0800" stop="20251218033600 +0800">
+		<title lang="zh">海空拼刺刀</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -41024,6 +41051,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251218020900 +0800" stop="20251218024600 +0800">
 		<title lang="zh">营养知识大盘点（1）（20241108）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251218024600 +0800" stop="20251218032500 +0800">
+		<title lang="zh">营养知识大盘点（2）（20241109）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -41069,6 +41099,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251218023800 +0800" stop="20251218032300 +0800">
 		<title lang="zh">31_面具背后</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251218032300 +0800" stop="20251218040900 +0800">
+		<title lang="zh">32_面具背后</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
