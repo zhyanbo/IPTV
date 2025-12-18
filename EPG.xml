@@ -51834,6 +51834,9 @@
 	<programme channel="newtv超级电影" start="20251219011700 +0800" stop="20251219025600 +0800">
 		<title lang="zh">走西口的哥哥没回来</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251219025600 +0800" stop="20251219043400 +0800">
+		<title lang="zh">谷子熟了</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51848,6 +51851,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251219021300 +0800" stop="20251219025900 +0800">
 		<title lang="zh">29_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251219025900 +0800" stop="20251219034400 +0800">
+		<title lang="zh">30_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51864,6 +51870,9 @@
 	<programme channel="newtv精品大剧" start="20251219022600 +0800" stop="20251219031100 +0800">
 		<title lang="zh">20_危机迷雾</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251219031100 +0800" stop="20251219035600 +0800">
+		<title lang="zh">21_危机迷雾</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51878,6 +51887,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251219021900 +0800" stop="20251219030400 +0800">
 		<title lang="zh">44_地雷战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251219030400 +0800" stop="20251219035000 +0800">
+		<title lang="zh">45_地雷战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51912,6 +51924,9 @@
 	<programme channel="newtv军旅剧场" start="20251219022700 +0800" stop="20251219031300 +0800">
 		<title lang="zh">38_东江英雄刘黑仔</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251219031300 +0800" stop="20251219035900 +0800">
+		<title lang="zh">39_东江英雄刘黑仔</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51927,6 +51942,9 @@
 	<programme channel="newtv家庭剧场" start="20251219022400 +0800" stop="20251219031100 +0800">
 		<title lang="zh">11_亲爱的仇敌</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251219031100 +0800" stop="20251219041200 +0800">
+		<title lang="zh">12_亲爱的仇敌</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51938,6 +51956,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251219022400 +0800" stop="20251219025400 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251219025400 +0800" stop="20251219034100 +0800">
+		<title lang="zh">53_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -51968,6 +51989,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251219020900 +0800" stop="20251219031300 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251219031300 +0800" stop="20251219045300 +0800">
+		<title lang="zh">零点定理</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52026,6 +52050,12 @@
 	<programme channel="newtv军事评论" start="20251219022800 +0800" stop="20251219025000 +0800">
 		<title lang="zh">冀南抗战 第三集 兵民是胜利之本</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251219025000 +0800" stop="20251219031200 +0800">
+		<title lang="zh">冀南抗战 第四集 模范抗日根据地</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251219031200 +0800" stop="20251219033400 +0800">
+		<title lang="zh">冀南抗战 第五集 从胜利走向胜利</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52040,6 +52070,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251219021500 +0800" stop="20251219025300 +0800">
 		<title lang="zh">管控血压你做对了吗（上）（20241016）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251219025300 +0800" stop="20251219033000 +0800">
+		<title lang="zh">管控血压你做对了吗（下）（20241017）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
