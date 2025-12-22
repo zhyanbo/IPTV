@@ -51702,6 +51702,9 @@
 	<programme channel="newtv超级电视剧" start="20251223035600 +0800" stop="20251223043500 +0800">
 		<title lang="zh">20_证词</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251223043500 +0800" stop="20251223051500 +0800">
+		<title lang="zh">21_证词</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51722,6 +51725,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251223034100 +0800" stop="20251223042700 +0800">
 		<title lang="zh">16_非常有喜</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251223042700 +0800" stop="20251223051300 +0800">
+		<title lang="zh">17_非常有喜</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51768,6 +51774,9 @@
 	<programme channel="newtv古装剧场" start="20251223034400 +0800" stop="20251223042900 +0800">
 		<title lang="zh">63_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251223042900 +0800" stop="20251223051400 +0800">
+		<title lang="zh">64_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51789,6 +51798,9 @@
 	<programme channel="newtv军旅剧场" start="20251223034600 +0800" stop="20251223042800 +0800">
 		<title lang="zh">10_北国英雄</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251223042800 +0800" stop="20251223051100 +0800">
+		<title lang="zh">11_北国英雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51809,6 +51821,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251223034200 +0800" stop="20251223042800 +0800">
 		<title lang="zh">33_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251223042800 +0800" stop="20251223051500 +0800">
+		<title lang="zh">34_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51845,6 +51860,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251223033800 +0800" stop="20251223043100 +0800">
 		<title lang="zh">52_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251223043100 +0800" stop="20251223052100 +0800">
+		<title lang="zh">53_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51912,6 +51930,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251223040700 +0800" stop="20251223044400 +0800">
 		<title lang="zh">让你的关节暖起来（下）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251223044400 +0800" stop="20251223052700 +0800">
+		<title lang="zh">19_岁岁青莲</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51933,6 +51954,9 @@
 	<programme channel="newtv军事评论" start="20251223033800 +0800" stop="20251223043200 +0800">
 		<title lang="zh">血与火：第一次世界大战启示录 ⑥ 一场改变世界的战争</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251223043200 +0800" stop="20251223052300 +0800">
+		<title lang="zh">蛟龙出海 第1集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51953,6 +51977,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251223040300 +0800" stop="20251223042500 +0800">
 		<title lang="zh">健身舞—亚丽古娜（20210420）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251223042500 +0800" stop="20251223044600 +0800">
+		<title lang="zh">健身舞—我们都是追梦人（20210221）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251223044600 +0800" stop="20251223053600 +0800">
+		<title lang="zh">第七集：吉林</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
