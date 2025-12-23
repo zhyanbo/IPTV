@@ -60441,6 +60441,9 @@
 	<programme channel="newtv超级电影" start="20251223205700 +0800" stop="20251223222200 +0800">
 		<title lang="zh">电影《一个人的突围》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251223222200 +0800" stop="20251223001200 +0800">
+		<title lang="zh">电影《心迷宫》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60641,6 +60644,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251223220700 +0800" stop="20251223223700 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251223223700 +0800" stop="20251223231800 +0800">
+		<title lang="zh">03_乐游原</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60960,6 +60966,9 @@
 	<programme channel="newtv军旅剧场" start="20251223214100 +0800" stop="20251223222600 +0800">
 		<title lang="zh">45_瞄准</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251223222600 +0800" stop="20251223225600 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61065,6 +61074,9 @@
 	<programme channel="newtv家庭剧场" start="20251223220500 +0800" stop="20251223223500 +0800">
 		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251223223500 +0800" stop="20251223232100 +0800">
+		<title lang="zh">32_生活就是家</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61167,6 +61179,9 @@
 	<programme channel="newtv热播精选" start="20251223220600 +0800" stop="20251223223600 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251223223600 +0800" stop="20251223000800 +0800">
+		<title lang="zh">半熟恋人第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61257,6 +61272,9 @@
 	<programme channel="newtv爱情喜剧" start="20251223221200 +0800" stop="20251223224200 +0800">
 		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251223224200 +0800" stop="20251223232800 +0800">
+		<title lang="zh">46_扶摇</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61325,6 +61343,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251223211000 +0800" stop="20251223223900 +0800">
 		<title lang="zh">扎职2：江湖陌路</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251223223900 +0800" stop="20251223230900 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61656,6 +61677,9 @@
 	<programme channel="newtv军事评论" start="20251223221500 +0800" stop="20251223224200 +0800">
 		<title lang="zh">“出圈”的歼-10CE</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251223224200 +0800" stop="20251223230900 +0800">
+		<title lang="zh">明星装备 硬核出海</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61767,6 +61791,9 @@
 	<programme channel="newtv炫舞未来" start="20251223220400 +0800" stop="20251223222600 +0800">
 		<title lang="zh">健身舞《舞动新春》（20240212）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251223222600 +0800" stop="20251223224700 +0800">
+		<title lang="zh">健身舞《新年快乐》（20240219）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61872,6 +61899,9 @@
 	<programme channel="newtv精品综合" start="20251223215600 +0800" stop="20251223222600 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251223222600 +0800" stop="20251223001600 +0800">
+		<title lang="zh">对抗</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61940,6 +61970,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251223215100 +0800" stop="20251223222100 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251223222100 +0800" stop="20251223233400 +0800">
+		<title lang="zh">长安异闻录</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -62057,6 +62090,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251223213900 +0800" stop="20251223222500 +0800">
 		<title lang="zh">32_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251223222500 +0800" stop="20251223225500 +0800">
+		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -62231,6 +62267,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251223214300 +0800" stop="20251223222800 +0800">
 		<title lang="zh">13_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251223222800 +0800" stop="20251223225800 +0800">
+		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
