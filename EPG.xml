@@ -54540,6 +54540,9 @@
 	<programme channel="newtv超级综艺" start="20251229212300 +0800" stop="20251229223300 +0800">
 		<title lang="zh">沧海运河谣</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251229223300 +0800" stop="20251229231900 +0800">
+		<title lang="zh">21_照亮你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -54846,6 +54849,9 @@
 	<programme channel="newtv精品大剧" start="20251229213600 +0800" stop="20251229222900 +0800">
 		<title lang="zh">18_乐游原</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251229222900 +0800" stop="20251229225900 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -55059,6 +55065,9 @@
 	<programme channel="newtv古装剧场" start="20251229214300 +0800" stop="20251229222900 +0800">
 		<title lang="zh">25_清平乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251229222900 +0800" stop="20251229225900 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -55164,6 +55173,9 @@
 	<programme channel="newtv军旅剧场" start="20251229214500 +0800" stop="20251229223000 +0800">
 		<title lang="zh">09_皮b7影</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251229223000 +0800" stop="20251229230000 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -55268,6 +55280,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251229213400 +0800" stop="20251229222000 +0800">
 		<title lang="zh">06_外乡人</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251229222000 +0800" stop="20251229225000 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -55461,6 +55476,9 @@
 	<programme channel="newtv爱情喜剧" start="20251229213600 +0800" stop="20251229222100 +0800">
 		<title lang="zh">66_扶摇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251229222100 +0800" stop="20251229225100 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -55529,6 +55547,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251229214800 +0800" stop="20251229221800 +0800">
 		<title lang="zh">《美丽飞扬》第六期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251229221800 +0800" stop="20251229002100 +0800">
+		<title lang="zh">冒牌大哥</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -55640,6 +55661,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251229213700 +0800" stop="20251229222300 +0800">
 		<title lang="zh">北京睿翼精英vs四川蓉城-第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251229222300 +0800" stop="20251229225300 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -55989,6 +56013,9 @@
 	<programme channel="newtv炫舞未来" start="20251229221200 +0800" stop="20251229221900 +0800">
 		<title lang="zh">广场舞《点亮梦的翅膀》-乌兰图雅、王广成</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251229222500 +0800" stop="20251229223200 +0800">
+		<title lang="zh">广场舞《恼人的秋风》-乌兰图雅、王广成</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -56165,6 +56192,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251229211000 +0800" stop="20251229222100 +0800">
 		<title lang="zh">蟒山</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251229222100 +0800" stop="20251229225100 +0800">
+		<title lang="zh">《美丽飞扬》第六期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -56465,6 +56495,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251229214000 +0800" stop="20251229222500 +0800">
 		<title lang="zh">37_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251229222500 +0800" stop="20251229225500 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
