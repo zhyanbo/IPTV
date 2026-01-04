@@ -38139,6 +38139,9 @@
 	<programme channel="纯享4K" start="20260105004100 +0800" stop="20260105010900 +0800">
 		<title lang="zh">记住乡愁——门楣之上4K 上庄王氏——正己修身 君子之风</title>
 	</programme>
+	<programme channel="纯享4K" start="20260105010900 +0800" stop="20260105013900 +0800">
+		<title lang="zh">味道4K 原味乡间b7建德篇（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47028,6 +47031,9 @@
 	<programme channel="newtv超级综艺" start="20260105001000 +0800" stop="20260105005600 +0800">
 		<title lang="zh">14_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260105005600 +0800" stop="20260105014200 +0800">
+		<title lang="zh">15_你比星光美丽</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47079,11 +47085,17 @@
 	<programme channel="newtv超级电视剧" start="20260105001000 +0800" stop="20260105005600 +0800">
 		<title lang="zh">37_长大</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260105005600 +0800" stop="20260105014000 +0800">
+		<title lang="zh">38_长大</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
 	<programme channel="newtv精品大剧" start="20260105003200 +0800" stop="20260105010700 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260105010700 +0800" stop="20260105015100 +0800">
+		<title lang="zh">20_好妻子</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47100,11 +47112,17 @@
 	<programme channel="newtv古装剧场" start="20260105001500 +0800" stop="20260105005000 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260105005000 +0800" stop="20260105013600 +0800">
+		<title lang="zh">27_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
 	<programme channel="newtv军旅剧场" start="20260105001300 +0800" stop="20260105004800 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260105004800 +0800" stop="20260105013400 +0800">
+		<title lang="zh">22_天狼星行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47112,17 +47130,26 @@
 	<programme channel="newtv家庭剧场" start="20260105002300 +0800" stop="20260105005800 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260105005800 +0800" stop="20260105014600 +0800">
+		<title lang="zh">15_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20260105003100 +0800" stop="20260105010600 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260105010600 +0800" stop="20260105015200 +0800">
+		<title lang="zh">03_承欢记</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20260105002400 +0800" stop="20260105010600 +0800">
 		<title lang="zh">驼大大有机纯骆驼乳粉升级礼盒组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260105010600 +0800" stop="20260105024100 +0800">
+		<title lang="zh">火影忍者剧场版：博人传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -47151,6 +47178,9 @@
 	<programme channel="newtv军事评论" start="20260105002100 +0800" stop="20260105010600 +0800">
 		<title lang="zh">战歌嘹亮 第1集 救亡悲歌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260105010600 +0800" stop="20260105015300 +0800">
+		<title lang="zh">战歌嘹亮 第2集 抗战壮歌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47163,6 +47193,9 @@
 	<programme channel="newtv精品综合" start="20260105003000 +0800" stop="20260105010500 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260105010500 +0800" stop="20260105025200 +0800">
+		<title lang="zh">警察故事2013</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47174,6 +47207,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260105002100 +0800" stop="20260105005600 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260105005600 +0800" stop="20260105014100 +0800">
+		<title lang="zh">15_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -47225,6 +47261,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20260105001400 +0800" stop="20260105004900 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260105004900 +0800" stop="20260105021000 +0800">
+		<title lang="zh">魁拔之幽弥狂</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
