@@ -17910,6 +17910,12 @@
 	<programme channel="咪咕足球" start="20260106120500 +0800" stop="20260106134000 +0800">
 		<title lang="zh">我爱女篮-25/26WCBA常规赛 第2轮 陕西榆林天泽-浙江稠州银行</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260106134000 +0800" stop="20260106135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260106135000 +0800" stop="20260106141000 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -47892,6 +47898,9 @@
 	<programme channel="纯享4K" start="20260106130800 +0800" stop="20260106133300 +0800">
 		<title lang="zh">辣椒的征途4K 第2集 谁是辣中霸主</title>
 	</programme>
+	<programme channel="纯享4K" start="20260106133300 +0800" stop="20260106142200 +0800">
+		<title lang="zh">世界遗产漫步 中国南方喀斯特 第2集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59091,6 +59100,9 @@
 	<programme channel="黑莓电影" start="20260106122300 +0800" stop="20260106135200 +0800">
 		<title lang="zh">古剑飘渺录</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260106135200 +0800" stop="20260106152500 +0800">
+		<title lang="zh">斗破苍穹b7觉醒</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59829,6 +59841,9 @@
 	<programme channel="newtv超级综艺" start="20260106114200 +0800" stop="20260106133100 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260106133100 +0800" stop="20260106163200 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59964,6 +59979,9 @@
 	<programme channel="newtv超级电视剧" start="20260106125000 +0800" stop="20260106133600 +0800">
 		<title lang="zh">07_承欢记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260106133600 +0800" stop="20260106142100 +0800">
+		<title lang="zh">08_承欢记</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60024,6 +60042,9 @@
 	<programme channel="newtv精品大剧" start="20260106125500 +0800" stop="20260106134000 +0800">
 		<title lang="zh">28_爱的理想生活[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260106134000 +0800" stop="20260106141500 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60080,6 +60101,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260106125600 +0800" stop="20260106134000 +0800">
 		<title lang="zh">20_铁血淞沪</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260106134000 +0800" stop="20260106141500 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60138,6 +60162,9 @@
 	<programme channel="newtv古装剧场" start="20260106130600 +0800" stop="20260106135400 +0800">
 		<title lang="zh">32_折腰</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260106135400 +0800" stop="20260106143400 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60194,6 +60221,12 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260106123200 +0800" stop="20260106131700 +0800">
 		<title lang="zh">20_猎狼刀</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260106131700 +0800" stop="20260106135200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260106135200 +0800" stop="20260106143800 +0800">
+		<title lang="zh">21_猎狼刀</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60255,6 +60288,9 @@
 	<programme channel="newtv家庭剧场" start="20260106131500 +0800" stop="20260106135000 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260106135000 +0800" stop="20260106143600 +0800">
+		<title lang="zh">12_非常有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60315,6 +60351,9 @@
 	<programme channel="newtv热播精选" start="20260106130200 +0800" stop="20260106134700 +0800">
 		<title lang="zh">26_人间终有暖情在</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260106134700 +0800" stop="20260106142200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60365,6 +60404,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260106130200 +0800" stop="20260106133700 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260106133700 +0800" stop="20260106142300 +0800">
+		<title lang="zh">33_幸福来敲门</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60471,6 +60513,12 @@
 	<programme channel="newtv怡伴健康" start="20260106123300 +0800" stop="20260106131800 +0800">
 		<title lang="zh">01_婆婆来了</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260106131800 +0800" stop="20260106135900 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260106135900 +0800" stop="20260106162000 +0800">
+		<title lang="zh">琼剧《状元桥》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60527,6 +60575,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260106125200 +0800" stop="20260106133700 +0800">
 		<title lang="zh">36_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260106133700 +0800" stop="20260106141200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60626,6 +60677,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260106125000 +0800" stop="20260106131600 +0800">
 		<title lang="zh">战地飘香</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260106131600 +0800" stop="20260106134300 +0800">
+		<title lang="zh">保障有术</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260106134300 +0800" stop="20260106140900 +0800">
+		<title lang="zh">无人尖兵</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60759,6 +60816,9 @@
 	<programme channel="newtv精品综合" start="20260106131100 +0800" stop="20260106134600 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260106134600 +0800" stop="20260106141000 +0800">
+		<title lang="zh">18_樱桃小丸子 第二季普通话版</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -60797,6 +60857,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260106122100 +0800" stop="20260106134000 +0800">
 		<title lang="zh">古董局中局之国画密码</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260106134000 +0800" stop="20260106141500 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -60863,6 +60926,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260106125800 +0800" stop="20260106134400 +0800">
 		<title lang="zh">24_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260106134400 +0800" stop="20260106141900 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -60977,6 +61043,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260106122200 +0800" stop="20260106133400 +0800">
 		<title lang="zh">破局锦衣卫</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260106133400 +0800" stop="20260106140900 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
