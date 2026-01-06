@@ -17862,6 +17862,9 @@
 	<programme channel="咪咕综合体育" start="20260106174000 +0800" stop="20260106192000 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第18轮 卡利亚里-AC米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260106192000 +0800" stop="20260106193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17945,6 +17948,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260106183500 +0800" stop="20260106185000 +0800">
 		<title lang="zh">睛彩圈圈点第二十四期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260106190000 +0800" stop="20260106192500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十二期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -47922,6 +47928,9 @@
 	<programme channel="纯享4K" start="20260106181300 +0800" stop="20260106185300 +0800">
 		<title lang="zh">探索b7发现4K 探秘晋端王陵园遗址（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20260106185300 +0800" stop="20260106193300 +0800">
+		<title lang="zh">探索b7发现4K 探秘晋端王陵园遗址（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59082,6 +59091,9 @@
 	<programme channel="黑莓电影" start="20260106171000 +0800" stop="20260106185600 +0800">
 		<title lang="zh">解救吾先生</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260106185600 +0800" stop="20260106210300 +0800">
+		<title lang="zh">红毯先生</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59874,6 +59886,9 @@
 	<programme channel="newtv超级体育" start="20260106183000 +0800" stop="20260106190000 +0800">
 		<title lang="zh">2025/2026法国足球甲级联赛- 第17轮集锦</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260106190000 +0800" stop="20260106200000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季自由式滑雪世界杯 加拿大卡尔加里站 U型场地</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59997,6 +60012,9 @@
 	<programme channel="newtv超级电视剧" start="20260106180400 +0800" stop="20260106184800 +0800">
 		<title lang="zh">10_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260106184800 +0800" stop="20260106193300 +0800">
+		<title lang="zh">13_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60081,6 +60099,9 @@
 	<programme channel="newtv精品大剧" start="20260106182800 +0800" stop="20260106191400 +0800">
 		<title lang="zh">23_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260106191400 +0800" stop="20260106195500 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60162,6 +60183,9 @@
 	<programme channel="newtv精品纪录" start="20260106182600 +0800" stop="20260106191000 +0800">
 		<title lang="zh">24_铁血淞沪</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260106191000 +0800" stop="20260106195400 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60239,6 +60263,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260106181600 +0800" stop="20260106190400 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260106190400 +0800" stop="20260106195000 +0800">
+		<title lang="zh">29_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60320,6 +60347,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260106181700 +0800" stop="20260106190100 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260106190100 +0800" stop="20260106194600 +0800">
+		<title lang="zh">34_尖锋之烈焰青春</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60558,6 +60588,9 @@
 	<programme channel="newtv爱情喜剧" start="20260106181400 +0800" stop="20260106190200 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260106190200 +0800" stop="20260106194900 +0800">
+		<title lang="zh">01_长相思 第二季</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60696,6 +60729,9 @@
 	<programme channel="newtv怡伴健康" start="20260106182000 +0800" stop="20260106185900 +0800">
 		<title lang="zh">中药搭子巧养生 2</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260106185900 +0800" stop="20260106194700 +0800">
+		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60773,6 +60809,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260106180400 +0800" stop="20260106184900 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260106184900 +0800" stop="20260106193200 +0800">
+		<title lang="zh">10_爱的阶梯</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60911,6 +60950,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260106183600 +0800" stop="20260106190300 +0800">
 		<title lang="zh">透过054B观全球现役护卫舰发展</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260106190300 +0800" stop="20260106193000 +0800">
+		<title lang="zh">海平面之下的分层较量</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -61097,6 +61139,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260106181300 +0800" stop="20260106190100 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260106190100 +0800" stop="20260106194500 +0800">
+		<title lang="zh">07_余生有涯</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -61391,6 +61436,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260106182200 +0800" stop="20260106191000 +0800">
 		<title lang="zh">11_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260106191000 +0800" stop="20260106195500 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
