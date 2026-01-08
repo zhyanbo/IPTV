@@ -31878,6 +31878,9 @@
 	<programme channel="纯享4K" start="20260109034300 +0800" stop="20260109042400 +0800">
 		<title lang="zh">远方的家4K 我家那片海 阳光海南 椰风海韵</title>
 	</programme>
+	<programme channel="纯享4K" start="20260109042400 +0800" stop="20260109050600 +0800">
+		<title lang="zh">远方的家4K 我家那片海 寻味山海间</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -39732,6 +39735,9 @@
 	<programme channel="黑莓动画" start="20260109030900 +0800" stop="20260109043000 +0800">
 		<title lang="zh">神奇乐园历险记（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260109043000 +0800" stop="20260109054800 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40410,6 +40416,9 @@
 	<programme channel="newtv超级综艺" start="20260109035300 +0800" stop="20260109044000 +0800">
 		<title lang="zh">03_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260109044000 +0800" stop="20260109052700 +0800">
+		<title lang="zh">04_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40437,6 +40446,9 @@
 	<programme channel="newtv超级电影" start="20260109033000 +0800" stop="20260109044100 +0800">
 		<title lang="zh">封神榜：托塔天王</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260109044100 +0800" stop="20260109061400 +0800">
+		<title lang="zh">变体</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -40460,6 +40472,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260109034200 +0800" stop="20260109042700 +0800">
 		<title lang="zh">34_那座城这家人（DVD版）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260109042700 +0800" stop="20260109051300 +0800">
+		<title lang="zh">35_那座城这家人（DVD版）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -40605,6 +40620,9 @@
 	<programme channel="newtv爱情喜剧" start="20260109033800 +0800" stop="20260109042400 +0800">
 		<title lang="zh">28_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260109042400 +0800" stop="20260109050900 +0800">
+		<title lang="zh">29_你比星光美丽</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -40661,6 +40679,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260109034600 +0800" stop="20260109042300 +0800">
 		<title lang="zh">姿势不当藏隐患</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260109042300 +0800" stop="20260109050800 +0800">
+		<title lang="zh">51_大秦赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
