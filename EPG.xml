@@ -12846,6 +12846,9 @@
 	<programme channel="咪咕足球" start="20260110021000 +0800" stop="20260110035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第18轮 合肥狂风峻茂-江西鲸裕清酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260110035000 +0800" stop="20260110040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -31257,6 +31260,9 @@
 	<programme channel="纯享4K" start="20260110024000 +0800" stop="20260110032000 +0800">
 		<title lang="zh">探索b7发现4K 军都山山戎墓地（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110032000 +0800" stop="20260110033500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 铜版画b7马球运动员</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40242,6 +40248,12 @@
 	<programme channel="newtv超级电视剧" start="20260110025500 +0800" stop="20260110033700 +0800">
 		<title lang="zh">28_飞狐外传（4K）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260110033700 +0800" stop="20260110034100 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260110034100 +0800" stop="20260110042700 +0800">
+		<title lang="zh">38_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40289,6 +40301,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260110024300 +0800" stop="20260110032800 +0800">
 		<title lang="zh">08_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260110032800 +0800" stop="20260110041400 +0800">
+		<title lang="zh">09_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -40455,6 +40470,9 @@
 	<programme channel="newtv炫舞未来" start="20260110031300 +0800" stop="20260110031800 +0800">
 		<title lang="zh">广场舞《乌兰牧骑之恋》-乌兰图雅、王广成</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260110031800 +0800" stop="20260110053700 +0800">
+		<title lang="zh">评剧《五女拜寿》 表演：剧文林 王馨苹</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40466,6 +40484,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260110015200 +0800" stop="20260110032700 +0800">
 		<title lang="zh">九纹龙史进之替天行道</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260110032700 +0800" stop="20260110042800 +0800">
+		<title lang="zh">现在就出发第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -40496,6 +40517,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260110025100 +0800" stop="20260110033600 +0800">
 		<title lang="zh">03_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260110033600 +0800" stop="20260110042200 +0800">
+		<title lang="zh">04_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260110025100 +0800" stop="20260110033600 +0800">
+		<title lang="zh">03_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260110033600 +0800" stop="20260110042200 +0800">
+		<title lang="zh">04_画眉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
