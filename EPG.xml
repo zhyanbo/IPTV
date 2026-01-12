@@ -9928,7 +9928,7 @@
 		<title lang="zh">50集连续剧：猎毒人（45）</title>
 	</programme>
 	<programme channel="上海新闻综合" start="20260112011300 +0800" stop="20260112015000 +0800">
-		<title lang="zh">28集连续剧：微暗之火（24）不对外，备播垫片，当天早新闻后即可删除</title>
+		<title lang="zh">28集连续剧：微暗之火（24）</title>
 	</programme>
 	<programme channel="上海新闻综合" start="20260112015000 +0800" stop="20260112021500 +0800">
 		<title lang="zh">寻味（255）“四方百味汇魔都”第四集　瓯鲜赴沪</title>
@@ -22416,6 +22416,9 @@
 	<programme channel="咪咕综合体育" start="20260112170500 +0800" stop="20260112184500 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第17轮 巴黎圣日耳曼-巴黎FC</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260112184500 +0800" stop="20260112185000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -22502,6 +22505,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260112181000 +0800" stop="20260112183000 +0800">
 		<title lang="zh">NBA周刊</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260112183000 +0800" stop="20260112183500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260112183500 +0800" stop="20260112185000 +0800">
+		<title lang="zh">睛彩圈圈点第二十五期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -33836,6 +33845,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20260112165800 +0800" stop="20260112181800 +0800">
 		<title lang="zh">鲨卷风：锐利之心</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20260112181800 +0800" stop="20260112190200 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -72600,6 +72612,9 @@
 	<programme channel="newtv超级综艺" start="20260112165300 +0800" stop="20260112182300 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260112182300 +0800" stop="20260112194000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -72659,6 +72674,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260112180000 +0800" stop="20260112183000 +0800">
 		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260112183000 +0800" stop="20260112193000 +0800">
+		<title lang="zh">天下足球</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -72782,6 +72800,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260112180400 +0800" stop="20260112184700 +0800">
 		<title lang="zh">34_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260112184700 +0800" stop="20260112193200 +0800">
+		<title lang="zh">33_珠江人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73106,6 +73127,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260112174100 +0800" stop="20260112183100 +0800">
 		<title lang="zh">美国进口FeiGRS磷脂酰丝氨酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260112183100 +0800" stop="20260112191700 +0800">
+		<title lang="zh">02_寒冬</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -73773,6 +73797,9 @@
 	<programme channel="newtv炫舞未来" start="20260112180000 +0800" stop="20260112183000 +0800">
 		<title lang="zh">中了前夫的圈套4</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260112183000 +0800" stop="20260112190000 +0800">
+		<title lang="zh">健康生活-鱼油</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -73905,6 +73932,9 @@
 	<programme channel="newtv惊悚悬疑" start="20260112165800 +0800" stop="20260112181800 +0800">
 		<title lang="zh">鲨卷风：锐利之心</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260112181800 +0800" stop="20260112190200 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -73985,6 +74015,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260112175400 +0800" stop="20260112182900 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260112182900 +0800" stop="20260112191500 +0800">
+		<title lang="zh">40_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
