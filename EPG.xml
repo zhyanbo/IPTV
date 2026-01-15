@@ -13050,6 +13050,9 @@
 	<programme channel="咪咕综合体育" start="20260116004000 +0800" stop="20260116030500 +0800">
 		<title lang="zh">UFC第322期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260116031500 +0800" stop="20260116060000 +0800">
+		<title lang="zh">足球世界-25/26赛季意甲 第16轮 科莫-AC米兰 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41211,6 +41214,9 @@
 	<programme channel="newtv精品纪录" start="20260116022300 +0800" stop="20260116031000 +0800">
 		<title lang="zh">24_大刀向鬼子们的头上砍去</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260116031000 +0800" stop="20260116035700 +0800">
+		<title lang="zh">25_大刀向鬼子们的头上砍去</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -41244,6 +41250,9 @@
 	<programme channel="newtv军旅剧场" start="20260116021400 +0800" stop="20260116030200 +0800">
 		<title lang="zh">28_利刃出击</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260116030200 +0800" stop="20260116034400 +0800">
+		<title lang="zh">29_利刃出击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -41258,6 +41267,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260116022200 +0800" stop="20260116030800 +0800">
 		<title lang="zh">15_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260116030800 +0800" stop="20260116035300 +0800">
+		<title lang="zh">16_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
