@@ -14556,6 +14556,9 @@
 	<programme channel="咪咕足球" start="20260117211500 +0800" stop="20260117221500 +0800">
 		<title lang="zh">最后之舞03</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260117221500 +0800" stop="20260117222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49746,6 +49749,9 @@
 	<programme channel="newtv超级电视剧" start="20260117211900 +0800" stop="20260117220400 +0800">
 		<title lang="zh">15_新边城浪子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260117220400 +0800" stop="20260117224900 +0800">
+		<title lang="zh">16_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49838,6 +49844,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260117212000 +0800" stop="20260117220300 +0800">
 		<title lang="zh">21_无尽的尽头</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260117220300 +0800" stop="20260117224600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49935,6 +49944,9 @@
 	<programme channel="newtv精品纪录" start="20260117212300 +0800" stop="20260117220500 +0800">
 		<title lang="zh">10_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260117220500 +0800" stop="20260117224600 +0800">
+		<title lang="zh">11_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50027,6 +50039,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260117211100 +0800" stop="20260117215100 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260117215100 +0800" stop="20260117223800 +0800">
+		<title lang="zh">21_嫣语赋</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -50220,6 +50235,9 @@
 	<programme channel="newtv家庭剧场" start="20260117212000 +0800" stop="20260117215800 +0800">
 		<title lang="zh">12_闪耀的她</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260117215800 +0800" stop="20260117223300 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50315,6 +50333,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260117211700 +0800" stop="20260117215200 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260117215200 +0800" stop="20260117223800 +0800">
+		<title lang="zh">20_淬火丹心</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50571,6 +50592,9 @@
 	<programme channel="newtv怡伴健康" start="20260117210600 +0800" stop="20260117215300 +0800">
 		<title lang="zh">北京龙腾时代vs江西赣然无惧-第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260117215300 +0800" stop="20260117223900 +0800">
+		<title lang="zh">北京龙腾时代vs江西赣然无惧-第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -50657,6 +50681,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260117211300 +0800" stop="20260117215000 +0800">
 		<title lang="zh">53_爱的阶梯</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260117215000 +0800" stop="20260117223100 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -50786,6 +50813,12 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260117212100 +0800" stop="20260117214700 +0800">
 		<title lang="zh">【防务新观察】俄称发现乌军化学战剂藏匿点</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260117214700 +0800" stop="20260117221200 +0800">
+		<title lang="zh">【防务新观察】高市政府谋求打造远程打击体系</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260117221200 +0800" stop="20260117223400 +0800">
+		<title lang="zh">谁是军营厨王（44）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50993,6 +51026,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260117212400 +0800" stop="20260117220900 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260117220900 +0800" stop="20260117225000 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
