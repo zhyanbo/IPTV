@@ -13044,6 +13044,9 @@
 	<programme channel="咪咕综合体育" start="20260121000000 +0800" stop="20260121014000 +0800">
 		<title lang="zh">足球世界-2026U23亚洲杯 半决赛 越南U23-中国U23 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260121014500 +0800" stop="20260121035500 +0800">
+		<title lang="zh">UFC323期主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -13052,6 +13055,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260121013100 +0800" stop="20260121014000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260121014000 +0800" stop="20260121020000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260121021000 +0800" stop="20260121035000 +0800">
+		<title lang="zh">2025NBL联赛 常规赛第8轮 盐南苏科雄狮-广西威壮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -31983,6 +31992,9 @@
 	<programme channel="纯享4K" start="20260121010600 +0800" stop="20260121013600 +0800">
 		<title lang="zh">味道4K 原味乡间b7兴国篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20260121013600 +0800" stop="20260121020500 +0800">
+		<title lang="zh">味道4K 原味乡间b7丹寨篇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40038,6 +40050,9 @@
 	<programme channel="黑莓电影" start="20260121000700 +0800" stop="20260121013400 +0800">
 		<title lang="zh">宗师</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260121013400 +0800" stop="20260121032200 +0800">
+		<title lang="zh">夏雨来</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40710,6 +40725,9 @@
 	<programme channel="newtv超级综艺" start="20260121010400 +0800" stop="20260121014000 +0800">
 		<title lang="zh">34_陪你逐风飞翔</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260121014000 +0800" stop="20260121021400 +0800">
+		<title lang="zh">35_陪你逐风飞翔</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40733,6 +40751,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260121012500 +0800" stop="20260121020700 +0800">
 		<title lang="zh">06_小别离</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260121020700 +0800" stop="20260121024900 +0800">
+		<title lang="zh">07_小别离</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -40769,6 +40790,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260121010600 +0800" stop="20260121014100 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260121014100 +0800" stop="20260121022700 +0800">
+		<title lang="zh">02_武工队传奇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -40839,6 +40863,9 @@
 	<programme channel="newtv军事评论" start="20260121011400 +0800" stop="20260121013500 +0800">
 		<title lang="zh">二战经典战例b7登陆战（中）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260121013500 +0800" stop="20260121015700 +0800">
+		<title lang="zh">二战经典战例b7登陆战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -40847,6 +40874,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260121012400 +0800" stop="20260121014500 +0800">
 		<title lang="zh">膝关节伸展（20240319）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260121014500 +0800" stop="20260121020700 +0800">
+		<title lang="zh">普拉提训练（20240318）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -40877,6 +40907,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260121005800 +0800" stop="20260121014100 +0800">
 		<title lang="zh">19_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260121014100 +0800" stop="20260121021600 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -40931,6 +40964,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260121003200 +0800" stop="20260121013600 +0800">
 		<title lang="zh">无名客栈之麒麟觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260121013600 +0800" stop="20260121021900 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
