@@ -41067,6 +41067,9 @@
 	<programme channel="newtv精品纪录" start="20260121035300 +0800" stop="20260121043900 +0800">
 		<title lang="zh">24_东江英雄刘黑仔</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260121043900 +0800" stop="20260121052400 +0800">
+		<title lang="zh">25_东江英雄刘黑仔</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -41087,6 +41090,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260121035700 +0800" stop="20260121044300 +0800">
 		<title lang="zh">54_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260121044300 +0800" stop="20260121052800 +0800">
+		<title lang="zh">33_似锦</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -41109,6 +41115,9 @@
 	<programme channel="newtv军旅剧场" start="20260121035800 +0800" stop="20260121044300 +0800">
 		<title lang="zh">13_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260121044300 +0800" stop="20260121052800 +0800">
+		<title lang="zh">14_女人的抗战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -41123,6 +41132,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260121033800 +0800" stop="20260121042300 +0800">
 		<title lang="zh">32_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260121042300 +0800" stop="20260121050900 +0800">
+		<title lang="zh">31_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -41178,6 +41190,9 @@
 	<programme channel="newtv动作电影" start="20260121032400 +0800" stop="20260121044600 +0800">
 		<title lang="zh">兰若行者</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260121044600 +0800" stop="20260121061300 +0800">
+		<title lang="zh">狂怒之阿登战役</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -41223,6 +41238,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260121040600 +0800" stop="20260121044400 +0800">
 		<title lang="zh">说文解字话节气b7立春</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260121044400 +0800" stop="20260121053100 +0800">
+		<title lang="zh">21_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -41249,6 +41267,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260121035200 +0800" stop="20260121044100 +0800">
 		<title lang="zh">胜利的回响 第8集 暗战无声</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260121044100 +0800" stop="20260121053000 +0800">
+		<title lang="zh">胜利的回响 第9集 跨越山海</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -41340,6 +41361,9 @@
 	<programme channel="newtv金牌综艺" start="20260121034300 +0800" stop="20260121042700 +0800">
 		<title lang="zh">22_黎明决战</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260121042700 +0800" stop="20260121051000 +0800">
+		<title lang="zh">23_黎明决战</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -41348,6 +41372,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20260121023100 +0800" stop="20260121041800 +0800">
 		<title lang="zh">2025-26赛季西甲联赛第7轮：马竞VS皇马</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260121041800 +0800" stop="20260121061000 +0800">
+		<title lang="zh">2025-26赛季英超联赛第6轮：水晶宫VS利物浦</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -41405,6 +41432,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260121033400 +0800" stop="20260121043500 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260121043500 +0800" stop="20260121050500 +0800">
+		<title lang="zh">超次中量级12回合赛：康韦尔VS佩雷斯</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
