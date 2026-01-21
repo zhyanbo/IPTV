@@ -7845,6 +7845,69 @@
 	<programme channel="云南影视" start="20260122221800 +0800" stop="20260122235900 +0800">
 		<title lang="zh">天下电影</title>
 	</programme>
+	<channel id="仙游电视">
+		<display-name lang="zh">仙游电视</display-name>
+	</channel>
+	<programme channel="仙游电视" start="20260122105200 +0800" stop="20260122120000 +0800">
+		<title lang="zh">连续剧</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122120000 +0800" stop="20260122121000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122121000 +0800" stop="20260122122500 +0800">
+		<title lang="zh">仙游新闻（重播周二）</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122122500 +0800" stop="20260122123000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122123000 +0800" stop="20260122124500 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122124500 +0800" stop="20260122130000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122130000 +0800" stop="20260122161300 +0800">
+		<title lang="zh">莆仙戏</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122161300 +0800" stop="20260122190000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122190000 +0800" stop="20260122200000 +0800">
+		<title lang="zh">转播莆田一套（含中央新闻、福建新闻）</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122200000 +0800" stop="20260122201000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122201000 +0800" stop="20260122202500 +0800">
+		<title lang="zh">仙游新闻（周四）</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122202500 +0800" stop="20260122203500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122203500 +0800" stop="20260122205000 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122205000 +0800" stop="20260122210000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122210000 +0800" stop="20260122211500 +0800">
+		<title lang="zh">秋生讲古</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122211500 +0800" stop="20260122213000 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122213000 +0800" stop="20260122214500 +0800">
+		<title lang="zh">有味有醋</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122214500 +0800" stop="20260122220000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122220000 +0800" stop="20260122221500 +0800">
+		<title lang="zh">仙游新闻（重播周四）</title>
+	</programme>
+	<programme channel="仙游电视" start="20260122221500 +0800" stop="20260122235900 +0800">
+		<title lang="zh">公益广告、请您欣赏</title>
+	</programme>
 	<channel id="优优宝贝">
 		<display-name lang="zh">优优宝贝</display-name>
 	</channel>
@@ -38859,6 +38922,9 @@
 	<programme channel="纯享4K" start="20260122070100 +0800" stop="20260122071600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 汉画像石 力士图</title>
 	</programme>
+	<programme channel="纯享4K" start="20260122071600 +0800" stop="20260122080600 +0800">
+		<title lang="zh">大地之上4K 第6集 城市与今天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47625,6 +47691,9 @@
 	<programme channel="黑莓电影" start="20260122050000 +0800" stop="20260122070600 +0800">
 		<title lang="zh">分手清单</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260122070600 +0800" stop="20260122083500 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -48396,6 +48465,9 @@
 	<programme channel="newtv超级电影" start="20260122054900 +0800" stop="20260122071600 +0800">
 		<title lang="zh">狼群行动2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260122071600 +0800" stop="20260122084400 +0800">
+		<title lang="zh">噪乐江湖</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48462,6 +48534,9 @@
 	<programme channel="newtv精品大剧" start="20260122061700 +0800" stop="20260122070200 +0800">
 		<title lang="zh">33_守婚如玉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260122070200 +0800" stop="20260122073700 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48491,6 +48566,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260122061700 +0800" stop="20260122070200 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260122070200 +0800" stop="20260122074800 +0800">
+		<title lang="zh">38_武工队传奇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48711,6 +48789,9 @@
 	<programme channel="newtv怡伴健康" start="20260122065900 +0800" stop="20260122071000 +0800">
 		<title lang="zh">跟练版:呼吸管理</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260122071000 +0800" stop="20260122071900 +0800">
+		<title lang="zh">拉伸舒筋:促进循环</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48854,6 +48935,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260122065900 +0800" stop="20260122071200 +0800">
 		<title lang="zh">153_赛尔号合集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260122071200 +0800" stop="20260122074700 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
