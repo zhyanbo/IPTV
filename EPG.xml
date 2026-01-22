@@ -12816,6 +12816,12 @@
 	<programme channel="咪咕足球" start="20260123040000 +0800" stop="20260123050000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛5</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260123050000 +0800" stop="20260123051000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260123051000 +0800" stop="20260123065000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第5轮 新疆天山-江苏南钢</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -40845,6 +40851,9 @@
 	<programme channel="newtv超级电视剧" start="20260123042800 +0800" stop="20260123051300 +0800">
 		<title lang="zh">06_天下正道</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260123051300 +0800" stop="20260123055900 +0800">
+		<title lang="zh">07_天下正道</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40889,6 +40898,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260123040200 +0800" stop="20260123044900 +0800">
 		<title lang="zh">35_东江英雄刘黑仔</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260123044900 +0800" stop="20260123053300 +0800">
+		<title lang="zh">01_雪狼谷</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -40956,6 +40968,9 @@
 	<programme channel="newtv家庭剧场" start="20260123041200 +0800" stop="20260123045800 +0800">
 		<title lang="zh">02_四喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260123045800 +0800" stop="20260123054300 +0800">
+		<title lang="zh">03_四喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -40976,6 +40991,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260123040500 +0800" stop="20260123045200 +0800">
 		<title lang="zh">01_独孤天下</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260123045200 +0800" stop="20260123053600 +0800">
+		<title lang="zh">12_春色寄情人</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -41033,6 +41051,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260123041100 +0800" stop="20260123045900 +0800">
 		<title lang="zh">昆虫的世界</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260123045900 +0800" stop="20260123054700 +0800">
+		<title lang="zh">草原惊魂</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -41174,6 +41195,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260123040800 +0800" stop="20260123045100 +0800">
 		<title lang="zh">03_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260123045100 +0800" stop="20260123053600 +0800">
+		<title lang="zh">01_宿敌</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
