@@ -35589,11 +35589,17 @@
 	<programme channel="newtv超级综艺" start="20260125020600 +0800" stop="20260125025100 +0800">
 		<title lang="zh">21_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260125025100 +0800" stop="20260125033600 +0800">
+		<title lang="zh">22_乔家的儿女</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260125011500 +0800" stop="20260125023800 +0800">
 		<title lang="zh">实况录像-精品赛事记录-2025/2026跳台滑雪世界杯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260125023800 +0800" stop="20260125040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第12轮</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -35619,6 +35625,9 @@
 	<programme channel="newtv超级电视剧" start="20260125020500 +0800" stop="20260125024600 +0800">
 		<title lang="zh">28_小别离</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260125024600 +0800" stop="20260125032800 +0800">
+		<title lang="zh">29_小别离</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -35630,6 +35639,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260125014700 +0800" stop="20260125024200 +0800">
 		<title lang="zh">05_大武当</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260125024200 +0800" stop="20260125033600 +0800">
+		<title lang="zh">06_大武当</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -35724,6 +35736,9 @@
 	<programme channel="newtv动作电影" start="20260125011400 +0800" stop="20260125024100 +0800">
 		<title lang="zh">圆环行动</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260125024100 +0800" stop="20260125032200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -35790,6 +35805,9 @@
 	<programme channel="newtv炫舞未来" start="20260125022900 +0800" stop="20260125023300 +0800">
 		<title lang="zh">[中国节拍]歌曲《美丽新疆》演唱：乌兰图雅_舞蹈：炫健身舞团</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260125023700 +0800" stop="20260125025800 +0800">
+		<title lang="zh">健身舞《舞动新春》（20240212）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -35825,6 +35843,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260125023400 +0800" stop="20260125024000 +0800">
 		<title lang="zh">变通健康推荐1</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260125024000 +0800" stop="20260125032300 +0800">
+		<title lang="zh">11_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
