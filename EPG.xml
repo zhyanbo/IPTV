@@ -11187,6 +11187,9 @@
 	<programme channel="咪咕综合体育" start="20260126003000 +0800" stop="20260126025000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第23轮 阿森纳-曼联 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260126025000 +0800" stop="20260126031500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -29373,6 +29376,9 @@
 	<programme channel="纯享4K" start="20260126020500 +0800" stop="20260126024400 +0800">
 		<title lang="zh">探索b7发现4K 最是一抹中国味（1）爬坡坡上坎坎</title>
 	</programme>
+	<programme channel="纯享4K" start="20260126024400 +0800" stop="20260126032400 +0800">
+		<title lang="zh">探索b7发现4K 最是一抹中国味（2）等一下莫慌嘛</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -35871,6 +35877,9 @@
 	<programme channel="黑莓动画" start="20260126002300 +0800" stop="20260126024500 +0800">
 		<title lang="zh">12_赛尔号合集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260126024500 +0800" stop="20260126062900 +0800">
+		<title lang="zh">01_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -36510,6 +36519,9 @@
 	<programme channel="newtv超级电视剧" start="20260126020800 +0800" stop="20260126025000 +0800">
 		<title lang="zh">33_小别离</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260126025000 +0800" stop="20260126033100 +0800">
+		<title lang="zh">34_小别离</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -36543,6 +36555,9 @@
 	<programme channel="newtv精品纪录" start="20260126023100 +0800" stop="20260126023600 +0800">
 		<title lang="zh">变通健康推荐1</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260126023600 +0800" stop="20260126032100 +0800">
+		<title lang="zh">08_向着胜利前进</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -36575,6 +36590,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260126014400 +0800" stop="20260126023500 +0800">
 		<title lang="zh">22_武工队传奇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260126023500 +0800" stop="20260126032500 +0800">
+		<title lang="zh">23_武工队传奇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -36645,6 +36663,9 @@
 	<programme channel="newtv怡伴健康" start="20260126020000 +0800" stop="20260126024500 +0800">
 		<title lang="zh">17_珠江人家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260126024500 +0800" stop="20260126033000 +0800">
+		<title lang="zh">18_珠江人家</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -36687,6 +36708,9 @@
 	<programme channel="newtv军事评论" start="20260126022100 +0800" stop="20260126024300 +0800">
 		<title lang="zh">太平洋战争b7困站英帕尔</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260126024300 +0800" stop="20260126032900 +0800">
+		<title lang="zh">胜利的回响  英雄壮歌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -36701,6 +36725,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260126020700 +0800" stop="20260126024500 +0800">
 		<title lang="zh">如果器官会说话（1）（20240128）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260126024500 +0800" stop="20260126030600 +0800">
+		<title lang="zh">广场舞《东方之巅》（20220523）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -36758,6 +36785,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20260126005600 +0800" stop="20260126023600 +0800">
 		<title lang="zh">2025-26赛季英超联赛第10轮：诺丁汉森林VS曼联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260126023600 +0800" stop="20260126041600 +0800">
+		<title lang="zh">2025-26赛季法甲联赛第11轮：巴黎圣日耳曼VS尼斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
